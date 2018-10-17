@@ -1,0 +1,21 @@
+###########NULL DETECTION
+
+Openrefine 2.8 doesn't allow null values removing, hence after json export a manual remove shuold be performed: 
+
+null detection: 
+cat .json | grep "null" | sort -u
+
+null removal:
+sed -i -e '/"circumference" : null/d' -e '/"height" : null/d' -e '/"historic" : null/d' -e '/"ref" : null/d' -e '/"species" : null/d' -e '/"survey:date" : "null"/d' AlberiMonumentali-FVG-csv.json
+
+
+##########JON VALIDATION
+if conflation reports error on json valisation, load in geojson.io and wait for popup
+
+if not installed:
+$ sudo npm -g install jsonlint
+$ jsonlint <json file>
+
+
+
+
