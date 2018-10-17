@@ -242,5 +242,109 @@
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column height using expression value.toString()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "height",
+    "expression": "value.toString()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column height using expression value.replace(/\\s+/,' ')",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "height",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column lat using expression grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "lat",
+    "expression": "grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column lon using expression grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "lon",
+    "expression": "grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column lon using expression grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "lon",
+    "expression": "grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column circumference using expression grel:toNumber(value.split(\" \")[0])/100.0",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "circumference",
+    "expression": "grel:toNumber(value.split(\" \")[0])/100.0",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column height using expression grel:replace(value, \",\", \".\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "height",
+    "expression": "grel:replace(value, \",\", \".\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column height using expression grel:toNumber(value.split(\" \")[0])",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "height",
+    "expression": "grel:toNumber(value.split(\" \")[0])",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
   }
 ]

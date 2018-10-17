@@ -1,7 +1,7 @@
 # AlberiMonumentali-RAFVG
 
 ## about
-This repo is about importing Alberi Monumentali (historical trees) in Openstreetmap. Source dataset has been published by italian "Ministero delle politiche agricole alimentari, forestali e del turismo (Mipaaft)".
+This repo is about importing Alberi Monumentali (historical trees) in Openstreetmap. Source dataset has been published by italian "Ministero delle politiche agricole alimentari, forestali e del turismo" (Mipaaft).
 
 ## source data
 National dataset is splitted in regional Excel files which cover the whole italian territory. This repo considers only regional excel file downloadable at Mipaaf page and named "Friuli Venezia Giulia 9.8.2018"

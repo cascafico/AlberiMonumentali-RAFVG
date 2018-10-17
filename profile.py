@@ -34,7 +34,7 @@ bbox = True
 #bbox = [35.28,6.62,47.1,18.79]
 
 # tags to replace on matched OSM objects
-master_tags = ('name','species')
+master_tags = ('historic','ref','name','species','height','circumference')
 
 delete_unmatched = False
 #tag_unmatched = { 'fixme':'questo albero può essere abbattuto/declassificato' }

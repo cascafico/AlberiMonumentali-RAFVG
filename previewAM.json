@@ -19,7 +19,6 @@
     ],
     "ref_distance": 0.1,
     "ref_id": "60",
-    "tags.circumference": "780",
     "tags.denotation": "natural_monument",
     "tags.ele": "18",
     "tags.height": "21",
@@ -28,6 +27,8 @@
     "tags.species": "Quercus robur L.",
     "tags.species:it": "Farnia",
     "tags.start_date": "1558",
+    "tags_changed.circumference": "780 -> 7.8",
+    "tags_new.name": "Farnia",
     "tags_new.ref": "01/A810/UD/06"
    },
    "type": "Feature"
@@ -51,8 +52,6 @@
     ],
     "ref_distance": 0.4,
     "ref_id": "49",
-    "ref_unused_tags.circumference": "403",
-    "tags.circumference": "4",
     "tags.genus": "Tilia",
     "tags.genus:de": "Linde",
     "tags.genus:it": "tiglio",
@@ -61,8 +60,12 @@
     "tags.natural": "tree",
     "tags.start_date": "1667",
     "tags.type": "broad_leaved",
+    "tags_changed.circumference": "4 -> 4.03",
+    "tags_new.ele": "430",
     "tags_new.height": "12",
-    "tags_new.ref": "14/L424/TS/06"
+    "tags_new.name": "Tiglio selvatico",
+    "tags_new.ref": "14/L424/TS/06",
+    "tags_new.species": "Tilia cordata Mill."
    },
    "type": "Feature"
   },
@@ -86,9 +89,12 @@
     "ref_distance": 1.3,
     "ref_id": "134",
     "tags.natural": "tree",
-    "tags_new.circumference": "508",
+    "tags_new.circumference": "5.08",
+    "tags_new.ele": "172",
     "tags_new.height": "32",
-    "tags_new.ref": "23/l483/UD/06"
+    "tags_new.name": "Platano comune",
+    "tags_new.ref": "23/l483/UD/06",
+    "tags_new.species": "Platanus acerifolia (Aiton) Willd."
    },
    "type": "Feature"
   },
@@ -112,9 +118,12 @@
     "ref_distance": 2.6,
     "ref_id": "123",
     "tags.natural": "tree",
-    "tags_new.circumference": "414",
+    "tags_new.circumference": "4.14",
+    "tags_new.ele": "220",
     "tags_new.height": "22",
-    "tags_new.ref": "04/l483/UD/06"
+    "tags_new.name": "Ippocastano",
+    "tags_new.ref": "04/l483/UD/06",
+    "tags_new.species": "Aesculus hippocastanum L."
    },
    "type": "Feature"
   },
@@ -138,9 +147,12 @@
     "ref_distance": 4.3,
     "ref_id": "137",
     "tags.natural": "tree",
-    "tags_new.circumference": "300",
+    "tags_new.circumference": "3",
+    "tags_new.ele": "108",
     "tags_new.height": "25",
-    "tags_new.ref": "27/l483/UD/06"
+    "tags_new.name": "Cedro di Cipro",
+    "tags_new.ref": "27/l483/UD/06",
+    "tags_new.species": "Cedrus brevifolia (Hook.f.) Elwes & A. Henry"
    },
    "type": "Feature"
   },
@@ -163,17 +175,16 @@
     ],
     "ref_distance": 4.7,
     "ref_id": "79",
-    "ref_unused_tags.circumference": "663",
-    "ref_unused_tags.height": "22",
-    "tags.circumference": "580",
     "tags.denotation": "natural_monument",
     "tags.ele": "720",
-    "tags.height": "25",
     "tags.natural": "tree",
     "tags.ref:mipaaf": "01/E847/UD/06",
     "tags.species": "Tilia cordata Mill.",
     "tags.species:it": "Tiglio selvatico",
     "tags.start_date": "1620",
+    "tags_changed.circumference": "580 -> 6.63",
+    "tags_changed.height": "25 -> 22",
+    "tags_new.name": "Tiglio selvatico",
     "tags_new.ref": "01/E847/UD/06"
    },
    "type": "Feature"
@@ -197,20 +208,20 @@
     ],
     "ref_distance": 5.4,
     "ref_id": "90",
-    "ref_unused_tags.circumference": "500",
-    "ref_unused_tags.height": "21",
     "tags.access": "yes",
-    "tags.circumference": "5.1",
     "tags.denotation": "natural_monument",
     "tags.genus": "Cupressus L.",
-    "tags.height": "22",
     "tags.leaf_cycle": "evergreen",
     "tags.leaf_type": "needleleaved",
-    "tags.name": "Cipresso mediterraneo",
     "tags.name:botanical": "Cupressus sempervirens L.",
     "tags.natural": "tree",
     "tags.start_date": "1580",
-    "tags_new.ref": "02/H029/UD/06"
+    "tags_changed.circumference": "5.1 -> 5",
+    "tags_changed.height": "22 -> 21",
+    "tags_changed.name": "Cipresso mediterraneo -> Cipresso comune",
+    "tags_new.ele": "150",
+    "tags_new.ref": "02/H029/UD/06",
+    "tags_new.species": "Cupressus sempervirens L."
    },
    "type": "Feature"
   },
@@ -234,9 +245,12 @@
     "ref_distance": 6.3,
     "ref_id": "130",
     "tags.natural": "tree",
-    "tags_new.circumference": "570",
+    "tags_new.circumference": "5.7",
+    "tags_new.ele": "172",
     "tags_new.height": "31",
-    "tags_new.ref": "16/l483/UD/06"
+    "tags_new.name": "Cedro dell'Himalaya",
+    "tags_new.ref": "16/l483/UD/06",
+    "tags_new.species": "Cedrus deodara (D.Don) G.Don"
    },
    "type": "Feature"
   },
@@ -259,17 +273,16 @@
     ],
     "ref_distance": 12.7,
     "ref_id": "61",
-    "ref_unused_tags.circumference": "395",
-    "ref_unused_tags.height": "25",
-    "tags.circumference": "3.65 m",
-    "tags.height": "23",
     "tags.loc_name": "Arnoldo",
-    "tags.name": "Pino Nero Laricio",
     "tags.name:botanical": "Pinus Nigra",
     "tags.natural": "tree",
-    "tags.species": "Calabrica",
     "tags.start_date": "1890",
     "tags.type": "broad_leaved",
+    "tags_changed.circumference": "3.65 m -> 3.95",
+    "tags_changed.height": "23 -> 25",
+    "tags_changed.name": "Pino Nero Laricio -> Pino nero",
+    "tags_changed.species": "Calabrica -> Pinus nigra J.F. Arnold",
+    "tags_new.ele": "130",
     "tags_new.ref": "01/C758/UD/06"
    },
    "type": "Feature"
@@ -293,12 +306,14 @@
     ],
     "ref_distance": 13.4,
     "ref_id": "70",
-    "tags.name": "Cedro Bianco della California",
     "tags.natural": "tree",
     "tags.type": "conifer",
-    "tags_new.circumference": "250",
+    "tags_changed.name": "Cedro Bianco della California -> Ginco",
+    "tags_new.circumference": "2.5",
+    "tags_new.ele": "35",
     "tags_new.height": "25",
-    "tags_new.ref": "06/C817/UD/06"
+    "tags_new.ref": "06/C817/UD/06",
+    "tags_new.species": "Ginkgo biloba L."
    },
    "type": "Feature"
   },
@@ -322,9 +337,12 @@
     "ref_distance": 21.2,
     "ref_id": "138",
     "tags.natural": "tree",
-    "tags_new.circumference": "300",
+    "tags_new.circumference": "3",
+    "tags_new.ele": "170",
     "tags_new.height": "20",
-    "tags_new.ref": "28/l483/UD/06"
+    "tags_new.name": "Cipresso del Cashmere",
+    "tags_new.ref": "28/l483/UD/06",
+    "tags_new.species": "Cupressus cashmeriana Royle ex Carrière"
    },
    "type": "Feature"
   },
@@ -347,12 +365,14 @@
     ],
     "ref_distance": 23.7,
     "ref_id": "69",
-    "tags.name": "Cipresso Piramidale",
     "tags.natural": "tree",
     "tags.type": "conifer",
-    "tags_new.circumference": "395",
+    "tags_changed.name": "Cipresso Piramidale -> Abete del Caucaso",
+    "tags_new.circumference": "3.95",
+    "tags_new.ele": "35",
     "tags_new.height": "32",
-    "tags_new.ref": "05/C817/UD/06"
+    "tags_new.ref": "05/C817/UD/06",
+    "tags_new.species": "Abies nordmanniana (Steven) Spach"
    },
    "type": "Feature"
   },
@@ -375,11 +395,13 @@
     ],
     "ref_distance": 29.5,
     "ref_id": "73",
-    "tags.name": "Paulonia",
     "tags.natural": "tree",
-    "tags_new.circumference": "430",
+    "tags_changed.name": "Paulonia -> Platano comune",
+    "tags_new.circumference": "4.3",
+    "tags_new.ele": "35",
     "tags_new.height": "30",
-    "tags_new.ref": "09/C817/UD/06"
+    "tags_new.ref": "09/C817/UD/06",
+    "tags_new.species": "Platanus acerifolia (Aiton) Willd."
    },
    "type": "Feature"
   },
@@ -404,10 +426,13 @@
     "ref_id": "6",
     "tags.leaf_type": "needleleaved",
     "tags.natural": "tree",
-    "tags_new.circumference": "272",
+    "tags_new.circumference": "2.72",
+    "tags_new.ele": "85",
     "tags_new.height": "18",
     "tags_new.historic": "yes",
-    "tags_new.ref": "05/E098/GO/06"
+    "tags_new.name": "Magnolia",
+    "tags_new.ref": "05/E098/GO/06",
+    "tags_new.species": "Magnolia grandiflora L."
    },
    "type": "Feature"
   },
@@ -425,10 +450,13 @@
     "osm_id": -15,
     "osm_type": "node",
     "ref_id": "1",
-    "tags.circumference": "433",
+    "tags.circumference": "4.33",
+    "tags.ele": "109",
     "tags.height": "15",
+    "tags.name": "Roverella",
     "tags.natural": "tree",
-    "tags.ref": "01/D014/GO/06"
+    "tags.ref": "01/D014/GO/06",
+    "tags.species": "Quercus pubescens Willd."
    },
    "type": "Feature"
   },
@@ -446,10 +474,13 @@
     "osm_id": -16,
     "osm_type": "node",
     "ref_id": "10",
-    "tags.circumference": "325",
+    "tags.circumference": "3.25",
+    "tags.ele": "30",
     "tags.height": "19",
+    "tags.name": "Pino d'Aleppo",
     "tags.natural": "tree",
-    "tags.ref": "02/E124/GO/06"
+    "tags.ref": "02/E124/GO/06",
+    "tags.species": "Pinus halepensis Mill."
    },
    "type": "Feature"
   },
@@ -467,10 +498,13 @@
     "osm_id": -17,
     "osm_type": "node",
     "ref_id": "100",
-    "tags.circumference": "550",
+    "tags.circumference": "5.5",
+    "tags.ele": "230",
     "tags.height": "30",
+    "tags.name": "Platano orientale",
     "tags.natural": "tree",
-    "tags.ref": "01/L050/UD/06"
+    "tags.ref": "01/L050/UD/06",
+    "tags.species": "Platanus orientalis L."
    },
    "type": "Feature"
   },
@@ -488,10 +522,13 @@
     "osm_id": -18,
     "osm_type": "node",
     "ref_id": "101",
-    "tags.circumference": "450",
+    "tags.circumference": "4.5",
+    "tags.ele": "230",
     "tags.height": "24",
+    "tags.name": "Pioppo nero",
     "tags.natural": "tree",
-    "tags.ref": "02/L050/UD/06"
+    "tags.ref": "02/L050/UD/06",
+    "tags.species": "Populus nigra L."
    },
    "type": "Feature"
   },
@@ -509,11 +546,14 @@
     "osm_id": -19,
     "osm_type": "node",
     "ref_id": "102",
-    "tags.circumference": "300 (med) 350 (max)",
-    "tags.height": "18,0 (med) 20,0 (max)",
+    "tags.circumference": "3",
+    "tags.ele": "802",
+    "tags.height": "18",
     "tags.historic": "yes",
+    "tags.name": "Pero selvatico",
     "tags.natural": "tree",
-    "tags.ref": "01/L057/UD/06"
+    "tags.ref": "01/L057/UD/06",
+    "tags.species": "Insieme omogeneo di                                        Pyrus pyraster (L.) Burgsd."
    },
    "type": "Feature"
   },
@@ -531,10 +571,13 @@
     "osm_id": -20,
     "osm_type": "node",
     "ref_id": "103",
-    "tags.circumference": "531",
+    "tags.circumference": "5.31",
+    "tags.ele": "1570",
     "tags.height": "27",
+    "tags.name": "Larice",
     "tags.natural": "tree",
-    "tags.ref": "02/L057/UD/06"
+    "tags.ref": "02/L057/UD/06",
+    "tags.species": "Larix decidua Mill."
    },
    "type": "Feature"
   },
@@ -552,10 +595,13 @@
     "osm_id": -21,
     "osm_type": "node",
     "ref_id": "104",
-    "tags.circumference": "445",
+    "tags.circumference": "4.45",
+    "tags.ele": "1573",
     "tags.height": "31",
+    "tags.name": "Abete rosso",
     "tags.natural": "tree",
-    "tags.ref": "03/L057/UD/06"
+    "tags.ref": "03/L057/UD/06",
+    "tags.species": "Picea abies (L.) H. Karst."
    },
    "type": "Feature"
   },
@@ -573,10 +619,13 @@
     "osm_id": -22,
     "osm_type": "node",
     "ref_id": "105",
-    "tags.circumference": "545",
+    "tags.circumference": "5.45",
+    "tags.ele": "1573",
     "tags.height": "32",
+    "tags.name": "Abete rosso",
     "tags.natural": "tree",
-    "tags.ref": "04/L057/UD/06"
+    "tags.ref": "04/L057/UD/06",
+    "tags.species": "Picea abies (L.) H. Karst."
    },
    "type": "Feature"
   },
@@ -594,10 +643,13 @@
     "osm_id": -23,
     "osm_type": "node",
     "ref_id": "106",
-    "tags.circumference": "450",
+    "tags.circumference": "4.5",
+    "tags.ele": "1310",
     "tags.height": "11",
+    "tags.name": "Acero di monte",
     "tags.natural": "tree",
-    "tags.ref": "05/L057/UD/06"
+    "tags.ref": "05/L057/UD/06",
+    "tags.species": "Acer pseudoplatanus L."
    },
    "type": "Feature"
   },
@@ -615,10 +667,13 @@
     "osm_id": -24,
     "osm_type": "node",
     "ref_id": "107",
-    "tags.circumference": "445 - 380",
+    "tags.circumference": "4.45",
+    "tags.ele": "868",
     "tags.height": "29.5",
+    "tags.name": "Acero di monte",
     "tags.natural": "tree",
-    "tags.ref": "06/L057/UD/06"
+    "tags.ref": "06/L057/UD/06",
+    "tags.species": "Acer pseudoplatanus L."
    },
    "type": "Feature"
   },
@@ -636,10 +691,13 @@
     "osm_id": -25,
     "osm_type": "node",
     "ref_id": "108",
-    "tags.circumference": "405",
+    "tags.circumference": "4.05",
+    "tags.ele": "770",
     "tags.height": "19",
+    "tags.name": "Noce comune",
     "tags.natural": "tree",
-    "tags.ref": "07/L057/UD/06"
+    "tags.ref": "07/L057/UD/06",
+    "tags.species": "Juglans regia L."
    },
    "type": "Feature"
   },
@@ -657,11 +715,14 @@
     "osm_id": -26,
     "osm_type": "node",
     "ref_id": "109",
-    "tags.circumference": "330",
+    "tags.circumference": "3.3",
+    "tags.ele": "800",
     "tags.height": "25",
     "tags.historic": "yes",
+    "tags.name": "Tiglio selvatico",
     "tags.natural": "tree",
-    "tags.ref": "08/L057/UD/06"
+    "tags.ref": "08/L057/UD/06",
+    "tags.species": "Tilia cordata Mill."
    },
    "type": "Feature"
   },
@@ -679,10 +740,13 @@
     "osm_id": -27,
     "osm_type": "node",
     "ref_id": "11",
-    "tags.circumference": "500",
+    "tags.circumference": "5",
+    "tags.ele": "95",
     "tags.height": "16",
+    "tags.name": "Farnia",
     "tags.natural": "tree",
-    "tags.ref": "01/F767/GO/06"
+    "tags.ref": "01/F767/GO/06",
+    "tags.species": "Quercus robur L."
    },
    "type": "Feature"
   },
@@ -700,10 +764,13 @@
     "osm_id": -28,
     "osm_type": "node",
     "ref_id": "110",
-    "tags.circumference": "445",
+    "tags.circumference": "4.45",
+    "tags.ele": "752",
     "tags.height": "23",
+    "tags.name": "Salice bianco",
     "tags.natural": "tree",
-    "tags.ref": "09/L057/UD/06"
+    "tags.ref": "09/L057/UD/06",
+    "tags.species": "Salix alba L."
    },
    "type": "Feature"
   },
@@ -721,10 +788,13 @@
     "osm_id": -29,
     "osm_type": "node",
     "ref_id": "111",
-    "tags.circumference": "495",
+    "tags.circumference": "4.95",
+    "tags.ele": "1270",
     "tags.height": "35",
+    "tags.name": "Abete bianco",
     "tags.natural": "tree",
-    "tags.ref": "10/L057/UD/06"
+    "tags.ref": "10/L057/UD/06",
+    "tags.species": "Abies alba Mill."
    },
    "type": "Feature"
   },
@@ -742,10 +812,13 @@
     "osm_id": -30,
     "osm_type": "node",
     "ref_id": "112",
-    "tags.circumference": "490",
+    "tags.circumference": "4.9",
+    "tags.ele": "1450",
     "tags.height": "36",
+    "tags.name": "Abete rosso",
     "tags.natural": "tree",
-    "tags.ref": "11/L057/UD/06"
+    "tags.ref": "11/L057/UD/06",
+    "tags.species": "Picea abies (L.) H. Karst."
    },
    "type": "Feature"
   },
@@ -763,10 +836,13 @@
     "osm_id": -31,
     "osm_type": "node",
     "ref_id": "113",
-    "tags.circumference": "460",
+    "tags.circumference": "4.6",
+    "tags.ele": "800",
     "tags.height": "30",
+    "tags.name": "Olmo montano",
     "tags.natural": "tree",
-    "tags.ref": "12/L057/UD/06"
+    "tags.ref": "12/L057/UD/06",
+    "tags.species": "Ulmus glabra Huds."
    },
    "type": "Feature"
   },
@@ -784,10 +860,13 @@
     "osm_id": -32,
     "osm_type": "node",
     "ref_id": "114",
-    "tags.circumference": "525",
+    "tags.circumference": "5.25",
+    "tags.ele": "841",
     "tags.height": "32",
+    "tags.name": "Faggio",
     "tags.natural": "tree",
-    "tags.ref": "13/L057/UD/06"
+    "tags.ref": "13/L057/UD/06",
+    "tags.species": "Fagus sylvatica L."
    },
    "type": "Feature"
   },
@@ -805,10 +884,13 @@
     "osm_id": -33,
     "osm_type": "node",
     "ref_id": "115",
-    "tags.circumference": "450",
+    "tags.circumference": "4.5",
+    "tags.ele": "210",
     "tags.height": "31",
+    "tags.name": "Cedro dell'Himalaya",
     "tags.natural": "tree",
-    "tags.ref": "01/L421/UD/06"
+    "tags.ref": "01/L421/UD/06",
+    "tags.species": "Cedrus deodara (D.Don) G.Don"
    },
    "type": "Feature"
   },
@@ -826,10 +908,13 @@
     "osm_id": -34,
     "osm_type": "node",
     "ref_id": "116",
-    "tags.circumference": "160",
+    "tags.circumference": "1.6",
+    "tags.ele": "210",
     "tags.height": "2.5",
+    "tags.name": "Glicine",
     "tags.natural": "tree",
-    "tags.ref": "02/L421/UD/06"
+    "tags.ref": "02/L421/UD/06",
+    "tags.species": "Wisteria sinensis (Sims) Sweet"
    },
    "type": "Feature"
   },
@@ -847,10 +932,13 @@
     "osm_id": -35,
     "osm_type": "node",
     "ref_id": "117",
-    "tags.circumference": "370",
+    "tags.circumference": "3.7",
+    "tags.ele": "210",
     "tags.height": "28",
+    "tags.name": "Pioppo canescente",
     "tags.natural": "tree",
-    "tags.ref": "03/L421/UD/06"
+    "tags.ref": "03/L421/UD/06",
+    "tags.species": "Populus canescens (Aiton) Sm."
    },
    "type": "Feature"
   },
@@ -868,10 +956,13 @@
     "osm_id": -36,
     "osm_type": "node",
     "ref_id": "118",
-    "tags.circumference": "350 (med) 380 (max)",
-    "tags.height": "25,0 (med) 29,0 (max)",
+    "tags.circumference": "3.5",
+    "tags.ele": "210",
+    "tags.height": "25",
+    "tags.name": "Cedro dell'Himalaya",
     "tags.natural": "tree",
-    "tags.ref": "04/L421/UD/06"
+    "tags.ref": "04/L421/UD/06",
+    "tags.species": "Insieme omogeneo di Cedrus deodara (D.Don) G.Don"
    },
    "type": "Feature"
   },
@@ -889,10 +980,13 @@
     "osm_id": -37,
     "osm_type": "node",
     "ref_id": "119",
-    "tags.circumference": "335",
+    "tags.circumference": "3.35",
+    "tags.ele": "210",
     "tags.height": "20",
+    "tags.name": "Cipresso di Monterey",
     "tags.natural": "tree",
-    "tags.ref": "06/L421/UD/06"
+    "tags.ref": "06/L421/UD/06",
+    "tags.species": "Cupressus macrocarpa Hartw."
    },
    "type": "Feature"
   },
@@ -910,10 +1004,13 @@
     "osm_id": -38,
     "osm_type": "node",
     "ref_id": "12",
-    "tags.circumference": "410",
+    "tags.circumference": "4.1",
+    "tags.ele": "11",
     "tags.height": "25",
+    "tags.name": "Pioppo nero",
     "tags.natural": "tree",
-    "tags.ref": "01/H531/GO/06"
+    "tags.ref": "01/H531/GO/06",
+    "tags.species": "Populus nigra L."
    },
    "type": "Feature"
   },
@@ -931,10 +1028,13 @@
     "osm_id": -39,
     "osm_type": "node",
     "ref_id": "120",
-    "tags.circumference": "522",
+    "tags.circumference": "5.22",
+    "tags.ele": "222",
     "tags.height": "30",
+    "tags.name": "Cedro dell'Himalaya",
     "tags.natural": "tree",
-    "tags.ref": "01/l483/UD/06"
+    "tags.ref": "01/l483/UD/06",
+    "tags.species": "Cedrus deodara (D.Don) G.Don"
    },
    "type": "Feature"
   },
@@ -952,10 +1052,13 @@
     "osm_id": -40,
     "osm_type": "node",
     "ref_id": "121",
-    "tags.circumference": "448",
+    "tags.circumference": "4.48",
+    "tags.ele": "223",
     "tags.height": "28",
+    "tags.name": "Cedro dell'Himalaya",
     "tags.natural": "tree",
-    "tags.ref": "02/l483/UD/06"
+    "tags.ref": "02/l483/UD/06",
+    "tags.species": "Cedrus deodara (D.Don) G.Don"
    },
    "type": "Feature"
   },
@@ -973,10 +1076,13 @@
     "osm_id": -41,
     "osm_type": "node",
     "ref_id": "122",
-    "tags.circumference": "395",
+    "tags.circumference": "3.95",
+    "tags.ele": "225",
     "tags.height": "27",
+    "tags.name": "Cedro dell'Himalaya",
     "tags.natural": "tree",
-    "tags.ref": "03/l483/UD/06"
+    "tags.ref": "03/l483/UD/06",
+    "tags.species": "Cedrus deodara (D.Don) G.Don"
    },
    "type": "Feature"
   },
@@ -994,10 +1100,13 @@
     "osm_id": -42,
     "osm_type": "node",
     "ref_id": "124",
-    "tags.circumference": "427",
+    "tags.circumference": "4.27",
+    "tags.ele": "173",
     "tags.height": "25",
+    "tags.name": "Cedro dell'Himalaya",
     "tags.natural": "tree",
-    "tags.ref": "06/l483/UD/06"
+    "tags.ref": "06/l483/UD/06",
+    "tags.species": "Cedrus deodara (D.Don) G.Don"
    },
    "type": "Feature"
   },
@@ -1015,10 +1124,13 @@
     "osm_id": -43,
     "osm_type": "node",
     "ref_id": "125",
-    "tags.circumference": "430",
+    "tags.circumference": "4.3",
+    "tags.ele": "173",
     "tags.height": "28",
+    "tags.name": "Farnia",
     "tags.natural": "tree",
-    "tags.ref": "07/l483/UD/06"
+    "tags.ref": "07/l483/UD/06",
+    "tags.species": "Quercus robur L."
    },
    "type": "Feature"
   },
@@ -1036,10 +1148,13 @@
     "osm_id": -44,
     "osm_type": "node",
     "ref_id": "126",
-    "tags.circumference": "473",
+    "tags.circumference": "4.73",
+    "tags.ele": "173",
     "tags.height": "25",
+    "tags.name": "Cedro dell'Atlante",
     "tags.natural": "tree",
-    "tags.ref": "08/l483/UD/06"
+    "tags.ref": "08/l483/UD/06",
+    "tags.species": "Cedrus atlantica (Endl.) Manetti ex Carrière"
    },
    "type": "Feature"
   },
@@ -1057,10 +1172,13 @@
     "osm_id": -45,
     "osm_type": "node",
     "ref_id": "127",
-    "tags.circumference": "393",
+    "tags.circumference": "3.93",
+    "tags.ele": "171",
     "tags.height": "13",
+    "tags.name": "Gelso bianco",
     "tags.natural": "tree",
-    "tags.ref": "12/l483/UD/06"
+    "tags.ref": "12/l483/UD/06",
+    "tags.species": "Morus alba L."
    },
    "type": "Feature"
   },
@@ -1078,10 +1196,13 @@
     "osm_id": -46,
     "osm_type": "node",
     "ref_id": "128",
-    "tags.circumference": "694",
+    "tags.circumference": "6.94",
+    "tags.ele": "171",
     "tags.height": "20",
+    "tags.name": "Libocedro",
     "tags.natural": "tree",
-    "tags.ref": "13/l483/UD/06"
+    "tags.ref": "13/l483/UD/06",
+    "tags.species": "Calocedrus decurrens (Torr.) Florin"
    },
    "type": "Feature"
   },
@@ -1099,10 +1220,13 @@
     "osm_id": -47,
     "osm_type": "node",
     "ref_id": "129",
-    "tags.circumference": "320 (med) 334 (max)",
-    "tags.height": "20,0 (med) 22,0 (max)",
+    "tags.circumference": "3.2",
+    "tags.ele": "171",
+    "tags.height": "20",
+    "tags.name": "Tasso del Giappone",
     "tags.natural": "tree",
-    "tags.ref": "14/l483/UD/06"
+    "tags.ref": "14/l483/UD/06",
+    "tags.species": "Insieme omogeneo di Torreya nucifera Siebold & Zucc."
    },
    "type": "Feature"
   },
@@ -1120,10 +1244,13 @@
     "osm_id": -48,
     "osm_type": "node",
     "ref_id": "13",
-    "tags.circumference": "120",
+    "tags.circumference": "1.2",
+    "tags.ele": "30",
     "tags.height": "14",
+    "tags.name": "Glicine",
     "tags.natural": "tree",
-    "tags.ref": "02/I479/GO706"
+    "tags.ref": "02/I479/GO706",
+    "tags.species": "Wisteria sinensis (Sims) Sweet"
    },
    "type": "Feature"
   },
@@ -1141,10 +1268,13 @@
     "osm_id": -49,
     "osm_type": "node",
     "ref_id": "131",
-    "tags.circumference": "610",
+    "tags.circumference": "6.1",
+    "tags.ele": "172",
     "tags.height": "35",
+    "tags.name": "Cedro dell'Himalaya",
     "tags.natural": "tree",
-    "tags.ref": "17/l483/UD/06"
+    "tags.ref": "17/l483/UD/06",
+    "tags.species": "Cedrus deodara (D.Don) G.Don"
    },
    "type": "Feature"
   },
@@ -1162,10 +1292,13 @@
     "osm_id": -50,
     "osm_type": "node",
     "ref_id": "132",
-    "tags.circumference": "430",
+    "tags.circumference": "4.3",
+    "tags.ele": "172",
     "tags.height": "32",
+    "tags.name": "Cedro dell'Himalaya",
     "tags.natural": "tree",
-    "tags.ref": "18/l483/UD/06"
+    "tags.ref": "18/l483/UD/06",
+    "tags.species": "Cedrus deodara (D.Don) G.Don"
    },
    "type": "Feature"
   },
@@ -1183,10 +1316,13 @@
     "osm_id": -51,
     "osm_type": "node",
     "ref_id": "133",
-    "tags.circumference": "448",
+    "tags.circumference": "4.48",
+    "tags.ele": "224",
     "tags.height": "22",
+    "tags.name": "Bagolaro",
     "tags.natural": "tree",
-    "tags.ref": "22/l483/UD/06"
+    "tags.ref": "22/l483/UD/06",
+    "tags.species": "Celtis australis L."
    },
    "type": "Feature"
   },
@@ -1205,9 +1341,12 @@
     "osm_type": "node",
     "ref_id": "135",
     "tags.circumference": "n. 40 esemplari con piccole circonferenze dei fusti",
+    "tags.ele": "175",
     "tags.height": "8",
+    "tags.name": "Eleagno ibrido",
     "tags.natural": "tree",
-    "tags.ref": "25/l483/UD/06"
+    "tags.ref": "25/l483/UD/06",
+    "tags.species": "Insieme omogeneo di Elaeagnus x reflexa E. Morren. & Decne"
    },
    "type": "Feature"
   },
@@ -1225,10 +1364,13 @@
     "osm_id": -53,
     "osm_type": "node",
     "ref_id": "136",
-    "tags.circumference": "400",
+    "tags.circumference": "4",
+    "tags.ele": "160",
     "tags.height": "24",
+    "tags.name": "Pioppo nero",
     "tags.natural": "tree",
-    "tags.ref": "26/l483/UD/06"
+    "tags.ref": "26/l483/UD/06",
+    "tags.species": "Populus nigra L."
    },
    "type": "Feature"
   },
@@ -1246,10 +1388,13 @@
     "osm_id": -54,
     "osm_type": "node",
     "ref_id": "139",
-    "tags.circumference": "580",
+    "tags.circumference": "5.8",
+    "tags.ele": "18",
     "tags.height": "29",
+    "tags.name": "Farnia",
     "tags.natural": "tree",
-    "tags.ref": "01/L686/UD(06"
+    "tags.ref": "01/L686/UD(06",
+    "tags.species": "Quercus robur L."
    },
    "type": "Feature"
   },
@@ -1267,11 +1412,14 @@
     "osm_id": -55,
     "osm_type": "node",
     "ref_id": "14",
-    "tags.circumference": "436",
+    "tags.circumference": "4.36",
+    "tags.ele": "6",
     "tags.height": "16",
     "tags.historic": "yes",
+    "tags.name": "Bagolaro",
     "tags.natural": "tree",
-    "tags.ref": "01/I939/GO/06"
+    "tags.ref": "01/I939/GO/06",
+    "tags.species": "Celtis australis L."
    },
    "type": "Feature"
   },
@@ -1289,10 +1437,13 @@
     "osm_id": -56,
     "osm_type": "node",
     "ref_id": "15",
-    "tags.circumference": "470",
+    "tags.circumference": "4.7",
+    "tags.ele": "1193",
     "tags.height": "18",
+    "tags.name": "Faggio",
     "tags.natural": "tree",
-    "tags.ref": "01/A516/PN/06"
+    "tags.ref": "01/A516/PN/06",
+    "tags.species": "Fagus sylvatica L."
    },
    "type": "Feature"
   },
@@ -1310,10 +1461,13 @@
     "osm_id": -57,
     "osm_type": "node",
     "ref_id": "16",
-    "tags.circumference": "670",
+    "tags.circumference": "6.7",
+    "tags.ele": "300",
     "tags.height": "12",
+    "tags.name": "Acero campestre",
     "tags.natural": "tree",
-    "tags.ref": "02/A516/PN/06"
+    "tags.ref": "02/A516/PN/06",
+    "tags.species": "Acer campestre L."
    },
    "type": "Feature"
   },
@@ -1331,10 +1485,13 @@
     "osm_id": -58,
     "osm_type": "node",
     "ref_id": "17",
-    "tags.circumference": "424",
+    "tags.circumference": "4.24",
+    "tags.ele": "1100",
     "tags.height": "15",
+    "tags.name": "Tasso",
     "tags.natural": "tree",
-    "tags.ref": "01/A640/PN/06"
+    "tags.ref": "01/A640/PN/06",
+    "tags.species": "Taxus baccata L."
    },
    "type": "Feature"
   },
@@ -1352,10 +1509,13 @@
     "osm_id": -59,
     "osm_type": "node",
     "ref_id": "18",
-    "tags.circumference": "450",
+    "tags.circumference": "4.5",
+    "tags.ele": "66",
     "tags.height": "28",
+    "tags.name": "Bagolaro",
     "tags.natural": "tree",
-    "tags.ref": "01/B598/PN/06"
+    "tags.ref": "01/B598/PN/06",
+    "tags.species": "Celtis australis L."
    },
    "type": "Feature"
   },
@@ -1373,11 +1533,14 @@
     "osm_id": -60,
     "osm_type": "node",
     "ref_id": "19",
-    "tags.circumference": "282",
+    "tags.circumference": "2.82",
+    "tags.ele": "49",
     "tags.height": "19",
     "tags.historic": "yes",
+    "tags.name": "Tiglio selvatico",
     "tags.natural": "tree",
-    "tags.ref": "02/B598/PN/06"
+    "tags.ref": "02/B598/PN/06",
+    "tags.species": "Tilia cordata Mill."
    },
    "type": "Feature"
   },
@@ -1395,10 +1558,13 @@
     "osm_id": -61,
     "osm_type": "node",
     "ref_id": "2",
-    "tags.circumference": "450",
+    "tags.circumference": "4.5",
+    "tags.ele": "85",
     "tags.height": "30",
+    "tags.name": "Platano comune",
     "tags.natural": "tree",
-    "tags.ref": "01/E098/GO/06"
+    "tags.ref": "01/E098/GO/06",
+    "tags.species": "Platanus acerifolia (Aiton) Willd."
    },
    "type": "Feature"
   },
@@ -1416,10 +1582,13 @@
     "osm_id": -62,
     "osm_type": "node",
     "ref_id": "20",
-    "tags.circumference": "430",
+    "tags.circumference": "4.3",
+    "tags.ele": "760",
     "tags.height": "12",
+    "tags.name": "Castagno",
     "tags.natural": "tree",
-    "tags.ref": "03/B598/PN/06"
+    "tags.ref": "03/B598/PN/06",
+    "tags.species": "Castanea sativa Mill."
    },
    "type": "Feature"
   },
@@ -1437,10 +1606,13 @@
     "osm_id": -63,
     "osm_type": "node",
     "ref_id": "21",
-    "tags.circumference": "386",
+    "tags.circumference": "3.86",
+    "tags.ele": "1530",
     "tags.height": "22",
+    "tags.name": "Abete rosso",
     "tags.natural": "tree",
-    "tags.ref": "01/C790/PN/06"
+    "tags.ref": "01/C790/PN/06",
+    "tags.species": "Picea abies (L.) H. Karst."
    },
    "type": "Feature"
   },
@@ -1458,10 +1630,13 @@
     "osm_id": -64,
     "osm_type": "node",
     "ref_id": "22",
-    "tags.circumference": "452",
+    "tags.circumference": "4.52",
+    "tags.ele": "1540",
     "tags.height": "22",
+    "tags.name": "Abete rosso",
     "tags.natural": "tree",
-    "tags.ref": "02/C790/PN/06"
+    "tags.ref": "02/C790/PN/06",
+    "tags.species": "Picea abies (L.) H. Karst."
    },
    "type": "Feature"
   },
@@ -1479,10 +1654,13 @@
     "osm_id": -65,
     "osm_type": "node",
     "ref_id": "23",
-    "tags.circumference": "402",
+    "tags.circumference": "4.02",
+    "tags.ele": "1300",
     "tags.height": "33",
+    "tags.name": "Abete rosso",
     "tags.natural": "tree",
-    "tags.ref": "03/C790/PN/06"
+    "tags.ref": "03/C790/PN/06",
+    "tags.species": "Picea abies (L.) H. Karst."
    },
    "type": "Feature"
   },
@@ -1500,10 +1678,13 @@
     "osm_id": -66,
     "osm_type": "node",
     "ref_id": "24",
-    "tags.circumference": "442",
+    "tags.circumference": "4.42",
+    "tags.ele": "1320",
     "tags.height": "27",
+    "tags.name": "Abete rosso",
     "tags.natural": "tree",
-    "tags.ref": "04/C790/PN/06"
+    "tags.ref": "04/C790/PN/06",
+    "tags.species": "Picea abies (L.) H. Karst."
    },
    "type": "Feature"
   },
@@ -1521,10 +1702,13 @@
     "osm_id": -67,
     "osm_type": "node",
     "ref_id": "25",
-    "tags.circumference": "405",
+    "tags.circumference": "4.05",
+    "tags.ele": "1290",
     "tags.height": "29",
+    "tags.name": "Faggio",
     "tags.natural": "tree",
-    "tags.ref": "05/C790/PN/06"
+    "tags.ref": "05/C790/PN/06",
+    "tags.species": "Fagus sylvatica L."
    },
    "type": "Feature"
   },
@@ -1542,10 +1726,13 @@
     "osm_id": -68,
     "osm_type": "node",
     "ref_id": "26",
-    "tags.circumference": "545",
+    "tags.circumference": "5.45",
+    "tags.ele": "20",
     "tags.height": "25",
+    "tags.name": "Farnia",
     "tags.natural": "tree",
-    "tags.ref": "01/D621/PN/06"
+    "tags.ref": "01/D621/PN/06",
+    "tags.species": "Quercus robur L."
    },
    "type": "Feature"
   },
@@ -1563,10 +1750,13 @@
     "osm_id": -69,
     "osm_type": "node",
     "ref_id": "27",
-    "tags.circumference": "445",
+    "tags.circumference": "4.45",
+    "tags.ele": "341",
     "tags.height": "35",
+    "tags.name": "Faggio",
     "tags.natural": "tree",
-    "tags.ref": "01/E889/PN/06"
+    "tags.ref": "01/E889/PN/06",
+    "tags.species": "Fagus sylvatica L."
    },
    "type": "Feature"
   },
@@ -1584,10 +1774,13 @@
     "osm_id": -70,
     "osm_type": "node",
     "ref_id": "28",
-    "tags.circumference": "435",
+    "tags.circumference": "4.35",
+    "tags.ele": "287",
     "tags.height": "22",
+    "tags.name": "Tuia gigante",
     "tags.natural": "tree",
-    "tags.ref": "02/E889/PN/06"
+    "tags.ref": "02/E889/PN/06",
+    "tags.species": "Thuja plicata Donn ex D.Don"
    },
    "type": "Feature"
   },
@@ -1605,10 +1798,13 @@
     "osm_id": -71,
     "osm_type": "node",
     "ref_id": "29",
-    "tags.circumference": "455",
+    "tags.circumference": "4.55",
+    "tags.ele": "30",
     "tags.height": "32",
+    "tags.name": "Albero dei tulipani",
     "tags.natural": "tree",
-    "tags.ref": "01/G886/PN/06"
+    "tags.ref": "01/G886/PN/06",
+    "tags.species": "Liriodendron tulipifera L."
    },
    "type": "Feature"
   },
@@ -1626,10 +1822,13 @@
     "osm_id": -72,
     "osm_type": "node",
     "ref_id": "3",
-    "tags.circumference": "450 (med) 520 (max)",
-    "tags.height": "22,0 (med) 25,0 (max)",
+    "tags.circumference": "4.5",
+    "tags.ele": "100",
+    "tags.height": "22",
+    "tags.name": "Castagno",
     "tags.natural": "tree",
-    "tags.ref": "02/E098/GO/06"
+    "tags.ref": "02/E098/GO/06",
+    "tags.species": "Insieme omogeneo di Castanea sativa Mill."
    },
    "type": "Feature"
   },
@@ -1647,10 +1846,13 @@
     "osm_id": -73,
     "osm_type": "node",
     "ref_id": "30",
-    "tags.circumference": "450",
+    "tags.circumference": "4.5",
+    "tags.ele": "25",
     "tags.height": "22",
+    "tags.name": "Bagolaro",
     "tags.natural": "tree",
-    "tags.ref": "02/G886/PN/06"
+    "tags.ref": "02/G886/PN/06",
+    "tags.species": "Celtis australis L."
    },
    "type": "Feature"
   },
@@ -1668,10 +1870,13 @@
     "osm_id": -74,
     "osm_type": "node",
     "ref_id": "31",
-    "tags.circumference": "245",
+    "tags.circumference": "2.45",
+    "tags.ele": "25",
     "tags.height": "15",
+    "tags.name": "Magnolia",
     "tags.natural": "tree",
-    "tags.ref": "03/G886/PN/06"
+    "tags.ref": "03/G886/PN/06",
+    "tags.species": "Magnolia grandiflora L."
    },
    "type": "Feature"
   },
@@ -1689,11 +1894,14 @@
     "osm_id": -75,
     "osm_type": "node",
     "ref_id": "32",
-    "tags.circumference": "361",
+    "tags.circumference": "3.61",
+    "tags.ele": "190",
     "tags.height": "21",
     "tags.historic": "yes",
+    "tags.name": "Farnia",
     "tags.natural": "tree",
-    "tags.ref": "01/I621/PN/06"
+    "tags.ref": "01/I621/PN/06",
+    "tags.species": "Quercus robur L."
    },
    "type": "Feature"
   },
@@ -1711,10 +1919,13 @@
     "osm_id": -76,
     "osm_type": "node",
     "ref_id": "33",
-    "tags.circumference": "92",
+    "tags.circumference": "0.92",
+    "tags.ele": "60",
     "tags.height": "7",
+    "tags.name": "Terebinto",
     "tags.natural": "tree",
-    "tags.ref": "01/D383/TS/06"
+    "tags.ref": "01/D383/TS/06",
+    "tags.species": "Pistacia terebinthus L."
    },
    "type": "Feature"
   },
@@ -1732,10 +1943,13 @@
     "osm_id": -77,
     "osm_type": "node",
     "ref_id": "34",
-    "tags.circumference": "320",
+    "tags.circumference": "3.2",
+    "tags.ele": "40",
     "tags.height": "28",
+    "tags.name": "Cipresso di Monterey",
     "tags.natural": "tree",
-    "tags.ref": "02/D383/TS/06"
+    "tags.ref": "02/D383/TS/06",
+    "tags.species": "Cupressus macrocarpa Hartw."
    },
    "type": "Feature"
   },
@@ -1753,10 +1967,13 @@
     "osm_id": -78,
     "osm_type": "node",
     "ref_id": "35",
-    "tags.circumference": "410",
+    "tags.circumference": "4.1",
+    "tags.ele": "50",
     "tags.height": "17",
+    "tags.name": "Salice bianco",
     "tags.natural": "tree",
-    "tags.ref": "01/F795/TS/06"
+    "tags.ref": "01/F795/TS/06",
+    "tags.species": "Salix alba L."
    },
    "type": "Feature"
   },
@@ -1774,10 +1991,13 @@
     "osm_id": -79,
     "osm_type": "node",
     "ref_id": "36",
-    "tags.circumference": "204",
+    "tags.circumference": "2.04",
+    "tags.ele": "10",
     "tags.height": "12",
+    "tags.name": "Corbezzolo",
     "tags.natural": "tree",
-    "tags.ref": "01/L424/TS/06"
+    "tags.ref": "01/L424/TS/06",
+    "tags.species": "Arbutus unedo L."
    },
    "type": "Feature"
   },
@@ -1796,9 +2016,12 @@
     "osm_type": "node",
     "ref_id": "37",
     "tags.circumference": "267-250-230",
+    "tags.ele": "5",
     "tags.height": "28",
+    "tags.name": "Leccio",
     "tags.natural": "tree",
-    "tags.ref": "02/L424/TS/06"
+    "tags.ref": "02/L424/TS/06",
+    "tags.species": "Quercus ilex L."
    },
    "type": "Feature"
   },
@@ -1816,10 +2039,13 @@
     "osm_id": -81,
     "osm_type": "node",
     "ref_id": "38",
-    "tags.circumference": "410",
+    "tags.circumference": "4.1",
+    "tags.ele": "10",
     "tags.height": "18",
+    "tags.name": "Cipresso comune",
     "tags.natural": "tree",
-    "tags.ref": "03/L424/TS/06"
+    "tags.ref": "03/L424/TS/06",
+    "tags.species": "Cupressus sempervirens L."
    },
    "type": "Feature"
   },
@@ -1837,10 +2063,13 @@
     "osm_id": -82,
     "osm_type": "node",
     "ref_id": "39",
-    "tags.circumference": "310",
+    "tags.circumference": "3.1",
+    "tags.ele": "300",
     "tags.height": "35",
+    "tags.name": "Cerro",
     "tags.natural": "tree",
-    "tags.ref": "04/L424/TS/06"
+    "tags.ref": "04/L424/TS/06",
+    "tags.species": "Quercus cerris L."
    },
    "type": "Feature"
   },
@@ -1858,10 +2087,13 @@
     "osm_id": -83,
     "osm_type": "node",
     "ref_id": "4",
-    "tags.circumference": "455",
+    "tags.circumference": "4.55",
+    "tags.ele": "120",
     "tags.height": "30",
+    "tags.name": "Platano comune",
     "tags.natural": "tree",
-    "tags.ref": "03/E098/GO/06"
+    "tags.ref": "03/E098/GO/06",
+    "tags.species": "Platanus acerifolia (Aiton) Willd."
    },
    "type": "Feature"
   },
@@ -1879,10 +2111,13 @@
     "osm_id": -84,
     "osm_type": "node",
     "ref_id": "40",
-    "tags.circumference": "360",
+    "tags.circumference": "3.6",
+    "tags.ele": "200",
     "tags.height": "18",
+    "tags.name": "Pino d'Aleppo",
     "tags.natural": "tree",
-    "tags.ref": "05/L424/TS/06"
+    "tags.ref": "05/L424/TS/06",
+    "tags.species": "Pinus halepensis Mill."
    },
    "type": "Feature"
   },
@@ -1900,10 +2135,13 @@
     "osm_id": -85,
     "osm_type": "node",
     "ref_id": "41",
-    "tags.circumference": "250",
+    "tags.circumference": "2.5",
+    "tags.ele": "10",
     "tags.height": "20",
+    "tags.name": "Pino grigio",
     "tags.natural": "tree",
-    "tags.ref": "06/L424/TS/06"
+    "tags.ref": "06/L424/TS/06",
+    "tags.species": "Pinus sabiniana Dougl."
    },
    "type": "Feature"
   },
@@ -1921,10 +2159,13 @@
     "osm_id": -86,
     "osm_type": "node",
     "ref_id": "42",
-    "tags.circumference": "520",
+    "tags.circumference": "5.2",
+    "tags.ele": "15",
     "tags.height": "28",
+    "tags.name": "Platano comune",
     "tags.natural": "tree",
-    "tags.ref": "07/L424/TS/06"
+    "tags.ref": "07/L424/TS/06",
+    "tags.species": "Platanus acerifolia (Aiton) Willd."
    },
    "type": "Feature"
   },
@@ -1942,10 +2183,13 @@
     "osm_id": -87,
     "osm_type": "node",
     "ref_id": "43",
-    "tags.circumference": "525",
+    "tags.circumference": "5.25",
+    "tags.ele": "15",
     "tags.height": "31",
+    "tags.name": "Platano comune",
     "tags.natural": "tree",
-    "tags.ref": "08/L424/TS/06"
+    "tags.ref": "08/L424/TS/06",
+    "tags.species": "Platanus acerifolia (Aiton) Willd."
    },
    "type": "Feature"
   },
@@ -1963,10 +2207,13 @@
     "osm_id": -88,
     "osm_type": "node",
     "ref_id": "44",
-    "tags.circumference": "410",
+    "tags.circumference": "4.1",
+    "tags.ele": "120",
     "tags.height": "28",
+    "tags.name": "Roverella",
     "tags.natural": "tree",
-    "tags.ref": "09/L424/TS/06"
+    "tags.ref": "09/L424/TS/06",
+    "tags.species": "Quercus pubescens Willd."
    },
    "type": "Feature"
   },
@@ -1984,10 +2231,13 @@
     "osm_id": -89,
     "osm_type": "node",
     "ref_id": "45",
-    "tags.circumference": "420",
+    "tags.circumference": "4.2",
+    "tags.ele": "90",
     "tags.height": "15",
+    "tags.name": "Roverella",
     "tags.natural": "tree",
-    "tags.ref": "10/L424/TS/06"
+    "tags.ref": "10/L424/TS/06",
+    "tags.species": "Quercus pubescens Willd."
    },
    "type": "Feature"
   },
@@ -2005,10 +2255,13 @@
     "osm_id": -90,
     "osm_type": "node",
     "ref_id": "46",
-    "tags.circumference": "425",
+    "tags.circumference": "4.25",
+    "tags.ele": "10",
     "tags.height": "30",
+    "tags.name": "Sequoia sempreverde",
     "tags.natural": "tree",
-    "tags.ref": "11/L424/TS/06"
+    "tags.ref": "11/L424/TS/06",
+    "tags.species": "Sequoia sempervirens (D. Don) Endl"
    },
    "type": "Feature"
   },
@@ -2026,10 +2279,13 @@
     "osm_id": -91,
     "osm_type": "node",
     "ref_id": "47",
-    "tags.circumference": "343",
+    "tags.circumference": "3.43",
+    "tags.ele": "105",
     "tags.height": "20",
+    "tags.name": "Olmo del Caucaso",
     "tags.natural": "tree",
-    "tags.ref": "12/L424/TS/06"
+    "tags.ref": "12/L424/TS/06",
+    "tags.species": "Zelkova carpinifolia (Pall.) K. Koch"
    },
    "type": "Feature"
   },
@@ -2047,10 +2303,13 @@
     "osm_id": -92,
     "osm_type": "node",
     "ref_id": "48",
-    "tags.circumference": "360 (med) 380 (max)",
-    "tags.height": "20,0 (med) 25,0 (max)",
+    "tags.circumference": "3.6",
+    "tags.ele": "440",
+    "tags.height": "20",
+    "tags.name": "Cerro",
     "tags.natural": "tree",
-    "tags.ref": "13/L424/TS/06"
+    "tags.ref": "13/L424/TS/06",
+    "tags.species": "Insieme omogeneo di Quercus cerris L."
    },
    "type": "Feature"
   },
@@ -2068,10 +2327,13 @@
     "osm_id": -93,
     "osm_type": "node",
     "ref_id": "5",
-    "tags.circumference": "280",
+    "tags.circumference": "2.8",
+    "tags.ele": "80",
     "tags.height": "8",
+    "tags.name": "Gelso bianco",
     "tags.natural": "tree",
-    "tags.ref": "04/E098/GO/06"
+    "tags.ref": "04/E098/GO/06",
+    "tags.species": "Morus alba L."
    },
    "type": "Feature"
   },
@@ -2089,10 +2351,13 @@
     "osm_id": -94,
     "osm_type": "node",
     "ref_id": "50",
-    "tags.circumference": "303",
+    "tags.circumference": "3.03",
+    "tags.ele": "325",
     "tags.height": "15",
+    "tags.name": "Sofora del Giappone",
     "tags.natural": "tree",
-    "tags.ref": "15/L424/TS/06"
+    "tags.ref": "15/L424/TS/06",
+    "tags.species": "Sthyphnolobium japonicum  L."
    },
    "type": "Feature"
   },
@@ -2110,10 +2375,13 @@
     "osm_id": -95,
     "osm_type": "node",
     "ref_id": "51",
-    "tags.circumference": "494",
+    "tags.circumference": "4.94",
+    "tags.ele": "1623",
     "tags.height": "27",
+    "tags.name": "Larice",
     "tags.natural": "tree",
-    "tags.ref": "01/A267/UD/06"
+    "tags.ref": "01/A267/UD/06",
+    "tags.species": "Larix decidua Mill."
    },
    "type": "Feature"
   },
@@ -2131,31 +2399,13 @@
     "osm_id": -96,
     "osm_type": "node",
     "ref_id": "52",
-    "tags.circumference": "540",
+    "tags.circumference": "5.4",
+    "tags.ele": "193",
     "tags.height": "35",
+    "tags.name": "Tuia gigante",
     "tags.natural": "tree",
-    "tags.ref": "01/A491/UD/06"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     13.306222222222223,
-     46.19070833333333
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -97,
-    "osm_type": "node",
-    "ref_id": "53",
-    "tags.circumference": "600",
-    "tags.height": "35",
-    "tags.natural": "tree",
-    "tags.ref": "02/A491/UD/06"
+    "tags.ref": "01/A491/UD/06",
+    "tags.species": "Thuja plicata Donn ex D.Don"
    },
    "type": "Feature"
   },
@@ -2170,13 +2420,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -98,
+    "osm_id": -97,
     "osm_type": "node",
     "ref_id": "54",
-    "tags.circumference": "470",
+    "tags.circumference": "4.7",
+    "tags.ele": "190",
     "tags.height": "21.5",
+    "tags.name": "Platano comune",
     "tags.natural": "tree",
-    "tags.ref": "03/A491/UD/06"
+    "tags.ref": "03/A491/UD/06",
+    "tags.species": "Platanus acerifolia (Aiton) Willd."
    },
    "type": "Feature"
   },
@@ -2191,14 +2444,17 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -99,
+    "osm_id": -98,
     "osm_type": "node",
     "ref_id": "55",
-    "tags.circumference": "660",
+    "tags.circumference": "6.6",
+    "tags.ele": "225",
     "tags.height": "31",
     "tags.historic": "yes",
+    "tags.name": "Farnia",
     "tags.natural": "tree",
-    "tags.ref": "04/A491/UD/06"
+    "tags.ref": "04/A491/UD/06",
+    "tags.species": "Quercus robur L."
    },
    "type": "Feature"
   },
@@ -2213,13 +2469,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -100,
+    "osm_id": -99,
     "osm_type": "node",
     "ref_id": "56",
-    "tags.circumference": "400",
+    "tags.circumference": "4",
+    "tags.ele": "60",
     "tags.height": "18",
+    "tags.name": "Bagolaro",
     "tags.natural": "tree",
-    "tags.ref": "01/A700/UD/06"
+    "tags.ref": "01/A700/UD/06",
+    "tags.species": "Celtis australis L."
    },
    "type": "Feature"
   },
@@ -2234,13 +2493,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -101,
+    "osm_id": -100,
     "osm_type": "node",
     "ref_id": "57",
-    "tags.circumference": "378",
+    "tags.circumference": "3.78",
+    "tags.ele": "70",
     "tags.height": "18",
+    "tags.name": "Sofora del Giappone",
     "tags.natural": "tree",
-    "tags.ref": "02/A700/UD/06"
+    "tags.ref": "02/A700/UD/06",
+    "tags.species": "Styphnolobium japonicum (L.) Schott"
    },
    "type": "Feature"
   },
@@ -2255,13 +2517,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -102,
+    "osm_id": -101,
     "osm_type": "node",
     "ref_id": "58",
-    "tags.circumference": "338",
+    "tags.circumference": "3.38",
+    "tags.ele": "60",
     "tags.height": "8",
+    "tags.name": "Gelso nero",
     "tags.natural": "tree",
-    "tags.ref": "03/A700/UD/06"
+    "tags.ref": "03/A700/UD/06",
+    "tags.species": "Morus nigra L."
    },
    "type": "Feature"
   },
@@ -2276,14 +2541,17 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -103,
+    "osm_id": -102,
     "osm_type": "node",
     "ref_id": "59",
-    "tags.circumference": "245 (med) 260 (max)",
-    "tags.height": "24,0 (med) 25,0 (max)",
+    "tags.circumference": "2.45",
+    "tags.ele": "81",
+    "tags.height": "24",
     "tags.historic": "yes",
+    "tags.name": "Tiglio selvatico",
     "tags.natural": "tree",
-    "tags.ref": "04/A700/UD/06"
+    "tags.ref": "04/A700/UD/06",
+    "tags.species": "Insieme omogeneo di Tilia cordata Mill."
    },
    "type": "Feature"
   },
@@ -2298,13 +2566,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -104,
+    "osm_id": -103,
     "osm_type": "node",
     "ref_id": "62",
-    "tags.circumference": "350",
+    "tags.circumference": "3.5",
+    "tags.ele": "130",
     "tags.height": "25",
+    "tags.name": "Ginco",
     "tags.natural": "tree",
-    "tags.ref": "02/C758/UD/06"
+    "tags.ref": "02/C758/UD/06",
+    "tags.species": "Ginkgo biloba L."
    },
    "type": "Feature"
   },
@@ -2319,13 +2590,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -105,
+    "osm_id": -104,
     "osm_type": "node",
     "ref_id": "63",
-    "tags.circumference": "240",
+    "tags.circumference": "2.4",
+    "tags.ele": "140",
     "tags.height": "5.5",
+    "tags.name": "Gelso nero",
     "tags.natural": "tree",
-    "tags.ref": "05/C758/UD/06"
+    "tags.ref": "05/C758/UD/06",
+    "tags.species": "Morus nigra L."
    },
    "type": "Feature"
   },
@@ -2340,13 +2614,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -106,
+    "osm_id": -105,
     "osm_type": "node",
     "ref_id": "64",
-    "tags.circumference": "68",
+    "tags.circumference": "0.68",
+    "tags.ele": "140",
     "tags.height": "2.5",
+    "tags.name": "Vite",
     "tags.natural": "tree",
-    "tags.ref": "06/C758/UD/06"
+    "tags.ref": "06/C758/UD/06",
+    "tags.species": "Vitis vinifera L."
    },
    "type": "Feature"
   },
@@ -2361,13 +2638,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -107,
+    "osm_id": -106,
     "osm_type": "node",
     "ref_id": "65",
-    "tags.circumference": "456",
+    "tags.circumference": "4.56",
+    "tags.ele": "35",
     "tags.height": "21",
+    "tags.name": "Bagolaro",
     "tags.natural": "tree",
-    "tags.ref": "01/C817/UD/06"
+    "tags.ref": "01/C817/UD/06",
+    "tags.species": "Celtis australis L."
    },
    "type": "Feature"
   },
@@ -2382,13 +2662,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -108,
+    "osm_id": -107,
     "osm_type": "node",
     "ref_id": "66",
-    "tags.circumference": "475",
+    "tags.circumference": "4.75",
+    "tags.ele": "35",
     "tags.height": "21",
+    "tags.name": "Cedro dell'Himalaya",
     "tags.natural": "tree",
-    "tags.ref": "02/C817/UD/06"
+    "tags.ref": "02/C817/UD/06",
+    "tags.species": "Cedrus deodara (D.Don) G.Don"
    },
    "type": "Feature"
   },
@@ -2403,13 +2686,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -109,
+    "osm_id": -108,
     "osm_type": "node",
     "ref_id": "67",
-    "tags.circumference": "190",
+    "tags.circumference": "1.9",
+    "tags.ele": "35",
     "tags.height": "15",
+    "tags.name": "Magnolia",
     "tags.natural": "tree",
-    "tags.ref": "03/C817/UD/06"
+    "tags.ref": "03/C817/UD/06",
+    "tags.species": "Magnolia grandiflora L."
    },
    "type": "Feature"
   },
@@ -2424,13 +2710,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -110,
+    "osm_id": -109,
     "osm_type": "node",
     "ref_id": "68",
-    "tags.circumference": "420",
+    "tags.circumference": "4.2",
+    "tags.ele": "35",
     "tags.height": "19",
+    "tags.name": "Paulonia",
     "tags.natural": "tree",
-    "tags.ref": "04/C817/UD/06"
+    "tags.ref": "04/C817/UD/06",
+    "tags.species": "Paulownia tomentosa (Thunb.) Steud."
    },
    "type": "Feature"
   },
@@ -2445,14 +2734,17 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -111,
+    "osm_id": -110,
     "osm_type": "node",
     "ref_id": "7",
-    "tags.circumference": "370 (med) 400 (max)",
-    "tags.height": "5,0 (med) 6,0 (max)",
+    "tags.circumference": "3.7",
+    "tags.ele": "60",
+    "tags.height": "5",
     "tags.historic": "yes",
+    "tags.name": "Paulonia",
     "tags.natural": "tree",
-    "tags.ref": "06/E098/GO/06"
+    "tags.ref": "06/E098/GO/06",
+    "tags.species": "Insieme omogeneo di Paulownia tomentosa (Thunb.) Steud."
    },
    "type": "Feature"
   },
@@ -2467,13 +2759,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -112,
+    "osm_id": -111,
     "osm_type": "node",
     "ref_id": "71",
-    "tags.circumference": "290",
+    "tags.circumference": "2.9",
+    "tags.ele": "35",
     "tags.height": "20",
+    "tags.name": "Spino di Giuda",
     "tags.natural": "tree",
-    "tags.ref": "07/C817/UD/06"
+    "tags.ref": "07/C817/UD/06",
+    "tags.species": "Gleditzia triacanthos L."
    },
    "type": "Feature"
   },
@@ -2488,13 +2783,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -113,
+    "osm_id": -112,
     "osm_type": "node",
     "ref_id": "72",
-    "tags.circumference": "410",
+    "tags.circumference": "4.1",
+    "tags.ele": "35",
     "tags.height": "16",
+    "tags.name": "Tasso",
     "tags.natural": "tree",
-    "tags.ref": "08/C817/UD/06"
+    "tags.ref": "08/C817/UD/06",
+    "tags.species": "Taxus baccata L."
    },
    "type": "Feature"
   },
@@ -2509,13 +2807,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -114,
+    "osm_id": -113,
     "osm_type": "node",
     "ref_id": "74",
-    "tags.circumference": "409",
+    "tags.circumference": "4.09",
+    "tags.ele": "35",
     "tags.height": "22",
+    "tags.name": "Ippocastano",
     "tags.natural": "tree",
-    "tags.ref": "10/C817/UD/06"
+    "tags.ref": "10/C817/UD/06",
+    "tags.species": "Aesculus hippocastanum L."
    },
    "type": "Feature"
   },
@@ -2530,13 +2831,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -115,
+    "osm_id": -114,
     "osm_type": "node",
     "ref_id": "75",
-    "tags.circumference": "495",
+    "tags.circumference": "4.95",
+    "tags.ele": "35",
     "tags.height": "21",
+    "tags.name": "Cedro dell'Himalaya",
     "tags.natural": "tree",
-    "tags.ref": "11/C817/UD/06"
+    "tags.ref": "11/C817/UD/06",
+    "tags.species": "Cedrus deodara (D.Don) G.Don"
    },
    "type": "Feature"
   },
@@ -2551,13 +2855,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -116,
+    "osm_id": -115,
     "osm_type": "node",
     "ref_id": "76",
-    "tags.circumference": "345",
+    "tags.circumference": "3.45",
+    "tags.ele": "953",
     "tags.height": "17",
+    "tags.name": "Faggio",
     "tags.natural": "tree",
-    "tags.ref": "01/D408/UD/06"
+    "tags.ref": "01/D408/UD/06",
+    "tags.species": "Fagus sylvatica L."
    },
    "type": "Feature"
   },
@@ -2572,13 +2879,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -117,
+    "osm_id": -116,
     "osm_type": "node",
     "ref_id": "77",
-    "tags.circumference": "213",
+    "tags.circumference": "2.13",
+    "tags.ele": "1",
     "tags.height": "15",
+    "tags.name": "Pino d'Aleppo",
     "tags.natural": "tree",
-    "tags.ref": "01/E584/UD/06"
+    "tags.ref": "01/E584/UD/06",
+    "tags.species": "Pinus halepensis Mill."
    },
    "type": "Feature"
   },
@@ -2593,13 +2903,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -118,
+    "osm_id": -117,
     "osm_type": "node",
     "ref_id": "78",
-    "tags.circumference": "250",
+    "tags.circumference": "2.5",
+    "tags.ele": "1",
     "tags.height": "10",
+    "tags.name": "Roverella",
     "tags.natural": "tree",
-    "tags.ref": "02/E584/UD/06"
+    "tags.ref": "02/E584/UD/06",
+    "tags.species": "Quercus pubescens Willd."
    },
    "type": "Feature"
   },
@@ -2614,13 +2927,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -119,
+    "osm_id": -118,
     "osm_type": "node",
     "ref_id": "8",
-    "tags.circumference": "280",
+    "tags.circumference": "2.8",
+    "tags.ele": "83",
     "tags.height": "8",
+    "tags.name": "Gelso bianco",
     "tags.natural": "tree",
-    "tags.ref": "07/E098/GO/06"
+    "tags.ref": "07/E098/GO/06",
+    "tags.species": "Morus alba L."
    },
    "type": "Feature"
   },
@@ -2635,13 +2951,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -120,
+    "osm_id": -119,
     "osm_type": "node",
     "ref_id": "80",
-    "tags.circumference": "410",
+    "tags.circumference": "4.1",
+    "tags.ele": "212",
     "tags.height": "27",
+    "tags.name": "Ginco",
     "tags.natural": "tree",
-    "tags.ref": "01/F760/UD/06"
+    "tags.ref": "01/F760/UD/06",
+    "tags.species": "Ginkgo biloba L."
    },
    "type": "Feature"
   },
@@ -2656,13 +2975,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -121,
+    "osm_id": -120,
     "osm_type": "node",
     "ref_id": "81",
-    "tags.circumference": "360",
+    "tags.circumference": "3.6",
+    "tags.ele": "213",
     "tags.height": "25",
+    "tags.name": "Noce nero",
     "tags.natural": "tree",
-    "tags.ref": "02/F760/UD/06"
+    "tags.ref": "02/F760/UD/06",
+    "tags.species": "Juglans nigra L."
    },
    "type": "Feature"
   },
@@ -2677,13 +2999,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -122,
+    "osm_id": -121,
     "osm_type": "node",
     "ref_id": "82",
-    "tags.circumference": "370",
+    "tags.circumference": "3.7",
+    "tags.ele": "213",
     "tags.height": "26",
+    "tags.name": "Ippocastano",
     "tags.natural": "tree",
-    "tags.ref": "03/F760/UD/06"
+    "tags.ref": "03/F760/UD/06",
+    "tags.species": "Aesculus hippocastanum L."
    },
    "type": "Feature"
   },
@@ -2698,14 +3023,17 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -123,
+    "osm_id": -122,
     "osm_type": "node",
     "ref_id": "83",
-    "tags.circumference": "450 (med) 600 (max)",
-    "tags.height": "25,0 (med) 28,0 (max)",
+    "tags.circumference": "4.5",
+    "tags.ele": "900",
+    "tags.height": "25",
     "tags.historic": "yes",
+    "tags.name": "Faggio",
     "tags.natural": "tree",
-    "tags.ref": "01/G300/UD/06"
+    "tags.ref": "01/G300/UD/06",
+    "tags.species": "Insieme omogeneo di Fagus sylvatica L."
    },
    "type": "Feature"
   },
@@ -2720,13 +3048,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -124,
+    "osm_id": -123,
     "osm_type": "node",
     "ref_id": "84",
-    "tags.circumference": "380",
+    "tags.circumference": "3.8",
+    "tags.ele": "1148",
     "tags.height": "35",
+    "tags.name": "Abete bianco",
     "tags.natural": "tree",
-    "tags.ref": "01/G381/UD/06"
+    "tags.ref": "01/G381/UD/06",
+    "tags.species": "Abies alba Mill."
    },
    "type": "Feature"
   },
@@ -2741,13 +3072,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -125,
+    "osm_id": -124,
     "osm_type": "node",
     "ref_id": "85",
-    "tags.circumference": "365",
+    "tags.circumference": "3.65",
+    "tags.ele": "993",
     "tags.height": "49",
+    "tags.name": "Abete rosso",
     "tags.natural": "tree",
-    "tags.ref": "02/G381/UD/06"
+    "tags.ref": "02/G381/UD/06",
+    "tags.species": "Picea abies (L.) H. Karst."
    },
    "type": "Feature"
   },
@@ -2762,13 +3096,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -126,
+    "osm_id": -125,
     "osm_type": "node",
     "ref_id": "86",
-    "tags.circumference": "390",
+    "tags.circumference": "3.9",
+    "tags.ele": "650",
     "tags.height": "25",
+    "tags.name": "Tiglio selvatico",
     "tags.natural": "tree",
-    "tags.ref": "01/G831/UD/06"
+    "tags.ref": "01/G831/UD/06",
+    "tags.species": "Tilia cordata Mill."
    },
    "type": "Feature"
   },
@@ -2783,13 +3120,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -127,
+    "osm_id": -126,
     "osm_type": "node",
     "ref_id": "87",
-    "tags.circumference": "248",
+    "tags.circumference": "2.48",
+    "tags.ele": "647",
     "tags.height": "18",
+    "tags.name": "Pero domestico",
     "tags.natural": "tree",
-    "tags.ref": "02/G831/UD/06"
+    "tags.ref": "02/G831/UD/06",
+    "tags.species": "Pyrus communis L."
    },
    "type": "Feature"
   },
@@ -2804,13 +3144,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -128,
+    "osm_id": -127,
     "osm_type": "node",
     "ref_id": "88",
-    "tags.circumference": "292",
+    "tags.circumference": "2.92",
+    "tags.ele": "630",
     "tags.height": "18",
+    "tags.name": "Noce comune",
     "tags.natural": "tree",
-    "tags.ref": "03/G831/UD/06"
+    "tags.ref": "03/G831/UD/06",
+    "tags.species": "Juglans regia L."
    },
    "type": "Feature"
   },
@@ -2825,13 +3168,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -129,
+    "osm_id": -128,
     "osm_type": "node",
     "ref_id": "89",
-    "tags.circumference": "530",
+    "tags.circumference": "5.3",
+    "tags.ele": "150",
     "tags.height": "20.5",
+    "tags.name": "Cipresso comune",
     "tags.natural": "tree",
-    "tags.ref": "01/H029/UD/06"
+    "tags.ref": "01/H029/UD/06",
+    "tags.species": "Cupressus sempervirens L."
    },
    "type": "Feature"
   },
@@ -2846,13 +3192,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -130,
+    "osm_id": -129,
     "osm_type": "node",
     "ref_id": "9",
-    "tags.circumference": "365",
+    "tags.circumference": "3.65",
+    "tags.ele": "30",
     "tags.height": "16",
+    "tags.name": "Magnolia",
     "tags.natural": "tree",
-    "tags.ref": "01/E124/GO/06"
+    "tags.ref": "01/E124/GO/06",
+    "tags.species": "Magnolia grandiflora L."
    },
    "type": "Feature"
   },
@@ -2867,13 +3216,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -131,
+    "osm_id": -130,
     "osm_type": "node",
     "ref_id": "91",
-    "tags.circumference": "180",
+    "tags.circumference": "1.8",
+    "tags.ele": "150",
     "tags.height": "4.5",
+    "tags.name": "Glicine",
     "tags.natural": "tree",
-    "tags.ref": "03/H029/UD/06"
+    "tags.ref": "03/H029/UD/06",
+    "tags.species": "Wisteria sinensis (Sims) Sweet"
    },
    "type": "Feature"
   },
@@ -2888,13 +3240,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -132,
+    "osm_id": -131,
     "osm_type": "node",
     "ref_id": "92",
-    "tags.circumference": "330",
+    "tags.circumference": "3.3",
+    "tags.ele": "150",
     "tags.height": "15",
+    "tags.name": "Tuia gigante",
     "tags.natural": "tree",
-    "tags.ref": "04/H029/UD/06"
+    "tags.ref": "04/H029/UD/06",
+    "tags.species": "Thuja plicata Donn ex D.Don"
    },
    "type": "Feature"
   },
@@ -2909,14 +3264,17 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -133,
+    "osm_id": -132,
     "osm_type": "node",
     "ref_id": "93",
-    "tags.circumference": "783",
+    "tags.circumference": "7.83",
+    "tags.ele": "620",
     "tags.height": "19",
     "tags.historic": "yes",
+    "tags.name": "Castagno",
     "tags.natural": "tree",
-    "tags.ref": "01/H089/UD/06"
+    "tags.ref": "01/H089/UD/06",
+    "tags.species": "Castanea sativa Mill."
    },
    "type": "Feature"
   },
@@ -2931,13 +3289,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -134,
+    "osm_id": -133,
     "osm_type": "node",
     "ref_id": "94",
-    "tags.circumference": "520",
+    "tags.circumference": "5.2",
+    "tags.ele": "540",
     "tags.height": "24",
+    "tags.name": "Castagno",
     "tags.natural": "tree",
-    "tags.ref": "02/H089/UD/06"
+    "tags.ref": "02/H089/UD/06",
+    "tags.species": "Castanea sativa Mill."
    },
    "type": "Feature"
   },
@@ -2952,13 +3313,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -135,
+    "osm_id": -134,
     "osm_type": "node",
     "ref_id": "95",
-    "tags.circumference": "254",
+    "tags.circumference": "2.54",
+    "tags.ele": "1004",
     "tags.height": "15",
+    "tags.name": "Pero selvatico",
     "tags.natural": "tree",
-    "tags.ref": "01/H200/UD/06"
+    "tags.ref": "01/H200/UD/06",
+    "tags.species": "Pyrus pyraster (L.) Burgsd"
    },
    "type": "Feature"
   },
@@ -2973,13 +3337,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -136,
+    "osm_id": -135,
     "osm_type": "node",
     "ref_id": "96",
-    "tags.circumference": "235",
+    "tags.circumference": "2.35",
+    "tags.ele": "580",
     "tags.height": "23",
+    "tags.name": "Betulla verrucosa",
     "tags.natural": "tree",
-    "tags.ref": "01/H951/UD/06"
+    "tags.ref": "01/H951/UD/06",
+    "tags.species": "Betula pendula Roth"
    },
    "type": "Feature"
   },
@@ -2994,13 +3361,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -137,
+    "osm_id": -136,
     "osm_type": "node",
     "ref_id": "97",
-    "tags.circumference": "560",
+    "tags.circumference": "5.6",
+    "tags.ele": "530",
     "tags.height": "24",
+    "tags.name": "Castagno",
     "tags.natural": "tree",
-    "tags.ref": "02/H951/UD/06"
+    "tags.ref": "02/H951/UD/06",
+    "tags.species": "Castanea sativa Mill."
    },
    "type": "Feature"
   },
@@ -3015,13 +3385,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -138,
+    "osm_id": -137,
     "osm_type": "node",
     "ref_id": "98",
-    "tags.circumference": "420",
+    "tags.circumference": "4.2",
+    "tags.ele": "920",
     "tags.height": "29",
+    "tags.name": "Faggio",
     "tags.natural": "tree",
-    "tags.ref": "01/I479/UD/06"
+    "tags.ref": "01/I479/UD/06",
+    "tags.species": "Fagus sylvatica L."
    },
    "type": "Feature"
   },
@@ -3036,13 +3409,16 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -139,
+    "osm_id": -138,
     "osm_type": "node",
     "ref_id": "99",
-    "tags.circumference": "574",
+    "tags.circumference": "5.74",
+    "tags.ele": "30",
     "tags.height": "28",
+    "tags.name": "Cedro dell'Himalaya",
     "tags.natural": "tree",
-    "tags.ref": "01/L039/UD/06"
+    "tags.ref": "01/L039/UD/06",
+    "tags.species": "Cedrus deodara (D.Don) G.Don"
    },
    "type": "Feature"
   }

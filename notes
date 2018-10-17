@@ -6,10 +6,10 @@ null detection:
 cat .json | grep "null" | sort -u
 
 null removal:
-sed -i -e '/"circumference" : null/d' -e '/"height" : null/d' -e '/"historic" : null/d' -e '/"ref" : null/d' -e '/"species" : null/d' -e '/"survey:date" : "null"/d' AlberiMonumentali-FVG-csv.json
+sed -i -e '/"historic" : null/d' -e '/"name" : null/d'  -e '/"species" : null/d'  AlberiMonumentali-FVG-csv.json
 
 
-##########JON VALIDATION
+##########JSON VALIDATION
 if conflation reports error on json valisation, load in geojson.io and wait for popup
 
 if not installed:

@@ -1,17 +1,16 @@
     {
-      "id"  : {{(cells["gid"].value)}},
+      "id"  : {{(cells["Column"].value)}},
       "lat" : {{(cells["lat"].value)}},
       "lon" : {{(cells["lon"].value)}},
       "tags" : {
-               "natural" : "tree",
                "historic" : {{jsonize(cells["historic"].value)}},
                "ref" : {{jsonize(cells["ref"].value)}},
-               "name" : {{jsonize(cells["name"].value)}},
-               "species" : {{jsonize(cells["species"].value)}},
+               "name" : {{jsonize(cells["nome_vol"].value)}},
+               "species" : {{jsonize(cells["nome_sci"].value)}},
                "height" : {{jsonize(cells["height"].value)}},
+               "ele" : {{jsonize(cells["ele"].value)}},
                "circumference" : {{jsonize(cells["circumference"].value)}},
-               "source" : {{jsonize(cells["source"].value)}},
-               "survey:date" : {{jsonize(cells["survey:date"].value)}}
+               "natural" : "tree"
                }
     }
 
