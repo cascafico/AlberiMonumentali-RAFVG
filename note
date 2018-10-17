@@ -1,0 +1,7 @@
+esportazione con template
+
+rilevazione dei null: 
+cat .json | grep "null" | sort -u
+
+rimozione null:
+sed -i -e '/"circumference" : null/d' -e '/"height" : null/d' -e '/"historic" : null/d' -e '/"ref" : null/d' -e '/"species" : null/d' -e '/"survey:date" : "null"/d' AlberiMonumentali-FVG-csv.json

@@ -1,0 +1,2364 @@
+[
+    {
+      "id"  : 1,
+      "lat" : 45.980925,
+      "lon" : 13.498972222222221,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/D014/GO/06",
+               "name" : null,
+               "species" : null,
+               "height" : "15",
+               "circumference" : "433",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 2,
+      "lat" : 45.94096111111111,
+      "lon" : 13.623202777777779,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/E098/GO/06",
+               "name" : null,
+               "species" : null,
+               "height" : "30",
+               "circumference" : "450",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 3,
+      "lat" : 45.94689444444444,
+      "lon" : 13.630366666666667,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/E098/GO/06",
+               "name" : null,
+               "species" : null,
+               "height" : "22,0 (med) 25,0 (max)",
+               "circumference" : "450 (med) 520 (max)",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 4,
+      "lat" : 45.944513888888885,
+      "lon" : 13.628080555555556,
+      "tags" : {
+               "historic" : null,
+               "ref" : "03/E098/GO/06",
+               "name" : null,
+               "species" : null,
+               "height" : "30",
+               "circumference" : "455",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 5,
+      "lat" : 45.93805277777778,
+      "lon" : 13.626622222222222,
+      "tags" : {
+               "historic" : null,
+               "ref" : "04/E098/GO/06",
+               "name" : null,
+               "species" : null,
+               "height" : "8",
+               "circumference" : "280",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 6,
+      "lat" : 45.94535555555555,
+      "lon" : 13.620575,
+      "tags" : {
+               "historic" : "yes",
+               "ref" : "05/E098/GO/06",
+               "name" : null,
+               "species" : null,
+               "height" : "18",
+               "circumference" : "272",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 7,
+      "lat" : 45.940302777777774,
+      "lon" : 13.593808333333333,
+      "tags" : {
+               "historic" : "yes",
+               "ref" : "06/E098/GO/06",
+               "name" : null,
+               "species" : null,
+               "height" : "5,0 (med) 6,0 (max)",
+               "circumference" : "370 (med) 400 (max)",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 8,
+      "lat" : 45.95030833333334,
+      "lon" : 13.62633888888889,
+      "tags" : {
+               "historic" : null,
+               "ref" : "07/E098/GO/06",
+               "name" : null,
+               "species" : null,
+               "height" : "8",
+               "circumference" : "280",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 9,
+      "lat" : 45.885105555555555,
+      "lon" : 13.493991666666666,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/E124/GO/06",
+               "name" : null,
+               "species" : null,
+               "height" : "16",
+               "circumference" : "365",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 10,
+      "lat" : 45.888888888888886,
+      "lon" : 13.499430555555556,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/E124/GO/06",
+               "name" : null,
+               "species" : null,
+               "height" : "19",
+               "circumference" : "325",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 11,
+      "lat" : 45.94093333333333,
+      "lon" : 13.54205,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/F767/GO/06",
+               "name" : null,
+               "species" : null,
+               "height" : "16",
+               "circumference" : "500",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 12,
+      "lat" : 45.825252777777784,
+      "lon" : 13.500419444444445,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/H531/GO/06",
+               "name" : null,
+               "species" : null,
+               "height" : "25",
+               "circumference" : "410",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 13,
+      "lat" : 45.88692777777778,
+      "lon" : 13.581819444444443,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/I479/GO706",
+               "name" : null,
+               "species" : null,
+               "height" : "14",
+               "circumference" : "120",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 14,
+      "lat" : 45.80524722222222,
+      "lon" : 13.500197222222223,
+      "tags" : {
+               "historic" : "yes",
+               "ref" : "01/I939/GO/06",
+               "name" : null,
+               "species" : null,
+               "height" : "16",
+               "circumference" : "436",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 15,
+      "lat" : 46.12952777777778,
+      "lon" : 12.528180555555556,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/A516/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "18",
+               "circumference" : "470",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 16,
+      "lat" : 46°04'36,19,
+      "lon" : 12.569986111111112,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/A516/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "12",
+               "circumference" : "670",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 17,
+      "lat" : 46.187263888888886,
+      "lon" : 12.472236111111112,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/A640/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "15",
+               "circumference" : "424",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 18,
+      "lat" : 45.967216666666666,
+      "lon" : 12.4309,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/B598/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "28",
+               "circumference" : "450",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 19,
+      "lat" : 45.96851388888889,
+      "lon" : 12.448008333333334,
+      "tags" : {
+               "historic" : "yes",
+               "ref" : "02/B598/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "19",
+               "circumference" : "282",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 20,
+      "lat" : 46.001577777777776,
+      "lon" : 12.430958333333333,
+      "tags" : {
+               "historic" : null,
+               "ref" : "03/B598/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "12",
+               "circumference" : "430",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 21,
+      "lat" : 46.248441666666665,
+      "lon" : 12.554947222222223,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/C790/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "22",
+               "circumference" : "386",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 22,
+      "lat" : 46.24828333333333,
+      "lon" : 12.555672222222222,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/C790/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "22",
+               "circumference" : "452",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 23,
+      "lat" : 46.33217500000001,
+      "lon" : 12.627575,
+      "tags" : {
+               "historic" : null,
+               "ref" : "03/C790/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "33",
+               "circumference" : "402",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 24,
+      "lat" : 46.33226944444445,
+      "lon" : 12.627916666666668,
+      "tags" : {
+               "historic" : null,
+               "ref" : "04/C790/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "27",
+               "circumference" : "442",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 25,
+      "lat" : 46.33430833333333,
+      "lon" : 12.622616666666667,
+      "tags" : {
+               "historic" : null,
+               "ref" : "05/C790/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "29",
+               "circumference" : "405",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 26,
+      "lat" : 45.92112222222222,
+      "lon" : 12.674249999999999,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/D621/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "25",
+               "circumference" : "545",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 27,
+      "lat" : 46.172916666666666,
+      "lon" : 12.700991666666665,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/E889/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "35",
+               "circumference" : "445",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 28,
+      "lat" : 46.1691,
+      "lon" : 12.706430555555555,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/E889/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "22",
+               "circumference" : "435",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 29,
+      "lat" : 45.959250000000004,
+      "lon" : 12.615808333333334,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/G886/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "32",
+               "circumference" : "455",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 30,
+      "lat" : 45.95708611111112,
+      "lon" : 12.617894444444445,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/G886/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "22",
+               "circumference" : "450",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 31,
+      "lat" : 45.958394444444444,
+      "lon" : 12.616297222222222,
+      "tags" : {
+               "historic" : null,
+               "ref" : "03/G886/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "15",
+               "circumference" : "245",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 32,
+      "lat" : 46.16363611111111,
+      "lon" : 12°52'09,69",
+      "tags" : {
+               "historic" : "yes",
+               "ref" : "01/I621/PN/06",
+               "name" : null,
+               "species" : null,
+               "height" : "21",
+               "circumference" : "361",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 33,
+      "lat" : 45.770938888888885,
+      "lon" : 13.624411111111112,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/D383/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "7",
+               "circumference" : "92",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 34,
+      "lat" : 45.77149166666666,
+      "lon" : 13.629644444444445,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/D383/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "28",
+               "circumference" : "320",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 35,
+      "lat" : 45.594794444444446,
+      "lon" : 13.766977777777779,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/F795/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "17",
+               "circumference" : "410",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 36,
+      "lat" : 45.704994444444445,
+      "lon" : 13.713161111111111,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/L424/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "12",
+               "circumference" : "204",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 37,
+      "lat" : 45.70379444444445,
+      "lon" : 13.712880555555556,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/L424/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "28",
+               "circumference" : "267-250-230",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 38,
+      "lat" : 45.71527777777778,
+      "lon" : 13.705047222222221,
+      "tags" : {
+               "historic" : null,
+               "ref" : "03/L424/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "18",
+               "circumference" : "410",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 39,
+      "lat" : 45.70576944444445,
+      "lon" : 13.803552777777778,
+      "tags" : {
+               "historic" : null,
+               "ref" : "04/L424/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "35",
+               "circumference" : "310",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 40,
+      "lat" : 45.6441,
+      "lon" : 13.815258333333334,
+      "tags" : {
+               "historic" : null,
+               "ref" : "05/L424/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "18",
+               "circumference" : "360",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 41,
+      "lat" : 45.70353333333333,
+      "lon" : 13.71641111111111,
+      "tags" : {
+               "historic" : null,
+               "ref" : "06/L424/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "20",
+               "circumference" : "250",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 42,
+      "lat" : 45.653925,
+      "lon" : 13.784094444444444,
+      "tags" : {
+               "historic" : null,
+               "ref" : "07/L424/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "28",
+               "circumference" : "520",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 43,
+      "lat" : 45.65405,
+      "lon" : 13.784372222222222,
+      "tags" : {
+               "historic" : null,
+               "ref" : "08/L424/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "31",
+               "circumference" : "525",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 44,
+      "lat" : 45.660894444444445,
+      "lon" : 13.796788888888889,
+      "tags" : {
+               "historic" : null,
+               "ref" : "09/L424/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "28",
+               "circumference" : "410",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 45,
+      "lat" : 45.65308888888889,
+      "lon" : 13.805216666666668,
+      "tags" : {
+               "historic" : null,
+               "ref" : "10/L424/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "15",
+               "circumference" : "420",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 46,
+      "lat" : 45.704097222222224,
+      "lon" : 13.713608333333333,
+      "tags" : {
+               "historic" : null,
+               "ref" : "11/L424/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "30",
+               "circumference" : "425",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 47,
+      "lat" : 45.63704722222222,
+      "lon" : 13.80185,
+      "tags" : {
+               "historic" : null,
+               "ref" : "12/L424/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "20",
+               "circumference" : "343",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 48,
+      "lat" : 45.61075,
+      "lon" : 13.872322222222223,
+      "tags" : {
+               "historic" : null,
+               "ref" : "13/L424/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "20,0 (med) 25,0 (max)",
+               "circumference" : "360 (med) 380 (max)",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 49,
+      "lat" : 45.608105555555554,
+      "lon" : 13.858513888888888,
+      "tags" : {
+               "historic" : null,
+               "ref" : "14/L424/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "12",
+               "circumference" : "403",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 50,
+      "lat" : 45.687266666666666,
+      "lon" : 13.786727777777777,
+      "tags" : {
+               "historic" : null,
+               "ref" : "15/L424/TS/06",
+               "name" : null,
+               "species" : null,
+               "height" : "15",
+               "circumference" : "303",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 51,
+      "lat" : 46.47431944444445,
+      "lon" : 12.776833333333334,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/A267/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "27",
+               "circumference" : "494",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 52,
+      "lat" : 46.19074722222222,
+      "lon" : 13.306236111111112,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/A491/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "35",
+               "circumference" : "540",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 53,
+      "lat" : 46.19070833333333,
+      "lon" : 13.306222222222223,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/A491/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "35",
+               "circumference" : "600",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 54,
+      "lat" : 46.188541666666666,
+      "lon" : 13.305475000000001,
+      "tags" : {
+               "historic" : null,
+               "ref" : "03/A491/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "21.5",
+               "circumference" : "470",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 55,
+      "lat" : 46.19144444444444,
+      "lon" : 13.304102777777778,
+      "tags" : {
+               "historic" : "yes",
+               "ref" : "04/A491/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "31",
+               "circumference" : "660",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 56,
+      "lat" : 45.99531944444445,
+      "lon" : 13.076711111111111,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/A700/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "18",
+               "circumference" : "400",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 57,
+      "lat" : 46.01228888888889,
+      "lon" : 13.068444444444443,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/A700/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "18",
+               "circumference" : "378",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 58,
+      "lat" : 45.99563611111111,
+      "lon" : 13.081480555555554,
+      "tags" : {
+               "historic" : null,
+               "ref" : "03/A700/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "8",
+               "circumference" : "338",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 59,
+      "lat" : 46.007375,
+      "lon" : 13.149058333333333,
+      "tags" : {
+               "historic" : "yes",
+               "ref" : "04/A700/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "24,0 (med) 25,0 (max)",
+               "circumference" : "245 (med) 260 (max) ",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 60,
+      "lat" : 45.905030555555555,
+      "lon" : 13.051747222222223,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/A810/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "21",
+               "circumference" : "780",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 61,
+      "lat" : 46.09431666666667,
+      "lon" : 13.427225,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/C758/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "25",
+               "circumference" : "395",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 62,
+      "lat" : 46.09491944444445,
+      "lon" : 13.42888611111111,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/C758/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "25",
+               "circumference" : "350",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 63,
+      "lat" : 46.08975277777778,
+      "lon" : 13.451441666666666,
+      "tags" : {
+               "historic" : null,
+               "ref" : "05/C758/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "5.5",
+               "circumference" : "240",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 64,
+      "lat" : 46.10261666666667,
+      "lon" : 13.442544444444446,
+      "tags" : {
+               "historic" : null,
+               "ref" : "06/C758/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "2.5",
+               "circumference" : "68",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 65,
+      "lat" : 45.95044444444445,
+      "lon" : 13.008244444444445,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/C817/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "21",
+               "circumference" : "456",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 66,
+      "lat" : 45.949755555555555,
+      "lon" : 13.009377777777777,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/C817/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "21",
+               "circumference" : "475",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 67,
+      "lat" : 45.95011111111111,
+      "lon" : 13.012477777777777,
+      "tags" : {
+               "historic" : null,
+               "ref" : "03/C817/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "15",
+               "circumference" : "190",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 68,
+      "lat" : 45.94939722222222,
+      "lon" : 13°00'30,85',
+      "tags" : {
+               "historic" : null,
+               "ref" : "04/C817/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "19",
+               "circumference" : "420",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 69,
+      "lat" : 45.95033888888889,
+      "lon" : 13.00891111111111,
+      "tags" : {
+               "historic" : null,
+               "ref" : "05/C817/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "32",
+               "circumference" : "395",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 70,
+      "lat" : 45.950677777777784,
+      "lon" : 13.011780555555555,
+      "tags" : {
+               "historic" : null,
+               "ref" : "06/C817/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "25",
+               "circumference" : "250",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 71,
+      "lat" : 45.949861111111105,
+      "lon" : 13.012688888888889,
+      "tags" : {
+               "historic" : null,
+               "ref" : "07/C817/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "20",
+               "circumference" : "290",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 72,
+      "lat" : 45.94945277777777,
+      "lon" : 13.011877777777778,
+      "tags" : {
+               "historic" : null,
+               "ref" : "08/C817/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "16",
+               "circumference" : "410",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 73,
+      "lat" : 45.94907499999999,
+      "lon" : 13.008994444444445,
+      "tags" : {
+               "historic" : null,
+               "ref" : "09/C817/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "30",
+               "circumference" : "430",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 74,
+      "lat" : 45.94869722222222,
+      "lon" : 13.009602777777777,
+      "tags" : {
+               "historic" : null,
+               "ref" : "10/C817/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "22",
+               "circumference" : "409",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 75,
+      "lat" : 45.952847222222225,
+      "lon" : 13.009130555555556,
+      "tags" : {
+               "historic" : null,
+               "ref" : "11/C817/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "21",
+               "circumference" : "495",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 76,
+      "lat" : 46.43916944444444,
+      "lon" : 12.832097222222222,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/D408/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "17",
+               "circumference" : "345",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 77,
+      "lat" : 45.682125,
+      "lon" : 13.133875,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/E584/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "15",
+               "circumference" : "213",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 78,
+      "lat" : 45.69185833333333,
+      "lon" : 13.13968888888889,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/E584/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "10",
+               "circumference" : "250",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 79,
+      "lat" : 46.50668888888889,
+      "lon" : 13.438766666666666,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/E847/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "22",
+               "circumference" : "663",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 80,
+      "lat" : 46.1232,
+      "lon" : 13.159766666666666,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/F760/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "27",
+               "circumference" : "410",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 81,
+      "lat" : 46.12339722222222,
+      "lon" : 13.159786111111112,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/F760/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "25",
+               "circumference" : "360",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 82,
+      "lat" : 46.12286388888889,
+      "lon" : 13.159247222222223,
+      "tags" : {
+               "historic" : null,
+               "ref" : "03/F760/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "26",
+               "circumference" : "370",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 83,
+      "lat" : 46.586600000000004,
+      "lon" : 12.000625,
+      "tags" : {
+               "historic" : "yes",
+               "ref" : "01/G300/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "25,0 (med) 28,0 (max)",
+               "circumference" : "450 (med) 600 (max)",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 84,
+      "lat" : 46.564836111111106,
+      "lon" : 13.116736111111111,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/G381/UD/06\n",
+               "name" : null,
+               "species" : null,
+               "height" : "35",
+               "circumference" : "380",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 85,
+      "lat" : 46.570527777777784,
+      "lon" : 13.11075,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/G381/UD/06\n",
+               "name" : null,
+               "species" : null,
+               "height" : "49",
+               "circumference" : "365",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 86,
+      "lat" : 46.511355555555554,
+      "lon" : 13.305991666666667,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/G831/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "25",
+               "circumference" : "390",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 87,
+      "lat" : 46.510325,
+      "lon" : 13.313933333333335,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/G831/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "18",
+               "circumference" : "248",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 88,
+      "lat" : 46.50619722222222,
+      "lon" : 13.302502777777779,
+      "tags" : {
+               "historic" : null,
+               "ref" : "03/G831/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "18",
+               "circumference" : "292",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 89,
+      "lat" : 46.02371111111111,
+      "lon" : 13.429008333333332,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/H029/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "20.5",
+               "circumference" : "530",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 90,
+      "lat" : 46.02407777777778,
+      "lon" : 13.429363888888888,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/H029/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "21",
+               "circumference" : "500",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 91,
+      "lat" : 46.0238,
+      "lon" : 13.429488888888889,
+      "tags" : {
+               "historic" : null,
+               "ref" : "03/H029/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "4.5",
+               "circumference" : "180",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 92,
+      "lat" : 46.024475,
+      "lon" : 13.42933611111111,
+      "tags" : {
+               "historic" : null,
+               "ref" : "04/H029/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "15",
+               "circumference" : "330",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 93,
+      "lat" : 46.17304444444444,
+      "lon" : 13.459538888888888,
+      "tags" : {
+               "historic" : "yes",
+               "ref" : "01/H089/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "19",
+               "circumference" : "783",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 94,
+      "lat" : 46.16818611111111,
+      "lon" : 13.464316666666665,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/H089/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "24",
+               "circumference" : "520",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 95,
+      "lat" : 46.44835833333333,
+      "lon" : 12.826841666666667,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/H200/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "15",
+               "circumference" : "254",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 96,
+      "lat" : 46.10178611111111,
+      "lon" : 13.548919444444444,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/H951/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "23",
+               "circumference" : "235",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 97,
+      "lat" : 46.1472,
+      "lon" : 13.532219444444445,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/H951/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "24",
+               "circumference" : "560",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 98,
+      "lat" : 46.19378888888888,
+      "lon" : 13.531055555555556,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/I479/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "29",
+               "circumference" : "420",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 99,
+      "lat" : 45.92173888888889,
+      "lon" : 13.13886111111111,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/L039/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "28",
+               "circumference" : "574",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 100,
+      "lat" : 46.215605555555555,
+      "lon" : 13.22285,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/L050/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "30",
+               "circumference" : "550",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 101,
+      "lat" : 46.21457222222222,
+      "lon" : 13.225041666666666,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/L050/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "24",
+               "circumference" : "450",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 102,
+      "lat" : 46.50903611111111,
+      "lon" : 13.53436111111111,
+      "tags" : {
+               "historic" : "yes",
+               "ref" : "01/L057/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "18,0 (med) 20,0 (max)",
+               "circumference" : "300 (med) 350 (max)",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 103,
+      "lat" : 46.474808333333335,
+      "lon" : 13.535155555555555,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/L057/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "27",
+               "circumference" : "531",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 104,
+      "lat" : 46.475611111111114,
+      "lon" : 13.536072222222222,
+      "tags" : {
+               "historic" : null,
+               "ref" : "03/L057/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "31",
+               "circumference" : "445",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 105,
+      "lat" : 46.47551388888889,
+      "lon" : 13.535683333333333,
+      "tags" : {
+               "historic" : null,
+               "ref" : "04/L057/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "32",
+               "circumference" : "545",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 106,
+      "lat" : 46.54076111111111,
+      "lon" : 13.536486111111111,
+      "tags" : {
+               "historic" : null,
+               "ref" : "05/L057/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "11",
+               "circumference" : "450",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 107,
+      "lat" : 46.49248611111111,
+      "lon" : 13.686766666666667,
+      "tags" : {
+               "historic" : null,
+               "ref" : "06/L057/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "29.5",
+               "circumference" : "445 - 380",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 108,
+      "lat" : 46.51205,
+      "lon" : 13.624347222222223,
+      "tags" : {
+               "historic" : null,
+               "ref" : "07/L057/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "19",
+               "circumference" : "405",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 109,
+      "lat" : 46.498244444444445,
+      "lon" : 13.595688888888889,
+      "tags" : {
+               "historic" : "yes",
+               "ref" : "08/L057/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "25",
+               "circumference" : "330",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 110,
+      "lat" : 46.50660555555555,
+      "lon" : 13.568297222222222,
+      "tags" : {
+               "historic" : null,
+               "ref" : "09/L057/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "23",
+               "circumference" : "445",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 111,
+      "lat" : 46.43763611111111,
+      "lon" : 13.585497222222223,
+      "tags" : {
+               "historic" : null,
+               "ref" : "10/L057/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "35",
+               "circumference" : "495",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 112,
+      "lat" : 46.438180555555554,
+      "lon" : 13.547816666666666,
+      "tags" : {
+               "historic" : null,
+               "ref" : "11/L057/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "36",
+               "circumference" : "490",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 113,
+      "lat" : 46.497841666666666,
+      "lon" : 13.598694444444446,
+      "tags" : {
+               "historic" : null,
+               "ref" : "12/L057/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "30",
+               "circumference" : "460",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 114,
+      "lat" : 46.51068055555555,
+      "lon" : 13.526375000000002,
+      "tags" : {
+               "historic" : null,
+               "ref" : "13/L057/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "32",
+               "circumference" : "525",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 115,
+      "lat" : 46.15911944444444,
+      "lon" : 13.21525,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/L421/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "31",
+               "circumference" : "450",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 116,
+      "lat" : 46.161775,
+      "lon" : 13.211855555555555,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/L421/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "2.5",
+               "circumference" : "160",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 117,
+      "lat" : 46.1736,
+      "lon" : 13.218811111111112,
+      "tags" : {
+               "historic" : null,
+               "ref" : "03/L421/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "28",
+               "circumference" : "370",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 118,
+      "lat" : 46.17349166666666,
+      "lon" : 13.218705555555555,
+      "tags" : {
+               "historic" : null,
+               "ref" : "04/L421/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "25,0 (med) 29,0 (max)",
+               "circumference" : "350 (med) 380 (max)",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 119,
+      "lat" : 46.173383333333334,
+      "lon" : 13.219469444444444,
+      "tags" : {
+               "historic" : null,
+               "ref" : "06/L421/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "20",
+               "circumference" : "335",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 120,
+      "lat" : 46.06429166666666,
+      "lon" : 13.23651111111111,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "30",
+               "circumference" : "522",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 121,
+      "lat" : 46.06409444444444,
+      "lon" : 13.235888888888889,
+      "tags" : {
+               "historic" : null,
+               "ref" : "02/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "28",
+               "circumference" : "448",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 122,
+      "lat" : 46.06448611111111,
+      "lon" : 13.236749999999999,
+      "tags" : {
+               "historic" : null,
+               "ref" : "03/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "27",
+               "circumference" : "395",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 123,
+      "lat" : 46.060652777777776,
+      "lon" : 13.229019444444445,
+      "tags" : {
+               "historic" : null,
+               "ref" : "04/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "22",
+               "circumference" : "414",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 124,
+      "lat" : 46.063088888888885,
+      "lon" : 13.239552777777776,
+      "tags" : {
+               "historic" : null,
+               "ref" : "06/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "25",
+               "circumference" : "427",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 125,
+      "lat" : 46.06285277777778,
+      "lon" : 13.23946111111111,
+      "tags" : {
+               "historic" : null,
+               "ref" : "07/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "28",
+               "circumference" : "430",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 126,
+      "lat" : 46.062777777777775,
+      "lon" : 13.239763888888888,
+      "tags" : {
+               "historic" : null,
+               "ref" : "08/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "25",
+               "circumference" : "473",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 127,
+      "lat" : 46.063741666666665,
+      "lon" : 13.238902777777778,
+      "tags" : {
+               "historic" : null,
+               "ref" : "12/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "13",
+               "circumference" : "393",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 128,
+      "lat" : 46.06381666666666,
+      "lon" : 13.239252777777777,
+      "tags" : {
+               "historic" : null,
+               "ref" : "13/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "20",
+               "circumference" : "694",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 129,
+      "lat" : 46.06344722222222,
+      "lon" : 13.239777777777777,
+      "tags" : {
+               "historic" : null,
+               "ref" : "14/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "20,0 (med) 22,0 (max)",
+               "circumference" : "320 (med) 334 (max)",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 130,
+      "lat" : 46.071136111111116,
+      "lon" : 13.229472222222222,
+      "tags" : {
+               "historic" : null,
+               "ref" : "16/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "31",
+               "circumference" : "570",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 131,
+      "lat" : 46.06333333333333,
+      "lon" : 13.228163888888888,
+      "tags" : {
+               "historic" : null,
+               "ref" : "17/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "35",
+               "circumference" : "610",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 132,
+      "lat" : 46.06391111111111,
+      "lon" : 13.227766666666668,
+      "tags" : {
+               "historic" : null,
+               "ref" : "18/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "32",
+               "circumference" : "430",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 133,
+      "lat" : 46.06464444444444,
+      "lon" : 13.237222222222222,
+      "tags" : {
+               "historic" : null,
+               "ref" : "22/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "22",
+               "circumference" : "448",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 134,
+      "lat" : 46.05461388888889,
+      "lon" : 13.246452777777776,
+      "tags" : {
+               "historic" : null,
+               "ref" : "23/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "32",
+               "circumference" : "508",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 135,
+      "lat" : 46.069383333333334,
+      "lon" : 13.236019444444443,
+      "tags" : {
+               "historic" : null,
+               "ref" : "25/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "8",
+               "circumference" : "n. 40 esemplari con piccole circonferenze dei fusti",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 136,
+      "lat" : 46.08264166666667,
+      "lon" : 13.186380555555555,
+      "tags" : {
+               "historic" : null,
+               "ref" : "26/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "24",
+               "circumference" : "400",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 137,
+      "lat" : 46.06266111111111,
+      "lon" : 13.236847222222222,
+      "tags" : {
+               "historic" : null,
+               "ref" : "27/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "25",
+               "circumference" : "300",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 138,
+      "lat" : 46.05803611111111,
+      "lon" : 13.245849999999999,
+      "tags" : {
+               "historic" : null,
+               "ref" : "28/l483/UD/06",
+               "name" : null,
+               "species" : null,
+               "height" : "20",
+               "circumference" : "300",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+,
+    {
+      "id"  : 139,
+      "lat" : 45.88856944444444,
+      "lon" : 12.98862222222222,
+      "tags" : {
+               "historic" : null,
+               "ref" : "01/L686/UD(06",
+               "name" : null,
+               "species" : null,
+               "height" : "29",
+               "circumference" : "580",
+               "source" : null,
+               "survey:date" : null,
+               "natural" : "tree"
+               }
+    }
+]
