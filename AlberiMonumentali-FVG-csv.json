@@ -40,6 +40,7 @@
                "height" : 22,
                "ele" : 100,
                "circumference" : 4.5,
+               "denotation" : "natural_monument",
                "natural" : "tree"
                }
     }
@@ -86,6 +87,7 @@
                "height" : 18,
                "ele" : 85,
                "circumference" : 2.72,
+               "denotation" : "natural_monument",
                "natural" : "tree"
                }
     }
@@ -826,6 +828,7 @@
                "height" : 31,
                "ele" : 225,
                "circumference" : 6.6,
+               "denotation" : "natural_monument",
                "natural" : "tree"
                }
     }
@@ -902,6 +905,7 @@
                "height" : 21,
                "ele" : 18,
                "circumference" : 7.8,
+               "denotation" : "natural_monument",
                "natural" : "tree"
                }
     }
@@ -1187,6 +1191,7 @@
                "height" : 22,
                "ele" : 720,
                "circumference" : 6.63,
+               "denotation" : "natural_monument",
                "natural" : "tree"
                }
     }
@@ -1535,6 +1540,7 @@
                "height" : 18,
                "ele" : 802,
                "circumference" : 3,
+               "denotation" : "natural_monument",
                "natural" : "tree"
                }
     }
@@ -1806,6 +1812,7 @@
                "height" : 30,
                "ele" : 222,
                "circumference" : 5.22,
+               "denotation" : "natural_monument",
                "natural" : "tree"
                }
     }
@@ -1881,6 +1888,7 @@
                "height" : 28,
                "ele" : 173,
                "circumference" : 4.3,
+               "denotation" : "natural_monument",
                "natural" : "tree"
                }
     }
@@ -1911,6 +1919,7 @@
                "height" : 13,
                "ele" : 171,
                "circumference" : 3.93,
+               "denotation" : "natural_monument",
                "natural" : "tree"
                }
     }
@@ -1926,6 +1935,7 @@
                "height" : 20,
                "ele" : 171,
                "circumference" : 6.94,
+               "denotation" : "natural_monument",
                "natural" : "tree"
                }
     }
@@ -1941,6 +1951,7 @@
                "height" : 20,
                "ele" : 171,
                "circumference" : 3.2,
+               "denotation" : "natural_monument",
                "natural" : "tree"
                }
     }
@@ -1971,6 +1982,7 @@
                "height" : 35,
                "ele" : 172,
                "circumference" : 6.1,
+               "denotation" : "natural_monument",
                "natural" : "tree"
                }
     }
@@ -2016,6 +2028,7 @@
                "height" : 32,
                "ele" : 172,
                "circumference" : 5.08,
+               "denotation" : "natural_monument",
                "natural" : "tree"
                }
     }
@@ -2031,6 +2044,7 @@
                "height" : 8,
                "ele" : 175,
                "circumference" : "n. 40 esemplari con piccole circonferenze dei fusti",
+               "denotation" : "natural_monument",
                "natural" : "tree"
                }
     }

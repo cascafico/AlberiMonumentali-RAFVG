@@ -1,0 +1,227 @@
+[
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column circonfere using expression value.toNumber()",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "circonfere",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column h_stimata using expression value.toNumber()",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "h_stimata",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column h_misurata using expression value.toNumber()",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "h_misurata",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column data_rilie using expression value.toDate()",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "data_rilie",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column lat using expression value.toNumber()",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "lat",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column lon using expression value.toNumber()",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "lon",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column numero_sch to ref",
+    "oldColumnName": "numero_sch",
+    "newColumnName": "ref"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column specie to species",
+    "oldColumnName": "specie",
+    "newColumnName": "species"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column nome_volga to name",
+    "oldColumnName": "nome_volga",
+    "newColumnName": "name"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column circonfere to circumference",
+    "oldColumnName": "circonfere",
+    "newColumnName": "circumference"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column height at index 8 based on column h_stimata using expression grel:cells[\"h_misurata\"].value + cells[\"h_stimata\"].value",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "newColumnName": "height",
+    "columnInsertIndex": 8,
+    "baseColumnName": "h_stimata",
+    "expression": "grel:cells[\"h_misurata\"].value + cells[\"h_stimata\"].value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column fonte to source",
+    "oldColumnName": "fonte",
+    "newColumnName": "source"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column data_rilie to survey:date",
+    "oldColumnName": "data_rilie",
+    "newColumnName": "survey:date"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column survey:date using expression value.toString()",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "survey:date",
+    "expression": "value.toString()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column tipo to denotation",
+    "oldColumnName": "tipo",
+    "newColumnName": "denotation"
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column denotation",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "denotation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Albero monumentale"
+        ],
+        "to": "natural_monument"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column denotation",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "denotation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Albero notevole"
+        ],
+        "to": "landmark"
+      }
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column circumference using expression grel:value/100",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "circumference",
+    "expression": "grel:value/100",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column vincolo to protected",
+    "oldColumnName": "vincolo",
+    "newColumnName": "protected"
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column protected",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "protected",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "D.Preg 055/Pres del 6 marzo 2017"
+        ],
+        "to": "yes"
+      }
+    ]
+  }
+]

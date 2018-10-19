@@ -346,5 +346,77 @@
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column PROPOSTA DICHIARAZIONE NOTEVOLE INTERESSE PUBBLICO to denotation",
+    "oldColumnName": "PROPOSTA DICHIARAZIONE NOTEVOLE INTERESSE PUBBLICO",
+    "newColumnName": "denotation"
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column denotation",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "denotation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "no"
+        ],
+        "to": ""
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column denotation",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "denotation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "si"
+        ],
+        "to": "natural_monument"
+      }
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column denotation using expression grel:null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": true,
+          "selection": [],
+          "selectError": false,
+          "invert": false,
+          "name": "denotation",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "denotation"
+        }
+      ]
+    },
+    "columnName": "denotation",
+    "expression": "grel:null",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
   }
 ]

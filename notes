@@ -6,7 +6,9 @@ null detection:
 cat .json | grep "null" | sort -u
 
 null removal:
-sed -i -e '/"historic" : null/d' -e '/"name" : null/d'  -e '/"species" : null/d'  AlberiMonumentali-FVG-csv.json
+sed -i -e '/"historic" : null/d' -e '/"name" : null/d'  -e '/"species" : null/d' -e '/"denotation" : null/d' AlberiMonumentali-FVG-csv.json
+or, briefly:
+sed -i -e '/ : null/d' AlberiMonumentali-FVG-csv.json
 
 
 ##########JSON VALIDATION
