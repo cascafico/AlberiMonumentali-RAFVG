@@ -418,5 +418,70 @@
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column nome_sci using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "nome_sci",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column nome_vol using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "nome_vol",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column genus at index 10 based on column nome_sci using expression grel:smartSplit(value, \" \")[0]",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "genus",
+    "columnInsertIndex": 10,
+    "baseColumnName": "nome_sci",
+    "expression": "grel:smartSplit(value, \" \")[0]",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column leaf_type at index 11 based on column genus using expression grel:cell.cross(\"tree leaf wiki\", \"Genus\").cells[\"leaf_type=*\"].value[0]",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "leaf_type",
+    "columnInsertIndex": 11,
+    "baseColumnName": "genus",
+    "expression": "grel:cell.cross(\"tree leaf wiki\", \"Genus\").cells[\"leaf_type=*\"].value[0]",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column leaf_cycle at index 11 based on column genus using expression grel:cell.cross(\"tree leaf wiki\", \"Genus\").cells[\"leaf_cycle=*\"].value[0]",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "leaf_cycle",
+    "columnInsertIndex": 11,
+    "baseColumnName": "genus",
+    "expression": "grel:cell.cross(\"tree leaf wiki\", \"Genus\").cells[\"leaf_cycle=*\"].value[0]",
+    "onError": "set-to-blank"
   }
 ]

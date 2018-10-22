@@ -4,12 +4,14 @@
       "lat" : 45.980925,
       "lon" : 13.498972222222221,
       "tags" : {
+               "historic" : null,
                "ref" : "01/D014/GO/06",
-               "name" : "Roverella ",
+               "genus:it" : "Roverella ",
                "species" : "Quercus pubescens Willd.",
                "height" : 15,
                "ele" : 109,
                "circumference" : 4.33,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -19,12 +21,14 @@
       "lat" : 45.94096111111111,
       "lon" : 13.623202777777779,
       "tags" : {
+               "historic" : null,
                "ref" : "01/E098/GO/06",
-               "name" : "Platano comune",
+               "genus:it" : "Platano comune",
                "species" : "Platanus acerifolia (Aiton) Willd.",
                "height" : 30,
                "ele" : 85,
                "circumference" : 4.5,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -34,8 +38,9 @@
       "lat" : 45.94689444444444,
       "lon" : 13.630366666666667,
       "tags" : {
+               "historic" : null,
                "ref" : "02/E098/GO/06",
-               "name" : "Castagno",
+               "genus:it" : "Castagno",
                "species" : "Insieme omogeneo di Castanea sativa Mill.",
                "height" : 22,
                "ele" : 100,
@@ -50,12 +55,14 @@
       "lat" : 45.944513888888885,
       "lon" : 13.628080555555556,
       "tags" : {
+               "historic" : null,
                "ref" : "03/E098/GO/06",
-               "name" : "Platano comune",
+               "genus:it" : "Platano comune",
                "species" : "Platanus acerifolia (Aiton) Willd.",
                "height" : 30,
                "ele" : 120,
                "circumference" : 4.55,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -65,12 +72,14 @@
       "lat" : 45.93805277777778,
       "lon" : 13.626622222222222,
       "tags" : {
+               "historic" : null,
                "ref" : "04/E098/GO/06",
-               "name" : "Gelso bianco",
+               "genus:it" : "Gelso bianco",
                "species" : "Morus alba L.",
                "height" : 8,
                "ele" : 80,
                "circumference" : 2.8,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -82,7 +91,7 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "05/E098/GO/06",
-               "name" : "Magnolia",
+               "genus:it" : "Magnolia",
                "species" : "Magnolia grandiflora L.",
                "height" : 18,
                "ele" : 85,
@@ -99,11 +108,12 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "06/E098/GO/06",
-               "name" : "Paulonia",
+               "genus:it" : "Paulonia",
                "species" : "Insieme omogeneo di Paulownia tomentosa (Thunb.) Steud.",
                "height" : 5,
                "ele" : 60,
                "circumference" : 3.7,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -113,12 +123,14 @@
       "lat" : 45.95030833333334,
       "lon" : 13.62633888888889,
       "tags" : {
+               "historic" : null,
                "ref" : "07/E098/GO/06",
-               "name" : "Gelso bianco",
+               "genus:it" : "Gelso bianco",
                "species" : "Morus alba L.",
                "height" : 8,
                "ele" : 83,
                "circumference" : 2.8,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -128,12 +140,14 @@
       "lat" : 45.885105555555555,
       "lon" : 13.493991666666666,
       "tags" : {
+               "historic" : null,
                "ref" : "01/E124/GO/06",
-               "name" : "Magnolia",
+               "genus:it" : "Magnolia",
                "species" : "Magnolia grandiflora L.",
                "height" : 16,
                "ele" : 30,
                "circumference" : 3.65,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -143,12 +157,14 @@
       "lat" : 45.888888888888886,
       "lon" : 13.499430555555556,
       "tags" : {
+               "historic" : null,
                "ref" : "02/E124/GO/06",
-               "name" : "Pino d'Aleppo",
+               "genus:it" : "Pino d'Aleppo",
                "species" : "Pinus halepensis Mill.",
                "height" : 19,
                "ele" : 30,
                "circumference" : 3.25,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -158,12 +174,14 @@
       "lat" : 45.94093333333333,
       "lon" : 13.54205,
       "tags" : {
+               "historic" : null,
                "ref" : "01/F767/GO/06",
-               "name" : "Farnia",
+               "genus:it" : "Farnia",
                "species" : "Quercus robur L.",
                "height" : 16,
                "ele" : 95,
                "circumference" : 5,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -173,12 +191,14 @@
       "lat" : 45.825252777777784,
       "lon" : 13.500419444444445,
       "tags" : {
+               "historic" : null,
                "ref" : "01/H531/GO/06",
-               "name" : "Pioppo nero",
+               "genus:it" : "Pioppo nero",
                "species" : "Populus nigra L.",
                "height" : 25,
                "ele" : 11,
                "circumference" : 4.1,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -188,12 +208,14 @@
       "lat" : 45.88692777777778,
       "lon" : 13.581819444444443,
       "tags" : {
+               "historic" : null,
                "ref" : "02/I479/GO706",
-               "name" : "Glicine",
+               "genus:it" : "Glicine",
                "species" : "Wisteria sinensis (Sims) Sweet",
                "height" : 14,
                "ele" : 30,
                "circumference" : 1.2,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -205,11 +227,12 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "01/I939/GO/06",
-               "name" : "Bagolaro ",
+               "genus:it" : "Bagolaro ",
                "species" : "Celtis australis L.",
                "height" : 16,
                "ele" : 6,
                "circumference" : 4.36,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -219,12 +242,14 @@
       "lat" : 46.12952777777778,
       "lon" : 12.528180555555556,
       "tags" : {
+               "historic" : null,
                "ref" : "01/A516/PN/06",
-               "name" : "Faggio",
+               "genus:it" : "Faggio",
                "species" : "Fagus sylvatica L.",
                "height" : 18,
                "ele" : 1193,
                "circumference" : 4.7,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -234,12 +259,14 @@
       "lat" : 46.07671944444445,
       "lon" : 12.569986111111112,
       "tags" : {
+               "historic" : null,
                "ref" : "02/A516/PN/06",
-               "name" : "Acero campestre",
+               "genus:it" : "Acero campestre",
                "species" : "Acer campestre L.",
                "height" : 12,
                "ele" : 300,
                "circumference" : 6.7,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -249,12 +276,14 @@
       "lat" : 46.187263888888886,
       "lon" : 12.472236111111112,
       "tags" : {
+               "historic" : null,
                "ref" : "01/A640/PN/06",
-               "name" : "Tasso",
+               "genus:it" : "Tasso",
                "species" : "Taxus baccata L.",
                "height" : 15,
                "ele" : 1100,
                "circumference" : 4.24,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -264,12 +293,14 @@
       "lat" : 45.967216666666666,
       "lon" : 12.4309,
       "tags" : {
+               "historic" : null,
                "ref" : "01/B598/PN/06",
-               "name" : "Bagolaro ",
+               "genus:it" : "Bagolaro ",
                "species" : "Celtis australis L.",
                "height" : 28,
                "ele" : 66,
                "circumference" : 4.5,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -281,11 +312,12 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "02/B598/PN/06",
-               "name" : "Tiglio selvatico",
+               "genus:it" : "Tiglio selvatico",
                "species" : "Tilia cordata Mill.",
                "height" : 19,
                "ele" : 49,
                "circumference" : 2.82,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -295,12 +327,14 @@
       "lat" : 46.001577777777776,
       "lon" : 12.430958333333333,
       "tags" : {
+               "historic" : null,
                "ref" : "03/B598/PN/06",
-               "name" : "Castagno",
+               "genus:it" : "Castagno",
                "species" : "Castanea sativa Mill.",
                "height" : 12,
                "ele" : 760,
                "circumference" : 4.3,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -310,12 +344,14 @@
       "lat" : 46.248441666666665,
       "lon" : 12.554947222222223,
       "tags" : {
+               "historic" : null,
                "ref" : "01/C790/PN/06",
-               "name" : "Abete rosso",
+               "genus:it" : "Abete rosso",
                "species" : "Picea abies (L.) H. Karst.",
                "height" : 22,
                "ele" : 1530,
                "circumference" : 3.86,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -325,12 +361,14 @@
       "lat" : 46.24828333333333,
       "lon" : 12.555672222222222,
       "tags" : {
+               "historic" : null,
                "ref" : "02/C790/PN/06",
-               "name" : "Abete rosso",
+               "genus:it" : "Abete rosso",
                "species" : "Picea abies (L.) H. Karst.",
                "height" : 22,
                "ele" : 1540,
                "circumference" : 4.52,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -340,12 +378,14 @@
       "lat" : 46.33217500000001,
       "lon" : 12.627575,
       "tags" : {
+               "historic" : null,
                "ref" : "03/C790/PN/06",
-               "name" : "Abete rosso",
+               "genus:it" : "Abete rosso",
                "species" : "Picea abies (L.) H. Karst.",
                "height" : 33,
                "ele" : 1300,
                "circumference" : 4.02,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -355,12 +395,14 @@
       "lat" : 46.33226944444445,
       "lon" : 12.627916666666668,
       "tags" : {
+               "historic" : null,
                "ref" : "04/C790/PN/06",
-               "name" : "Abete rosso",
+               "genus:it" : "Abete rosso",
                "species" : "Picea abies (L.) H. Karst.",
                "height" : 27,
                "ele" : 1320,
                "circumference" : 4.42,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -370,12 +412,14 @@
       "lat" : 46.33430833333333,
       "lon" : 12.622616666666667,
       "tags" : {
+               "historic" : null,
                "ref" : "05/C790/PN/06",
-               "name" : "Faggio",
+               "genus:it" : "Faggio",
                "species" : "Fagus sylvatica L.",
                "height" : 29,
                "ele" : 1290,
                "circumference" : 4.05,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -385,12 +429,14 @@
       "lat" : 45.92112222222222,
       "lon" : 12.674249999999999,
       "tags" : {
+               "historic" : null,
                "ref" : "01/D621/PN/06",
-               "name" : "Farnia",
+               "genus:it" : "Farnia",
                "species" : "Quercus robur L.",
                "height" : 25,
                "ele" : 20,
                "circumference" : 5.45,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -400,12 +446,14 @@
       "lat" : 46.172916666666666,
       "lon" : 12.700991666666665,
       "tags" : {
+               "historic" : null,
                "ref" : "01/E889/PN/06",
-               "name" : "Faggio",
+               "genus:it" : "Faggio",
                "species" : "Fagus sylvatica L.",
                "height" : 35,
                "ele" : 341,
                "circumference" : 4.45,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -415,12 +463,14 @@
       "lat" : 46.1691,
       "lon" : 12.706430555555555,
       "tags" : {
+               "historic" : null,
                "ref" : "02/E889/PN/06",
-               "name" : "Tuia gigante",
+               "genus:it" : "Tuia gigante",
                "species" : "Thuja plicata Donn ex D.Don",
                "height" : 22,
                "ele" : 287,
                "circumference" : 4.35,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -430,12 +480,14 @@
       "lat" : 45.959250000000004,
       "lon" : 12.615808333333334,
       "tags" : {
+               "historic" : null,
                "ref" : "01/G886/PN/06",
-               "name" : "Albero dei tulipani",
+               "genus:it" : "Albero dei tulipani",
                "species" : "Liriodendron tulipifera L.",
                "height" : 32,
                "ele" : 30,
                "circumference" : 4.55,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -445,12 +497,14 @@
       "lat" : 45.95708611111112,
       "lon" : 12.617894444444445,
       "tags" : {
+               "historic" : null,
                "ref" : "02/G886/PN/06",
-               "name" : "Bagolaro ",
+               "genus:it" : "Bagolaro ",
                "species" : "Celtis australis L.",
                "height" : 22,
                "ele" : 25,
                "circumference" : 4.5,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -460,12 +514,14 @@
       "lat" : 45.958394444444444,
       "lon" : 12.616297222222222,
       "tags" : {
+               "historic" : null,
                "ref" : "03/G886/PN/06",
-               "name" : "Magnolia",
+               "genus:it" : "Magnolia",
                "species" : "Magnolia grandiflora L.",
                "height" : 15,
                "ele" : 25,
                "circumference" : 2.45,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -477,11 +533,12 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "01/I621/PN/06",
-               "name" : "Farnia",
+               "genus:it" : "Farnia",
                "species" : "Quercus robur L.",
                "height" : 21,
                "ele" : 190,
                "circumference" : 3.61,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -491,12 +548,14 @@
       "lat" : 45.770938888888885,
       "lon" : 13.624411111111112,
       "tags" : {
+               "historic" : null,
                "ref" : "01/D383/TS/06",
-               "name" : "Terebinto",
+               "genus:it" : "Terebinto",
                "species" : "Pistacia terebinthus L.",
                "height" : 7,
                "ele" : 60,
                "circumference" : 0.92,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -506,12 +565,14 @@
       "lat" : 45.77149166666666,
       "lon" : 13.629644444444445,
       "tags" : {
+               "historic" : null,
                "ref" : "02/D383/TS/06",
-               "name" : "Cipresso di Monterey",
+               "genus:it" : "Cipresso di Monterey",
                "species" : "Cupressus macrocarpa Hartw.",
                "height" : 28,
                "ele" : 40,
                "circumference" : 3.2,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -521,12 +582,14 @@
       "lat" : 45.594794444444446,
       "lon" : 13.766977777777779,
       "tags" : {
+               "historic" : null,
                "ref" : "01/F795/TS/06",
-               "name" : "Salice bianco",
+               "genus:it" : "Salice bianco",
                "species" : "Salix alba L.",
                "height" : 17,
                "ele" : 50,
                "circumference" : 4.1,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -536,12 +599,14 @@
       "lat" : 45.704994444444445,
       "lon" : 13.713161111111111,
       "tags" : {
+               "historic" : null,
                "ref" : "01/L424/TS/06",
-               "name" : "Corbezzolo",
+               "genus:it" : "Corbezzolo",
                "species" : "Arbutus unedo L.",
                "height" : 12,
                "ele" : 10,
                "circumference" : 2.04,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -551,12 +616,14 @@
       "lat" : 45.70379444444445,
       "lon" : 13.712880555555556,
       "tags" : {
+               "historic" : null,
                "ref" : "02/L424/TS/06",
-               "name" : "Leccio",
+               "genus:it" : "Leccio",
                "species" : "Quercus ilex L.",
                "height" : 28,
                "ele" : 5,
                "circumference" : "267-250-230",
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -566,12 +633,14 @@
       "lat" : 45.71527777777778,
       "lon" : 13.705047222222221,
       "tags" : {
+               "historic" : null,
                "ref" : "03/L424/TS/06",
-               "name" : "Cipresso comune",
+               "genus:it" : "Cipresso comune",
                "species" : "Cupressus sempervirens L.",
                "height" : 18,
                "ele" : 10,
                "circumference" : 4.1,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -581,12 +650,14 @@
       "lat" : 45.70576944444445,
       "lon" : 13.803552777777778,
       "tags" : {
+               "historic" : null,
                "ref" : "04/L424/TS/06",
-               "name" : "Cerro",
+               "genus:it" : "Cerro",
                "species" : "Quercus cerris L.",
                "height" : 35,
                "ele" : 300,
                "circumference" : 3.1,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -596,12 +667,14 @@
       "lat" : 45.6441,
       "lon" : 13.815258333333334,
       "tags" : {
+               "historic" : null,
                "ref" : "05/L424/TS/06",
-               "name" : "Pino d'Aleppo",
+               "genus:it" : "Pino d'Aleppo",
                "species" : "Pinus halepensis Mill.",
                "height" : 18,
                "ele" : 200,
                "circumference" : 3.6,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -611,12 +684,14 @@
       "lat" : 45.70353333333333,
       "lon" : 13.71641111111111,
       "tags" : {
+               "historic" : null,
                "ref" : "06/L424/TS/06",
-               "name" : "Pino grigio",
+               "genus:it" : "Pino grigio",
                "species" : "Pinus sabiniana Dougl.",
                "height" : 20,
                "ele" : 10,
                "circumference" : 2.5,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -626,12 +701,14 @@
       "lat" : 45.653925,
       "lon" : 13.784094444444444,
       "tags" : {
+               "historic" : null,
                "ref" : "07/L424/TS/06",
-               "name" : "Platano comune",
+               "genus:it" : "Platano comune",
                "species" : "Platanus acerifolia (Aiton) Willd.",
                "height" : 28,
                "ele" : 15,
                "circumference" : 5.2,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -641,12 +718,14 @@
       "lat" : 45.65405,
       "lon" : 13.784372222222222,
       "tags" : {
+               "historic" : null,
                "ref" : "08/L424/TS/06",
-               "name" : "Platano comune",
+               "genus:it" : "Platano comune",
                "species" : "Platanus acerifolia (Aiton) Willd.",
                "height" : 31,
                "ele" : 15,
                "circumference" : 5.25,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -656,12 +735,14 @@
       "lat" : 45.660894444444445,
       "lon" : 13.796788888888889,
       "tags" : {
+               "historic" : null,
                "ref" : "09/L424/TS/06",
-               "name" : "Roverella ",
+               "genus:it" : "Roverella ",
                "species" : "Quercus pubescens Willd.",
                "height" : 28,
                "ele" : 120,
                "circumference" : 4.1,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -671,12 +752,14 @@
       "lat" : 45.65308888888889,
       "lon" : 13.805216666666668,
       "tags" : {
+               "historic" : null,
                "ref" : "10/L424/TS/06",
-               "name" : "Roverella ",
+               "genus:it" : "Roverella ",
                "species" : "Quercus pubescens Willd.",
                "height" : 15,
                "ele" : 90,
                "circumference" : 4.2,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -686,12 +769,14 @@
       "lat" : 45.704097222222224,
       "lon" : 13.713608333333333,
       "tags" : {
+               "historic" : null,
                "ref" : "11/L424/TS/06",
-               "name" : "Sequoia sempreverde",
+               "genus:it" : "Sequoia sempreverde",
                "species" : "Sequoia sempervirens (D. Don) Endl",
                "height" : 30,
                "ele" : 10,
                "circumference" : 4.25,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -701,12 +786,14 @@
       "lat" : 45.63704722222222,
       "lon" : 13.80185,
       "tags" : {
+               "historic" : null,
                "ref" : "12/L424/TS/06",
-               "name" : "Olmo del Caucaso",
+               "genus:it" : "Olmo del Caucaso",
                "species" : "Zelkova carpinifolia (Pall.) K. Koch",
                "height" : 20,
                "ele" : 105,
                "circumference" : 3.43,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -716,12 +803,14 @@
       "lat" : 45.61075,
       "lon" : 13.872322222222223,
       "tags" : {
+               "historic" : null,
                "ref" : "13/L424/TS/06",
-               "name" : "Cerro",
+               "genus:it" : "Cerro",
                "species" : "Insieme omogeneo di Quercus cerris L.",
                "height" : 20,
                "ele" : 440,
                "circumference" : 3.6,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -731,12 +820,14 @@
       "lat" : 45.608105555555554,
       "lon" : 13.858513888888888,
       "tags" : {
+               "historic" : null,
                "ref" : "14/L424/TS/06",
-               "name" : "Tiglio selvatico",
+               "genus:it" : "Tiglio selvatico",
                "species" : "Tilia cordata Mill.",
                "height" : 12,
                "ele" : 430,
                "circumference" : 4.03,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -746,12 +837,14 @@
       "lat" : 45.687266666666666,
       "lon" : 13.786727777777777,
       "tags" : {
+               "historic" : null,
                "ref" : "15/L424/TS/06",
-               "name" : "Sofora del Giappone",
+               "genus:it" : "Sofora del Giappone",
                "species" : "Sthyphnolobium japonicum  L.",
                "height" : 15,
                "ele" : 325,
                "circumference" : 3.03,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -761,12 +854,14 @@
       "lat" : 46.47431944444445,
       "lon" : 12.776833333333334,
       "tags" : {
+               "historic" : null,
                "ref" : "01/A267/UD/06",
-               "name" : "Larice",
+               "genus:it" : "Larice",
                "species" : "Larix decidua Mill.",
                "height" : 27,
                "ele" : 1623,
                "circumference" : 4.94,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -776,12 +871,14 @@
       "lat" : 46.19074722222222,
       "lon" : 13.306236111111112,
       "tags" : {
+               "historic" : null,
                "ref" : "01/A491/UD/06",
-               "name" : "Tuia gigante",
+               "genus:it" : "Tuia gigante",
                "species" : "Thuja plicata Donn ex D.Don",
                "height" : 35,
                "ele" : 193,
                "circumference" : 5.4,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -791,12 +888,14 @@
       "lat" : 46.19070833333333,
       "lon" : 13.306222222222223,
       "tags" : {
+               "historic" : null,
                "ref" : "02/A491/UD/06",
-               "name" : "Tuia gigante",
+               "genus:it" : "Tuia gigante",
                "species" : "Thuja plicata Donn ex D.Don",
                "height" : 35,
                "ele" : 193,
                "circumference" : 6,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -806,12 +905,14 @@
       "lat" : 46.188541666666666,
       "lon" : 13.305475000000001,
       "tags" : {
+               "historic" : null,
                "ref" : "03/A491/UD/06",
-               "name" : "Platano comune",
+               "genus:it" : "Platano comune",
                "species" : "Platanus acerifolia (Aiton) Willd.",
                "height" : 21.5,
                "ele" : 190,
                "circumference" : 4.7,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -823,7 +924,7 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "04/A491/UD/06",
-               "name" : "Farnia",
+               "genus:it" : "Farnia",
                "species" : "Quercus robur L.",
                "height" : 31,
                "ele" : 225,
@@ -838,12 +939,14 @@
       "lat" : 45.99531944444445,
       "lon" : 13.076711111111111,
       "tags" : {
+               "historic" : null,
                "ref" : "01/A700/UD/06",
-               "name" : "Bagolaro ",
+               "genus:it" : "Bagolaro ",
                "species" : "Celtis australis L.",
                "height" : 18,
                "ele" : 60,
                "circumference" : 4,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -853,12 +956,14 @@
       "lat" : 46.01228888888889,
       "lon" : 13.068444444444443,
       "tags" : {
+               "historic" : null,
                "ref" : "02/A700/UD/06",
-               "name" : "Sofora del Giappone",
+               "genus:it" : "Sofora del Giappone",
                "species" : "Styphnolobium japonicum (L.) Schott",
                "height" : 18,
                "ele" : 70,
                "circumference" : 3.78,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -868,12 +973,14 @@
       "lat" : 45.99563611111111,
       "lon" : 13.081480555555554,
       "tags" : {
+               "historic" : null,
                "ref" : "03/A700/UD/06",
-               "name" : "Gelso nero",
+               "genus:it" : "Gelso nero",
                "species" : "Morus nigra L.",
                "height" : 8,
                "ele" : 60,
                "circumference" : 3.38,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -885,11 +992,12 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "04/A700/UD/06",
-               "name" : "Tiglio selvatico",
+               "genus:it" : "Tiglio selvatico",
                "species" : "Insieme omogeneo di Tilia cordata Mill.",
                "height" : 24,
                "ele" : 81,
                "circumference" : 2.45,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -899,8 +1007,9 @@
       "lat" : 45.905030555555555,
       "lon" : 13.051747222222223,
       "tags" : {
+               "historic" : null,
                "ref" : "01/A810/UD/06",
-               "name" : "Farnia",
+               "genus:it" : "Farnia",
                "species" : "Quercus robur L.",
                "height" : 21,
                "ele" : 18,
@@ -915,12 +1024,14 @@
       "lat" : 46.09431666666667,
       "lon" : 13.427225,
       "tags" : {
+               "historic" : null,
                "ref" : "01/C758/UD/06",
-               "name" : "Pino nero",
+               "genus:it" : "Pino nero",
                "species" : "Pinus nigra J.F. Arnold",
                "height" : 25,
                "ele" : 130,
                "circumference" : 3.95,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -930,12 +1041,14 @@
       "lat" : 46.09491944444445,
       "lon" : 13.42888611111111,
       "tags" : {
+               "historic" : null,
                "ref" : "02/C758/UD/06",
-               "name" : "Ginco ",
+               "genus:it" : "Ginco ",
                "species" : "Ginkgo biloba L.",
                "height" : 25,
                "ele" : 130,
                "circumference" : 3.5,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -945,12 +1058,14 @@
       "lat" : 46.08975277777778,
       "lon" : 13.451441666666666,
       "tags" : {
+               "historic" : null,
                "ref" : "05/C758/UD/06",
-               "name" : "Gelso nero",
+               "genus:it" : "Gelso nero",
                "species" : "Morus nigra L.",
                "height" : 5.5,
                "ele" : 140,
                "circumference" : 2.4,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -960,12 +1075,14 @@
       "lat" : 46.10261666666667,
       "lon" : 13.442544444444446,
       "tags" : {
+               "historic" : null,
                "ref" : "06/C758/UD/06",
-               "name" : "Vite ",
+               "genus:it" : "Vite ",
                "species" : "Vitis vinifera L.",
                "height" : 2.5,
                "ele" : 140,
                "circumference" : 0.68,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -975,12 +1092,14 @@
       "lat" : 45.95044444444445,
       "lon" : 13.008244444444445,
       "tags" : {
+               "historic" : null,
                "ref" : "01/C817/UD/06",
-               "name" : "Bagolaro ",
+               "genus:it" : "Bagolaro ",
                "species" : "Celtis australis L.",
                "height" : 21,
                "ele" : 35,
                "circumference" : 4.56,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -990,12 +1109,14 @@
       "lat" : 45.949755555555555,
       "lon" : 13.009377777777777,
       "tags" : {
+               "historic" : null,
                "ref" : "02/C817/UD/06",
-               "name" : "Cedro dell'Himalaya",
+               "genus:it" : "Cedro dell'Himalaya",
                "species" : "Cedrus deodara (D.Don) G.Don \n",
                "height" : 21,
                "ele" : 35,
                "circumference" : 4.75,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1005,12 +1126,14 @@
       "lat" : 45.95011111111111,
       "lon" : 13.012477777777777,
       "tags" : {
+               "historic" : null,
                "ref" : "03/C817/UD/06",
-               "name" : "Magnolia",
+               "genus:it" : "Magnolia",
                "species" : "Magnolia grandiflora L.",
                "height" : 15,
                "ele" : 35,
                "circumference" : 1.9,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1020,12 +1143,14 @@
       "lat" : 45.94939722222222,
       "lon" : 13.008569444444445,
       "tags" : {
+               "historic" : null,
                "ref" : "04/C817/UD/06",
-               "name" : "Paulonia",
+               "genus:it" : "Paulonia",
                "species" : "Paulownia tomentosa (Thunb.) Steud.",
                "height" : 19,
                "ele" : 35,
                "circumference" : 4.2,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1035,12 +1160,14 @@
       "lat" : 45.95033888888889,
       "lon" : 13.00891111111111,
       "tags" : {
+               "historic" : null,
                "ref" : "05/C817/UD/06",
-               "name" : "Abete del Caucaso",
+               "genus:it" : "Abete del Caucaso",
                "species" : "Abies nordmanniana (Steven) Spach",
                "height" : 32,
                "ele" : 35,
                "circumference" : 3.95,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1050,12 +1177,14 @@
       "lat" : 45.950677777777784,
       "lon" : 13.011780555555555,
       "tags" : {
+               "historic" : null,
                "ref" : "06/C817/UD/06",
-               "name" : "Ginco ",
+               "genus:it" : "Ginco ",
                "species" : "Ginkgo biloba L.",
                "height" : 25,
                "ele" : 35,
                "circumference" : 2.5,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1065,12 +1194,14 @@
       "lat" : 45.949861111111105,
       "lon" : 13.012688888888889,
       "tags" : {
+               "historic" : null,
                "ref" : "07/C817/UD/06",
-               "name" : "Spino di Giuda",
+               "genus:it" : "Spino di Giuda",
                "species" : "Gleditzia triacanthos L.",
                "height" : 20,
                "ele" : 35,
                "circumference" : 2.9,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1080,12 +1211,14 @@
       "lat" : 45.94945277777777,
       "lon" : 13.011877777777778,
       "tags" : {
+               "historic" : null,
                "ref" : "08/C817/UD/06",
-               "name" : "Tasso",
+               "genus:it" : "Tasso",
                "species" : "Taxus baccata L.",
                "height" : 16,
                "ele" : 35,
                "circumference" : 4.1,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1095,12 +1228,14 @@
       "lat" : 45.94907499999999,
       "lon" : 13.008994444444445,
       "tags" : {
+               "historic" : null,
                "ref" : "09/C817/UD/06",
-               "name" : "Platano comune",
+               "genus:it" : "Platano comune",
                "species" : "Platanus acerifolia (Aiton) Willd.",
                "height" : 30,
                "ele" : 35,
                "circumference" : 4.3,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1110,12 +1245,14 @@
       "lat" : 45.94869722222222,
       "lon" : 13.009602777777777,
       "tags" : {
+               "historic" : null,
                "ref" : "10/C817/UD/06",
-               "name" : "Ippocastano",
+               "genus:it" : "Ippocastano",
                "species" : "Aesculus hippocastanum L.",
                "height" : 22,
                "ele" : 35,
                "circumference" : 4.09,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1125,12 +1262,14 @@
       "lat" : 45.952847222222225,
       "lon" : 13.009130555555556,
       "tags" : {
+               "historic" : null,
                "ref" : "11/C817/UD/06",
-               "name" : "Cedro dell'Himalaya",
+               "genus:it" : "Cedro dell'Himalaya",
                "species" : "Cedrus deodara (D.Don) G.Don \n",
                "height" : 21,
                "ele" : 35,
                "circumference" : 4.95,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1140,12 +1279,14 @@
       "lat" : 46.43916944444444,
       "lon" : 12.832097222222222,
       "tags" : {
+               "historic" : null,
                "ref" : "01/D408/UD/06",
-               "name" : "Faggio",
+               "genus:it" : "Faggio",
                "species" : "Fagus sylvatica L.",
                "height" : 17,
                "ele" : 953,
                "circumference" : 3.45,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1155,12 +1296,14 @@
       "lat" : 45.682125,
       "lon" : 13.133875,
       "tags" : {
+               "historic" : null,
                "ref" : "01/E584/UD/06",
-               "name" : "Pino d'Aleppo",
+               "genus:it" : "Pino d'Aleppo",
                "species" : "Pinus halepensis Mill.",
                "height" : 15,
                "ele" : 1,
                "circumference" : 2.13,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1170,12 +1313,14 @@
       "lat" : 45.69185833333333,
       "lon" : 13.13968888888889,
       "tags" : {
+               "historic" : null,
                "ref" : "02/E584/UD/06",
-               "name" : "Roverella ",
+               "genus:it" : "Roverella ",
                "species" : "Quercus pubescens Willd.",
                "height" : 10,
                "ele" : 1,
                "circumference" : 2.5,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1185,8 +1330,9 @@
       "lat" : 46.50668888888889,
       "lon" : 13.438766666666666,
       "tags" : {
+               "historic" : null,
                "ref" : "01/E847/UD/06",
-               "name" : "Tiglio selvatico",
+               "genus:it" : "Tiglio selvatico",
                "species" : "Tilia cordata Mill.",
                "height" : 22,
                "ele" : 720,
@@ -1201,12 +1347,14 @@
       "lat" : 46.1232,
       "lon" : 13.159766666666666,
       "tags" : {
+               "historic" : null,
                "ref" : "01/F760/UD/06",
-               "name" : "Ginco ",
+               "genus:it" : "Ginco ",
                "species" : "Ginkgo biloba L.",
                "height" : 27,
                "ele" : 212,
                "circumference" : 4.1,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1216,12 +1364,14 @@
       "lat" : 46.12339722222222,
       "lon" : 13.159786111111112,
       "tags" : {
+               "historic" : null,
                "ref" : "02/F760/UD/06",
-               "name" : "Noce nero",
+               "genus:it" : "Noce nero",
                "species" : "Juglans nigra L.",
                "height" : 25,
                "ele" : 213,
                "circumference" : 3.6,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1231,12 +1381,14 @@
       "lat" : 46.12286388888889,
       "lon" : 13.159247222222223,
       "tags" : {
+               "historic" : null,
                "ref" : "03/F760/UD/06",
-               "name" : "Ippocastano",
+               "genus:it" : "Ippocastano",
                "species" : "Aesculus hippocastanum L.",
                "height" : 26,
                "ele" : 213,
                "circumference" : 3.7,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1248,11 +1400,12 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "01/G300/UD/06",
-               "name" : "Faggio",
+               "genus:it" : "Faggio",
                "species" : "Insieme omogeneo di Fagus sylvatica L.",
                "height" : 25,
                "ele" : 900,
                "circumference" : 4.5,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1262,12 +1415,14 @@
       "lat" : 46.564836111111106,
       "lon" : 13.116736111111111,
       "tags" : {
+               "historic" : null,
                "ref" : "01/G381/UD/06\n",
-               "name" : "Abete bianco",
+               "genus:it" : "Abete bianco",
                "species" : "Abies alba Mill.",
                "height" : 35,
                "ele" : 1148,
                "circumference" : 3.8,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1277,12 +1432,14 @@
       "lat" : 46.570527777777784,
       "lon" : 13.11075,
       "tags" : {
+               "historic" : null,
                "ref" : "02/G381/UD/06\n",
-               "name" : "Abete rosso",
+               "genus:it" : "Abete rosso",
                "species" : "Picea abies (L.) H. Karst.",
                "height" : 49,
                "ele" : 993,
                "circumference" : 3.65,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1292,12 +1449,14 @@
       "lat" : 46.511355555555554,
       "lon" : 13.305991666666667,
       "tags" : {
+               "historic" : null,
                "ref" : "01/G831/UD/06",
-               "name" : "Tiglio selvatico",
+               "genus:it" : "Tiglio selvatico",
                "species" : "Tilia cordata Mill.",
                "height" : 25,
                "ele" : 650,
                "circumference" : 3.9,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1307,12 +1466,14 @@
       "lat" : 46.510325,
       "lon" : 13.313933333333335,
       "tags" : {
+               "historic" : null,
                "ref" : "02/G831/UD/06",
-               "name" : "Pero domestico",
+               "genus:it" : "Pero domestico",
                "species" : "Pyrus communis L.",
                "height" : 18,
                "ele" : 647,
                "circumference" : 2.48,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1322,12 +1483,14 @@
       "lat" : 46.50619722222222,
       "lon" : 13.302502777777779,
       "tags" : {
+               "historic" : null,
                "ref" : "03/G831/UD/06",
-               "name" : "Noce comune",
+               "genus:it" : "Noce comune",
                "species" : "Juglans regia L.",
                "height" : 18,
                "ele" : 630,
                "circumference" : 2.92,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1337,12 +1500,14 @@
       "lat" : 46.02371111111111,
       "lon" : 13.429008333333332,
       "tags" : {
+               "historic" : null,
                "ref" : "01/H029/UD/06",
-               "name" : "Cipresso comune",
+               "genus:it" : "Cipresso comune",
                "species" : "Cupressus sempervirens L.",
                "height" : 20.5,
                "ele" : 150,
                "circumference" : 5.3,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1352,12 +1517,14 @@
       "lat" : 46.02407777777778,
       "lon" : 13.429363888888888,
       "tags" : {
+               "historic" : null,
                "ref" : "02/H029/UD/06",
-               "name" : "Cipresso comune",
+               "genus:it" : "Cipresso comune",
                "species" : "Cupressus sempervirens L.",
                "height" : 21,
                "ele" : 150,
                "circumference" : 5,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1367,12 +1534,14 @@
       "lat" : 46.0238,
       "lon" : 13.429488888888889,
       "tags" : {
+               "historic" : null,
                "ref" : "03/H029/UD/06",
-               "name" : "Glicine",
+               "genus:it" : "Glicine",
                "species" : "Wisteria sinensis (Sims) Sweet",
                "height" : 4.5,
                "ele" : 150,
                "circumference" : 1.8,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1382,12 +1551,14 @@
       "lat" : 46.024475,
       "lon" : 13.42933611111111,
       "tags" : {
+               "historic" : null,
                "ref" : "04/H029/UD/06",
-               "name" : "Tuia gigante",
+               "genus:it" : "Tuia gigante",
                "species" : "Thuja plicata Donn ex D.Don",
                "height" : 15,
                "ele" : 150,
                "circumference" : 3.3,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1399,11 +1570,12 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "01/H089/UD/06",
-               "name" : "Castagno",
+               "genus:it" : "Castagno",
                "species" : "Castanea sativa Mill.",
                "height" : 19,
                "ele" : 620,
                "circumference" : 7.83,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1413,12 +1585,14 @@
       "lat" : 46.16818611111111,
       "lon" : 13.464316666666665,
       "tags" : {
+               "historic" : null,
                "ref" : "02/H089/UD/06",
-               "name" : "Castagno",
+               "genus:it" : "Castagno",
                "species" : "Castanea sativa Mill.",
                "height" : 24,
                "ele" : 540,
                "circumference" : 5.2,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1428,12 +1602,14 @@
       "lat" : 46.44835833333333,
       "lon" : 12.826841666666667,
       "tags" : {
+               "historic" : null,
                "ref" : "01/H200/UD/06",
-               "name" : "Pero selvatico",
+               "genus:it" : "Pero selvatico",
                "species" : "Pyrus pyraster (L.) Burgsd",
                "height" : 15,
                "ele" : 1004,
                "circumference" : 2.54,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1443,12 +1619,14 @@
       "lat" : 46.10178611111111,
       "lon" : 13.548919444444444,
       "tags" : {
+               "historic" : null,
                "ref" : "01/H951/UD/06",
-               "name" : "Betulla verrucosa",
+               "genus:it" : "Betulla verrucosa",
                "species" : "Betula pendula Roth",
                "height" : 23,
                "ele" : 580,
                "circumference" : 2.35,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1458,12 +1636,14 @@
       "lat" : 46.1472,
       "lon" : 13.532219444444445,
       "tags" : {
+               "historic" : null,
                "ref" : "02/H951/UD/06",
-               "name" : "Castagno",
+               "genus:it" : "Castagno",
                "species" : "Castanea sativa Mill.",
                "height" : 24,
                "ele" : 530,
                "circumference" : 5.6,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1473,12 +1653,14 @@
       "lat" : 46.19378888888888,
       "lon" : 13.531055555555556,
       "tags" : {
+               "historic" : null,
                "ref" : "01/I479/UD/06",
-               "name" : "Faggio",
+               "genus:it" : "Faggio",
                "species" : "Fagus sylvatica L.",
                "height" : 29,
                "ele" : 920,
                "circumference" : 4.2,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1488,12 +1670,14 @@
       "lat" : 45.92173888888889,
       "lon" : 13.13886111111111,
       "tags" : {
+               "historic" : null,
                "ref" : "01/L039/UD/06",
-               "name" : "Cedro dell'Himalaya",
+               "genus:it" : "Cedro dell'Himalaya",
                "species" : "Cedrus deodara (D.Don) G.Don \n",
                "height" : 28,
                "ele" : 30,
                "circumference" : 5.74,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1503,12 +1687,14 @@
       "lat" : 46.215605555555555,
       "lon" : 13.22285,
       "tags" : {
+               "historic" : null,
                "ref" : "01/L050/UD/06",
-               "name" : "Platano orientale",
+               "genus:it" : "Platano orientale",
                "species" : "Platanus orientalis L.",
                "height" : 30,
                "ele" : 230,
                "circumference" : 5.5,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1518,12 +1704,14 @@
       "lat" : 46.21457222222222,
       "lon" : 13.225041666666666,
       "tags" : {
+               "historic" : null,
                "ref" : "02/L050/UD/06",
-               "name" : "Pioppo nero",
+               "genus:it" : "Pioppo nero",
                "species" : "Populus nigra L.",
                "height" : 24,
                "ele" : 230,
                "circumference" : 4.5,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1535,7 +1723,7 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "01/L057/UD/06",
-               "name" : "Pero selvatico",
+               "genus:it" : "Pero selvatico",
                "species" : "Insieme omogeneo di                                        Pyrus pyraster (L.) Burgsd.",
                "height" : 18,
                "ele" : 802,
@@ -1550,12 +1738,14 @@
       "lat" : 46.474808333333335,
       "lon" : 13.535155555555555,
       "tags" : {
+               "historic" : null,
                "ref" : "02/L057/UD/06",
-               "name" : "Larice",
+               "genus:it" : "Larice",
                "species" : "Larix decidua Mill.",
                "height" : 27,
                "ele" : 1570,
                "circumference" : 5.31,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1565,12 +1755,14 @@
       "lat" : 46.475611111111114,
       "lon" : 13.536072222222222,
       "tags" : {
+               "historic" : null,
                "ref" : "03/L057/UD/06",
-               "name" : "Abete rosso",
+               "genus:it" : "Abete rosso",
                "species" : "Picea abies (L.) H. Karst.",
                "height" : 31,
                "ele" : 1573,
                "circumference" : 4.45,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1580,12 +1772,14 @@
       "lat" : 46.47551388888889,
       "lon" : 13.535683333333333,
       "tags" : {
+               "historic" : null,
                "ref" : "04/L057/UD/06",
-               "name" : "Abete rosso",
+               "genus:it" : "Abete rosso",
                "species" : "Picea abies (L.) H. Karst.",
                "height" : 32,
                "ele" : 1573,
                "circumference" : 5.45,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1595,12 +1789,14 @@
       "lat" : 46.54076111111111,
       "lon" : 13.536486111111111,
       "tags" : {
+               "historic" : null,
                "ref" : "05/L057/UD/06",
-               "name" : "Acero di monte",
+               "genus:it" : "Acero di monte",
                "species" : "Acer pseudoplatanus L.",
                "height" : 11,
                "ele" : 1310,
                "circumference" : 4.5,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1610,12 +1806,14 @@
       "lat" : 46.49248611111111,
       "lon" : 13.686766666666667,
       "tags" : {
+               "historic" : null,
                "ref" : "06/L057/UD/06",
-               "name" : "Acero di monte",
+               "genus:it" : "Acero di monte",
                "species" : "Acer pseudoplatanus L.",
                "height" : 29.5,
                "ele" : 868,
                "circumference" : 4.45,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1625,12 +1823,14 @@
       "lat" : 46.51205,
       "lon" : 13.624347222222223,
       "tags" : {
+               "historic" : null,
                "ref" : "07/L057/UD/06",
-               "name" : "Noce comune",
+               "genus:it" : "Noce comune",
                "species" : "Juglans regia L.",
                "height" : 19,
                "ele" : 770,
                "circumference" : 4.05,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1642,11 +1842,12 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "08/L057/UD/06",
-               "name" : "Tiglio selvatico",
+               "genus:it" : "Tiglio selvatico",
                "species" : "Tilia cordata Mill.",
                "height" : 25,
                "ele" : 800,
                "circumference" : 3.3,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1656,12 +1857,14 @@
       "lat" : 46.50660555555555,
       "lon" : 13.568297222222222,
       "tags" : {
+               "historic" : null,
                "ref" : "09/L057/UD/06",
-               "name" : "Salice bianco",
+               "genus:it" : "Salice bianco",
                "species" : "Salix alba L.",
                "height" : 23,
                "ele" : 752,
                "circumference" : 4.45,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1671,12 +1874,14 @@
       "lat" : 46.43763611111111,
       "lon" : 13.585497222222223,
       "tags" : {
+               "historic" : null,
                "ref" : "10/L057/UD/06",
-               "name" : "Abete bianco",
+               "genus:it" : "Abete bianco",
                "species" : "Abies alba Mill.",
                "height" : 35,
                "ele" : 1270,
                "circumference" : 4.95,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1686,12 +1891,14 @@
       "lat" : 46.438180555555554,
       "lon" : 13.547816666666666,
       "tags" : {
+               "historic" : null,
                "ref" : "11/L057/UD/06",
-               "name" : "Abete rosso",
+               "genus:it" : "Abete rosso",
                "species" : "Picea abies (L.) H. Karst.",
                "height" : 36,
                "ele" : 1450,
                "circumference" : 4.9,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1701,12 +1908,14 @@
       "lat" : 46.497841666666666,
       "lon" : 13.598694444444446,
       "tags" : {
+               "historic" : null,
                "ref" : "12/L057/UD/06",
-               "name" : "Olmo montano",
+               "genus:it" : "Olmo montano",
                "species" : "Ulmus glabra Huds.",
                "height" : 30,
                "ele" : 800,
                "circumference" : 4.6,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1716,12 +1925,14 @@
       "lat" : 46.51068055555555,
       "lon" : 13.526375000000002,
       "tags" : {
+               "historic" : null,
                "ref" : "13/L057/UD/06",
-               "name" : "Faggio",
+               "genus:it" : "Faggio",
                "species" : "Fagus sylvatica L.",
                "height" : 32,
                "ele" : 841,
                "circumference" : 5.25,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1731,12 +1942,14 @@
       "lat" : 46.15911944444444,
       "lon" : 13.21525,
       "tags" : {
+               "historic" : null,
                "ref" : "01/L421/UD/06",
-               "name" : "Cedro dell'Himalaya",
+               "genus:it" : "Cedro dell'Himalaya",
                "species" : "Cedrus deodara (D.Don) G.Don \n",
                "height" : 31,
                "ele" : 210,
                "circumference" : 4.5,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1746,12 +1959,14 @@
       "lat" : 46.161775,
       "lon" : 13.211855555555555,
       "tags" : {
+               "historic" : null,
                "ref" : "02/L421/UD/06",
-               "name" : "Glicine",
+               "genus:it" : "Glicine",
                "species" : "Wisteria sinensis (Sims) Sweet",
                "height" : 2.5,
                "ele" : 210,
                "circumference" : 1.6,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1761,12 +1976,14 @@
       "lat" : 46.1736,
       "lon" : 13.218811111111112,
       "tags" : {
+               "historic" : null,
                "ref" : "03/L421/UD/06",
-               "name" : "Pioppo canescente",
+               "genus:it" : "Pioppo canescente",
                "species" : "Populus canescens (Aiton) Sm.",
                "height" : 28,
                "ele" : 210,
                "circumference" : 3.7,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1776,12 +1993,14 @@
       "lat" : 46.17349166666666,
       "lon" : 13.218705555555555,
       "tags" : {
+               "historic" : null,
                "ref" : "04/L421/UD/06",
-               "name" : "Cedro dell'Himalaya",
+               "genus:it" : "Cedro dell'Himalaya",
                "species" : "Insieme omogeneo di Cedrus deodara (D.Don) G.Don ",
                "height" : 25,
                "ele" : 210,
                "circumference" : 3.5,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1791,12 +2010,14 @@
       "lat" : 46.173383333333334,
       "lon" : 13.219469444444444,
       "tags" : {
+               "historic" : null,
                "ref" : "06/L421/UD/06",
-               "name" : "Cipresso di Monterey",
+               "genus:it" : "Cipresso di Monterey",
                "species" : "Cupressus macrocarpa Hartw.",
                "height" : 20,
                "ele" : 210,
                "circumference" : 3.35,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1806,8 +2027,9 @@
       "lat" : 46.06429166666666,
       "lon" : 13.23651111111111,
       "tags" : {
+               "historic" : null,
                "ref" : "01/l483/UD/06",
-               "name" : "Cedro dell'Himalaya",
+               "genus:it" : "Cedro dell'Himalaya",
                "species" : "Cedrus deodara (D.Don) G.Don \n",
                "height" : 30,
                "ele" : 222,
@@ -1822,12 +2044,14 @@
       "lat" : 46.06409444444444,
       "lon" : 13.235888888888889,
       "tags" : {
+               "historic" : null,
                "ref" : "02/l483/UD/06",
-               "name" : "Cedro dell'Himalaya",
+               "genus:it" : "Cedro dell'Himalaya",
                "species" : "Cedrus deodara (D.Don) G.Don \n",
                "height" : 28,
                "ele" : 223,
                "circumference" : 4.48,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1837,12 +2061,14 @@
       "lat" : 46.06448611111111,
       "lon" : 13.236749999999999,
       "tags" : {
+               "historic" : null,
                "ref" : "03/l483/UD/06",
-               "name" : "Cedro dell'Himalaya",
+               "genus:it" : "Cedro dell'Himalaya",
                "species" : "Cedrus deodara (D.Don) G.Don \n",
                "height" : 27,
                "ele" : 225,
                "circumference" : 3.95,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1852,12 +2078,14 @@
       "lat" : 46.060652777777776,
       "lon" : 13.229019444444445,
       "tags" : {
+               "historic" : null,
                "ref" : "04/l483/UD/06",
-               "name" : "Ippocastano",
+               "genus:it" : "Ippocastano",
                "species" : "Aesculus hippocastanum L.",
                "height" : 22,
                "ele" : 220,
                "circumference" : 4.14,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1867,12 +2095,14 @@
       "lat" : 46.063088888888885,
       "lon" : 13.239552777777776,
       "tags" : {
+               "historic" : null,
                "ref" : "06/l483/UD/06",
-               "name" : "Cedro dell'Himalaya",
+               "genus:it" : "Cedro dell'Himalaya",
                "species" : "Cedrus deodara (D.Don) G.Don \n",
                "height" : 25,
                "ele" : 173,
                "circumference" : 4.27,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1882,8 +2112,9 @@
       "lat" : 46.06285277777778,
       "lon" : 13.23946111111111,
       "tags" : {
+               "historic" : null,
                "ref" : "07/l483/UD/06",
-               "name" : "Farnia",
+               "genus:it" : "Farnia",
                "species" : "Quercus robur L.",
                "height" : 28,
                "ele" : 173,
@@ -1898,12 +2129,14 @@
       "lat" : 46.062777777777775,
       "lon" : 13.239763888888888,
       "tags" : {
+               "historic" : null,
                "ref" : "08/l483/UD/06",
-               "name" : "Cedro dell'Atlante ",
+               "genus:it" : "Cedro dell'Atlante ",
                "species" : "Cedrus atlantica (Endl.) Manetti ex Carrière",
                "height" : 25,
                "ele" : 173,
                "circumference" : 4.73,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1913,8 +2146,9 @@
       "lat" : 46.063741666666665,
       "lon" : 13.238902777777778,
       "tags" : {
+               "historic" : null,
                "ref" : "12/l483/UD/06",
-               "name" : "Gelso bianco",
+               "genus:it" : "Gelso bianco",
                "species" : "Morus alba L.",
                "height" : 13,
                "ele" : 171,
@@ -1929,8 +2163,9 @@
       "lat" : 46.06381666666666,
       "lon" : 13.239252777777777,
       "tags" : {
+               "historic" : null,
                "ref" : "13/l483/UD/06",
-               "name" : "Libocedro",
+               "genus:it" : "Libocedro",
                "species" : "Calocedrus decurrens (Torr.) Florin",
                "height" : 20,
                "ele" : 171,
@@ -1945,8 +2180,9 @@
       "lat" : 46.06344722222222,
       "lon" : 13.239777777777777,
       "tags" : {
+               "historic" : null,
                "ref" : "14/l483/UD/06",
-               "name" : "Tasso del Giappone ",
+               "genus:it" : "Tasso del Giappone ",
                "species" : "Insieme omogeneo di Torreya nucifera Siebold & Zucc.",
                "height" : 20,
                "ele" : 171,
@@ -1961,12 +2197,14 @@
       "lat" : 46.071136111111116,
       "lon" : 13.229472222222222,
       "tags" : {
+               "historic" : null,
                "ref" : "16/l483/UD/06",
-               "name" : "Cedro dell'Himalaya",
+               "genus:it" : "Cedro dell'Himalaya",
                "species" : "Cedrus deodara (D.Don) G.Don \n",
                "height" : 31,
                "ele" : 172,
                "circumference" : 5.7,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -1976,8 +2214,9 @@
       "lat" : 46.06333333333333,
       "lon" : 13.228163888888888,
       "tags" : {
+               "historic" : null,
                "ref" : "17/l483/UD/06",
-               "name" : "Cedro dell'Himalaya",
+               "genus:it" : "Cedro dell'Himalaya",
                "species" : "Cedrus deodara (D.Don) G.Don \n",
                "height" : 35,
                "ele" : 172,
@@ -1992,12 +2231,14 @@
       "lat" : 46.06391111111111,
       "lon" : 13.227766666666668,
       "tags" : {
+               "historic" : null,
                "ref" : "18/l483/UD/06",
-               "name" : "Cedro dell'Himalaya",
+               "genus:it" : "Cedro dell'Himalaya",
                "species" : "Cedrus deodara (D.Don) G.Don \n",
                "height" : 32,
                "ele" : 172,
                "circumference" : 4.3,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -2007,12 +2248,14 @@
       "lat" : 46.06464444444444,
       "lon" : 13.237222222222222,
       "tags" : {
+               "historic" : null,
                "ref" : "22/l483/UD/06",
-               "name" : "Bagolaro ",
+               "genus:it" : "Bagolaro ",
                "species" : "Celtis australis L.",
                "height" : 22,
                "ele" : 224,
                "circumference" : 4.48,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -2022,8 +2265,9 @@
       "lat" : 46.05461388888889,
       "lon" : 13.246452777777776,
       "tags" : {
+               "historic" : null,
                "ref" : "23/l483/UD/06",
-               "name" : "Platano comune",
+               "genus:it" : "Platano comune",
                "species" : "Platanus acerifolia (Aiton) Willd.",
                "height" : 32,
                "ele" : 172,
@@ -2038,8 +2282,9 @@
       "lat" : 46.069383333333334,
       "lon" : 13.236019444444443,
       "tags" : {
+               "historic" : null,
                "ref" : "25/l483/UD/06",
-               "name" : "Eleagno ibrido",
+               "genus:it" : "Eleagno ibrido",
                "species" : "Insieme omogeneo di Elaeagnus x reflexa E. Morren. & Decne ",
                "height" : 8,
                "ele" : 175,
@@ -2054,12 +2299,14 @@
       "lat" : 46.08264166666667,
       "lon" : 13.186380555555555,
       "tags" : {
+               "historic" : null,
                "ref" : "26/l483/UD/06",
-               "name" : "Pioppo nero",
+               "genus:it" : "Pioppo nero",
                "species" : "Populus nigra L.",
                "height" : 24,
                "ele" : 160,
                "circumference" : 4,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -2069,12 +2316,14 @@
       "lat" : 46.06266111111111,
       "lon" : 13.236847222222222,
       "tags" : {
+               "historic" : null,
                "ref" : "27/l483/UD/06",
-               "name" : "Cedro di Cipro",
+               "genus:it" : "Cedro di Cipro",
                "species" : "Cedrus brevifolia (Hook.f.) Elwes & A. Henry ",
                "height" : 25,
                "ele" : 108,
                "circumference" : 3,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -2084,12 +2333,14 @@
       "lat" : 46.05803611111111,
       "lon" : 13.245849999999999,
       "tags" : {
+               "historic" : null,
                "ref" : "28/l483/UD/06",
-               "name" : "Cipresso del Cashmere",
+               "genus:it" : "Cipresso del Cashmere",
                "species" : "Cupressus cashmeriana Royle ex Carrière",
                "height" : 20,
                "ele" : 170,
                "circumference" : 3,
+               "denotation" : null,
                "natural" : "tree"
                }
     }
@@ -2099,12 +2350,14 @@
       "lat" : 45.88856944444444,
       "lon" : 12.98862222222222,
       "tags" : {
+               "historic" : null,
                "ref" : "01/L686/UD(06",
-               "name" : "Farnia",
+               "genus:it" : "Farnia",
                "species" : "Quercus robur L.",
                "height" : 29,
                "ele" : 18,
                "circumference" : 5.8,
+               "denotation" : null,
                "natural" : "tree"
                }
     }

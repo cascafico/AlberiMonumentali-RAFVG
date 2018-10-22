@@ -5,7 +5,7 @@
       "tags" : {
                "historic" : {{jsonize(cells["historic"].value)}},
                "ref" : {{jsonize(cells["ref"].value)}},
-               "name" : {{jsonize(cells["nome_vol"].value)}},
+               "genus.it" : {{jsonize(cells["nome_vol"].value)}},
                "species" : {{jsonize(cells["nome_sci"].value)}},
                "height" : {{jsonize(cells["height"].value)}},
                "ele" : {{jsonize(cells["ele"].value)}},
