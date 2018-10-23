@@ -5,11 +5,14 @@
       "tags" : {
                "historic" : {{jsonize(cells["historic"].value)}},
                "ref" : {{jsonize(cells["ref"].value)}},
-               "genus.it" : {{jsonize(cells["nome_vol"].value)}},
+               "genus:it" : {{jsonize(cells["nome_vol"].value)}},
                "species" : {{jsonize(cells["nome_sci"].value)}},
                "height" : {{jsonize(cells["height"].value)}},
                "ele" : {{jsonize(cells["ele"].value)}},
                "circumference" : {{jsonize(cells["circumference"].value)}},
+               "denotation" : {{jsonize(cells["denotation"].value)}},
+               "leaf_type" : {{jsonize(cells["leaf_type"].value)}},
+               "leaf_cycle" : {{jsonize(cells["leaf_cycle"].value)}},
                "natural" : "tree"
                }
     }
