@@ -460,7 +460,7 @@
   },
   {
     "op": "core/column-addition",
-    "description": "Create column leaf_type at index 11 based on column genus using expression grel:cell.cross(\"tree leaf wiki\", \"Genus\").cells[\"leaf_type=*\"].value[0]",
+    "description": "Create column leaf_type at index 11 based on column genus using expression grel:cell.cross(\"tree leaf wiki\", \"genus\").cells[\"leaf_type\"].value[0]",
     "engineConfig": {
       "mode": "row-based",
       "facets": []
@@ -468,12 +468,12 @@
     "newColumnName": "leaf_type",
     "columnInsertIndex": 11,
     "baseColumnName": "genus",
-    "expression": "grel:cell.cross(\"tree leaf wiki\", \"Genus\").cells[\"leaf_type=*\"].value[0]",
+    "expression": "grel:cell.cross(\"tree leaf wiki\", \"genus\").cells[\"leaf_type\"].value[0]",
     "onError": "set-to-blank"
   },
   {
     "op": "core/column-addition",
-    "description": "Create column leaf_cycle at index 11 based on column genus using expression grel:cell.cross(\"tree leaf wiki\", \"Genus\").cells[\"leaf_cycle=*\"].value[0]",
+    "description": "Create column leaf_cycle at index 11 based on column genus using expression grel:cell.cross(\"tree leaf wiki\", \"genus\").cells[\"leaf_cycle\"].value[0]",
     "engineConfig": {
       "mode": "row-based",
       "facets": []
@@ -481,7 +481,118 @@
     "newColumnName": "leaf_cycle",
     "columnInsertIndex": 11,
     "baseColumnName": "genus",
-    "expression": "grel:cell.cross(\"tree leaf wiki\", \"Genus\").cells[\"leaf_cycle=*\"].value[0]",
+    "expression": "grel:cell.cross(\"tree leaf wiki\", \"genus\").cells[\"leaf_cycle\"].value[0]",
     "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column nome_sci using expression grel:replace(value, \"Insieme omogeneo di \", \"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "nome_sci",
+    "expression": "grel:replace(value, \"Insieme omogeneo di \", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column taxon at index 10 based on column nome_sci using expression grel:smartSplit(value, \" \")[0]+ \" \" + smartSplit(value, \" \")[1]",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "taxon",
+    "columnInsertIndex": 10,
+    "baseColumnName": "nome_sci",
+    "expression": "grel:smartSplit(value, \" \")[0]+ \" \" + smartSplit(value, \" \")[1]",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column areal at index 12 based on column genus using expression grel:if (value==\"Insieme\",\"yes\",null)",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Insieme",
+                "l": "Insieme"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "genus",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "genus"
+        }
+      ]
+    },
+    "newColumnName": "areal",
+    "columnInsertIndex": 12,
+    "baseColumnName": "genus",
+    "expression": "grel:if (value==\"Insieme\",\"yes\",null)",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column genus using expression grel:smartSplit(cells[\"nome_sci\"].value,\" \")[0]",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Insieme",
+                "l": "Insieme"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "genus",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "genus"
+        }
+      ]
+    },
+    "columnName": "genus",
+    "expression": "grel:smartSplit(cells[\"nome_sci\"].value,\" \")[0]",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column nome_vol to taxon:it",
+    "oldColumnName": "nome_vol",
+    "newColumnName": "taxon:it"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column taxon using expression grel:smartSplit(value, \"(\")[0]",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "taxon",
+    "expression": "grel:smartSplit(value, \"(\")[0]",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
   }
 ]

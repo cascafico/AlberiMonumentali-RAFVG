@@ -34,11 +34,12 @@ bbox = True
 #bbox = [35.28,6.62,47.1,18.79]
 
 # tags to replace on matched OSM objects
-master_tags = ('historic','ref','name','species','height','circumference')
+master_tags = ('denotation','ref:mipaaft','source','survey:date','protected','species:it','height','circumference')
 
 delete_unmatched = False
 #tag_unmatched = { 'fixme':'questo albero può essere abbattuto/declassificato' }
 
 
 # max distance to search for a match in meters
-max_distance = 40
+#max_distance = 40  7 duplicates
+max_distance = 20

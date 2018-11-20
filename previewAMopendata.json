@@ -1,0 +1,4795 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     12.4931474,
+     46.0527029
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 3786017354,
+    "osm_type": "node",
+    "ref_coords": [
+     12.49315,
+     46.0527
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "168",
+    "tags.natural": "tree",
+    "tags.note": "Castagno secolare",
+    "tags_changed.species:it": "castagno -> Castagno",
+    "tags_new.denotation": "landmark",
+    "tags_new.source": "Partecipazione"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2461192,
+     46.0579996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5594894907,
+    "osm_type": "node",
+    "ref_coords": [
+     13.2461,
+     46.058
+    ],
+    "ref_distance": 1.5,
+    "ref_id": "78",
+    "tags.natural": "tree",
+    "tags_new.circumference": "3",
+    "tags_new.denotation": "natural_monument",
+    "tags_new.height": "20",
+    "tags_new.height:source": "estimated",
+    "tags_new.protected": "yes",
+    "tags_new.ref:mipaaft": "028/L483/UD/06",
+    "tags_new.source": "Regione FVG",
+    "tags_new.species:it": "Cipresso del Cashmere",
+    "tags_new.survey:date": "2016-09-16",
+    "tags_new.taxon": "Cupressus cashmeriana Royle ex Carri  re"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.858512,
+     45.6081093
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2124618451,
+    "osm_type": "node",
+    "ref_coords": [
+     13.85849,
+     45.6081
+    ],
+    "ref_distance": 2.0,
+    "ref_id": "113",
+    "tags.genus": "Tilia",
+    "tags.genus:de": "Linde",
+    "tags.genus:it": "tiglio",
+    "tags.genus:sl": "lipa",
+    "tags.leaf_type": "broad_leaved",
+    "tags.natural": "tree",
+    "tags.start_date": "1667",
+    "tags_changed.circumference": "4 -> 4.3",
+    "tags_new.denotation": "natural_monument",
+    "tags_new.height": "12",
+    "tags_new.height:source": "estimated",
+    "tags_new.protected": "yes",
+    "tags_new.ref:mipaaft": "014/L424/TS/06",
+    "tags_new.source": "Regione FVG",
+    "tags_new.species:it": "Tiglio selvatico",
+    "tags_new.survey:date": "2016-11-19",
+    "tags_new.taxon": "Tilia cordata Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.1291461,
+     45.8180965
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5350079692,
+    "osm_type": "node",
+    "ref_coords": [
+     13.12912,
+     45.8181
+    ],
+    "ref_distance": 2.1,
+    "ref_id": "166",
+    "tags.natural": "tree",
+    "tags_new.denotation": "landmark",
+    "tags_new.source": "Partecipazione",
+    "tags_new.species:it": "Pino marittimo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2368094,
+     46.0625782
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5543849268,
+    "osm_type": "node",
+    "ref_coords": [
+     13.2368,
+     46.0626
+    ],
+    "ref_distance": 2.5,
+    "ref_id": "79",
+    "tags.natural": "tree",
+    "tags_new.circumference": "3",
+    "tags_new.denotation": "natural_monument",
+    "tags_new.height": "25",
+    "tags_new.protected": "yes",
+    "tags_new.ref:mipaaft": "027/L483/UD/06",
+    "tags_new.source": "Regione FVG",
+    "tags_new.survey:date": "2016-09-19",
+    "tags_new.taxon": "Cedrus libani A.Richard"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2464452,
+     46.0546246
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4438216955,
+    "osm_type": "node",
+    "ref_coords": [
+     13.24645,
+     46.0546
+    ],
+    "ref_distance": 2.8,
+    "ref_id": "99",
+    "tags.natural": "tree",
+    "tags_new.circumference": "5.15",
+    "tags_new.denotation": "natural_monument",
+    "tags_new.height": "32",
+    "tags_new.protected": "yes",
+    "tags_new.ref:mipaaft": "023/L483/UD/06",
+    "tags_new.source": "Regione FVG",
+    "tags_new.species:it": "Platano comune",
+    "tags_new.survey:date": "2016-09-19",
+    "tags_new.taxon": "Platanus acerifolia (Aiton) Willd."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2294979,
+     46.0711207
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5774068562,
+    "osm_type": "node",
+    "ref_coords": [
+     13.22947,
+     46.0711
+    ],
+    "ref_distance": 3.2,
+    "ref_id": "103",
+    "tags.natural": "tree",
+    "tags_new.circumference": "5.75",
+    "tags_new.denotation": "natural_monument",
+    "tags_new.height": "30",
+    "tags_new.protected": "yes",
+    "tags_new.ref:mipaaft": "016/L483/UD/06",
+    "tags_new.source": "Regione FVG",
+    "tags_new.species:it": "Cedro dell'Himalaya",
+    "tags_new.survey:date": "2016-09-19",
+    "tags_new.taxon": "Cedrus deodara  (D.Don) G.Don"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2290423,
+     46.0606704
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4387472103,
+    "osm_type": "node",
+    "ref_coords": [
+     13.22902,
+     46.0606
+    ],
+    "ref_distance": 8.0,
+    "ref_id": "104",
+    "tags.natural": "tree",
+    "tags_new.circumference": "4.2",
+    "tags_new.denotation": "natural_monument",
+    "tags_new.height": "24",
+    "tags_new.protected": "yes",
+    "tags_new.ref:mipaaft": "004/L483/UD/06",
+    "tags_new.source": "Regione FVG",
+    "tags_new.species:it": "Ippocastano",
+    "tags_new.survey:date": "2016-09-19",
+    "tags_new.taxon": "Aesculus hippocastanum L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.4273356,
+     46.0942322
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2874024034,
+    "osm_type": "node",
+    "ref_coords": [
+     13.42723,
+     46.0943
+    ],
+    "ref_distance": 11.1,
+    "ref_id": "69",
+    "tags.leaf_type": "needleleaved",
+    "tags.name": "Arnoldo",
+    "tags.natural": "tree",
+    "tags.species": "Calabrica",
+    "tags.start_date": "1890",
+    "tags_changed.circumference": "3.65 -> 3.95",
+    "tags_changed.height": "23 -> 25.5",
+    "tags_new.denotation": "natural_monument",
+    "tags_new.protected": "yes",
+    "tags_new.ref:mipaaft": "001/C758/UD/06",
+    "tags_new.source": "Regione FVG",
+    "tags_new.species:it": "Pino laricio",
+    "tags_new.survey:date": "2015-07-20",
+    "tags_new.taxon": "Pinus nigra subsp. laricio Maire"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.438822,
+     46.506708
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5697339360,
+    "osm_type": "node",
+    "ref_coords": [
+     13.43877,
+     46.5066
+    ],
+    "ref_distance": 12.7,
+    "ref_id": "35",
+    "tags.denotation": "natural_monument",
+    "tags.ele": "720",
+    "tags.natural": "tree",
+    "tags.ref:mipaaf": "01/E847/UD/06",
+    "tags.species": "Tilia cordata Mill.",
+    "tags.species:it": "Tiglio selvatico",
+    "tags.start_date": "1620",
+    "tags_changed.circumference": "580 -> 6.33",
+    "tags_changed.height": "25 -> 22",
+    "tags_new.protected": "yes",
+    "tags_new.ref:mipaaft": "001/E847/UD/06",
+    "tags_new.source": "Regione FVG",
+    "tags_new.survey:date": "2016-10-15",
+    "tags_new.taxon": "Tilia cordata Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.4293653,
+     46.024126
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4216081495,
+    "osm_type": "node",
+    "ref_coords": [
+     13.42936,
+     46.024
+    ],
+    "ref_distance": 14.0,
+    "ref_id": "48",
+    "tags.access": "yes",
+    "tags.denotation": "natural_monument",
+    "tags.genus": "Cupressus L.",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.name": "Cipresso mediterraneo",
+    "tags.name:botanical": "Cupressus sempervirens L.",
+    "tags.natural": "tree",
+    "tags.start_date": "1580",
+    "tags_changed.circumference": "5.1 -> 5",
+    "tags_changed.height": "22 -> 21",
+    "tags_new.protected": "yes",
+    "tags_new.ref:mipaaft": "002/H029/UD/06",
+    "tags_new.source": "Regione FVG",
+    "tags_new.species:it": "Cipresso comune",
+    "tags_new.survey:date": "2015-07-09",
+    "tags_new.taxon": "Cupressus sempervirens L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.0116112,
+     45.9507014
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2940135286,
+    "osm_type": "node",
+    "ref_coords": [
+     13.01178,
+     45.9506
+    ],
+    "ref_distance": 17.3,
+    "ref_id": "83",
+    "tags.leaf_type": "needleleaved",
+    "tags.name": "Cedro Bianco della California",
+    "tags.natural": "tree",
+    "tags_new.circumference": "2.5",
+    "tags_new.denotation": "natural_monument",
+    "tags_new.height": "57",
+    "tags_new.height:source": "estimated",
+    "tags_new.protected": "yes",
+    "tags_new.ref:mipaaft": "006/C817/UD/06",
+    "tags_new.source": "Regione FVG",
+    "tags_new.species:it": "Ginco",
+    "tags_new.survey:date": "2016-02-08",
+    "tags_new.taxon": "Ginkgo biloba L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.0087733,
+     45.9501489
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2940135287,
+    "osm_type": "node",
+    "ref_coords": [
+     13.00891,
+     45.9503
+    ],
+    "ref_distance": 19.9,
+    "ref_id": "84",
+    "tags.leaf_type": "needleleaved",
+    "tags.name": "Cipresso Piramidale",
+    "tags.natural": "tree",
+    "tags_new.circumference": "3.95",
+    "tags_new.denotation": "natural_monument",
+    "tags_new.height": "32",
+    "tags_new.protected": "yes",
+    "tags_new.ref:mipaaft": "005/C817/UD/06",
+    "tags_new.source": "Regione FVG",
+    "tags_new.species:it": "Abete del Caucaso",
+    "tags_new.survey:date": "2016-02-08",
+    "tags_new.taxon": "Abies nordmanniana (Steven) Spach"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.44801,
+     45.9685
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -14,
+    "osm_type": "node",
+    "ref_id": "10",
+    "tags.circumference": "2.82",
+    "tags.denotation": "natural_monument",
+    "tags.height": "19",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "002/B598/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Tiglio selvatico",
+    "tags.survey:date": "2015-07-29",
+    "tags.taxon": "Tilia cordata Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.23722,
+     46.0646
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -15,
+    "osm_type": "node",
+    "ref_id": "100",
+    "tags.circumference": "4.54",
+    "tags.denotation": "natural_monument",
+    "tags.height": "23",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "022/L483/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Bagolaro",
+    "tags.survey:date": "2016-09-19",
+    "tags.taxon": "Celtis australis L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.22777,
+     46.0639
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -16,
+    "osm_type": "node",
+    "ref_id": "101",
+    "tags.circumference": "4.3",
+    "tags.denotation": "natural_monument",
+    "tags.height": "32",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "018/L483/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cedro dell'Himalaya",
+    "tags.survey:date": "2016-09-19",
+    "tags.taxon": "Cedrus deodara  (D.Don) G.Don"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.22816,
+     46.0633
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -17,
+    "osm_type": "node",
+    "ref_id": "102",
+    "tags.circumference": "6.17",
+    "tags.denotation": "natural_monument",
+    "tags.height": "34",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "017/L483/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cedro dell'Himalaya",
+    "tags.survey:date": "2016-09-19",
+    "tags.taxon": "Cedrus deodara  (D.Don) G.Don"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.23676,
+     46.0644
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -18,
+    "osm_type": "node",
+    "ref_id": "105",
+    "tags.circumference": "4.01",
+    "tags.denotation": "natural_monument",
+    "tags.height": "27",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "003/L483/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cedro dell'Himalaya",
+    "tags.survey:date": "2016-09-19",
+    "tags.taxon": "Cedrus deodara  (D.Don) G.Don"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.23593,
+     46.064
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -19,
+    "osm_type": "node",
+    "ref_id": "106",
+    "tags.circumference": "4.48",
+    "tags.denotation": "natural_monument",
+    "tags.height": "27",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/L483/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cedro dell'Himalaya",
+    "tags.survey:date": "2016-09-19",
+    "tags.taxon": "Cedrus deodara  (D.Don) G.Don"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.23651,
+     46.0642
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -20,
+    "osm_type": "node",
+    "ref_id": "107",
+    "tags.circumference": "5.22",
+    "tags.denotation": "natural_monument",
+    "tags.height": "31",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/L483/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cedro dell'Himalaya",
+    "tags.survey:date": "2016-09-19",
+    "tags.taxon": "Cedrus deodara  (D.Don) G.Don"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.23925,
+     46.0637
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -21,
+    "osm_type": "node",
+    "ref_id": "108",
+    "tags.circumference": "6.94",
+    "tags.denotation": "natural_monument",
+    "tags.height": "22",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "013/L483/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Libocedro",
+    "tags.survey:date": "2016-09-26",
+    "tags.taxon": "Calocedrus decurrens (Torr.) Florin"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.23891,
+     46.0637
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -22,
+    "osm_type": "node",
+    "ref_id": "109",
+    "tags.circumference": "3.155",
+    "tags.denotation": "natural_monument",
+    "tags.height": "15",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "012/L483/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Gelso bianco",
+    "tags.survey:date": "2016-09-26",
+    "tags.taxon": "Morus alba L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.43094,
+     45.9673
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -23,
+    "osm_type": "node",
+    "ref_id": "11",
+    "tags.circumference": "4.5",
+    "tags.denotation": "natural_monument",
+    "tags.height": "28",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "001/B598/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Bagolaro",
+    "tags.survey:date": "2015-07-29",
+    "tags.taxon": "Celtis australis L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.45954,
+     46.173
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -24,
+    "osm_type": "node",
+    "ref_id": "110",
+    "tags.circumference": "7.83",
+    "tags.denotation": "natural_monument",
+    "tags.height": "25",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/H089/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Castagno",
+    "tags.survey:date": "2016-10-01",
+    "tags.taxon": "Castanea sativa Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.62792,
+     46.3322
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -25,
+    "osm_type": "node",
+    "ref_id": "111",
+    "tags.circumference": "4.42",
+    "tags.denotation": "natural_monument",
+    "tags.height": "27",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "004/C790/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Abete rosso",
+    "tags.survey:date": "2015-08-14",
+    "tags.taxon": "Picea abies (L.) H. Karst."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.76698,
+     45.5948
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -26,
+    "osm_type": "node",
+    "ref_id": "112",
+    "tags.circumference": "4.1",
+    "tags.denotation": "natural_monument",
+    "tags.height": "17",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/F795/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Salice bianco",
+    "tags.survey:date": "2015-06-22",
+    "tags.taxon": "Salix alba L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.80185,
+     45.637
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -27,
+    "osm_type": "node",
+    "ref_id": "114",
+    "tags.circumference": "3.43",
+    "tags.denotation": "natural_monument",
+    "tags.height": "20",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "012/L424/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Olmo del Caucaso",
+    "tags.survey:date": "2015-07-29",
+    "tags.taxon": "Zelkova carpinifolia (Pall.) K. Koch"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.71361,
+     45.7041
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -28,
+    "osm_type": "node",
+    "ref_id": "115",
+    "tags.circumference": "4.25",
+    "tags.denotation": "natural_monument",
+    "tags.height": "30",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "011/L424/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Sequoia sempreverde",
+    "tags.survey:date": "2015-07-27",
+    "tags.taxon": "Sequoia sempervirens (D. Don) Endl"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.80522,
+     45.653
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -29,
+    "osm_type": "node",
+    "ref_id": "116",
+    "tags.circumference": "4.2",
+    "tags.denotation": "natural_monument",
+    "tags.height": "15",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "010/L424/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Roverella",
+    "tags.survey:date": "2015-07-23",
+    "tags.taxon": "Quercus pubescens Willd."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.79651,
+     45.6608
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -30,
+    "osm_type": "node",
+    "ref_id": "117",
+    "tags.circumference": "2.44",
+    "tags.denotation": "natural_monument",
+    "tags.height": "15",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "009/L424/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Roverella",
+    "tags.survey:date": "2015-07-23",
+    "tags.taxon": "Quercus pubescens Willd."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.78437,
+     45.654
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -31,
+    "osm_type": "node",
+    "ref_id": "118",
+    "tags.circumference": "5.25",
+    "tags.denotation": "natural_monument",
+    "tags.height": "31",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "008/L424/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Platano comune",
+    "tags.survey:date": "2015-07-27",
+    "tags.taxon": "Platanus acerifolia (Aiton) Willd."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.78409,
+     45.6539
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -32,
+    "osm_type": "node",
+    "ref_id": "119",
+    "tags.circumference": "5.2",
+    "tags.denotation": "natural_monument",
+    "tags.height": "28",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "007/L424/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Platano comune",
+    "tags.survey:date": "2015-07-27",
+    "tags.taxon": "Platanus acerifolia (Aiton) Willd."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.56999,
+     46.0767
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -33,
+    "osm_type": "node",
+    "ref_id": "12",
+    "tags.circumference": "6.79",
+    "tags.denotation": "landmark",
+    "tags.height": "13",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "002/A516/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Acero campestre",
+    "tags.survey:date": "2015-06-17",
+    "tags.taxon": "Acer campestre L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.71641,
+     45.7035
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -34,
+    "osm_type": "node",
+    "ref_id": "120",
+    "tags.circumference": "2.5",
+    "tags.denotation": "natural_monument",
+    "tags.height": "20",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "006/L424/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Pino grigio",
+    "tags.survey:date": "2015-07-27",
+    "tags.taxon": "Pinus sabiniana Dougl."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.81526,
+     45.6441
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -35,
+    "osm_type": "node",
+    "ref_id": "121",
+    "tags.circumference": "3.6",
+    "tags.denotation": "natural_monument",
+    "tags.height": "23",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "005/L424/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Pino d'Aleppo",
+    "tags.survey:date": "2015-07-28",
+    "tags.taxon": "Pinus  halepensis Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.80355,
+     45.7057
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -36,
+    "osm_type": "node",
+    "ref_id": "122",
+    "tags.circumference": "3.1",
+    "tags.denotation": "natural_monument",
+    "tags.height": "35",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "004/L424/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cerro",
+    "tags.survey:date": "2015-07-28",
+    "tags.taxon": "Quercus cerris L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.71528,
+     45.705
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -37,
+    "osm_type": "node",
+    "ref_id": "123",
+    "tags.circumference": "4.1",
+    "tags.denotation": "natural_monument",
+    "tags.height": "18",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "003/L424/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cipresso comune",
+    "tags.survey:date": "2015-07-27",
+    "tags.taxon": "Cupressus sempervirens L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7129,
+     45.7037
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -38,
+    "osm_type": "node",
+    "ref_id": "124",
+    "tags.circumference": "2.49",
+    "tags.denotation": "natural_monument",
+    "tags.height": "28",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/L424/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Leccio",
+    "tags.survey:date": "2015-07-27",
+    "tags.taxon": "Quercus ilex L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5855,
+     46.4376
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -39,
+    "osm_type": "node",
+    "ref_id": "126",
+    "tags.circumference": "4.95",
+    "tags.denotation": "natural_monument",
+    "tags.height": "32",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "010/L057/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Abete bianco",
+    "tags.survey:date": "2016-10-09",
+    "tags.taxon": "Abies alba Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.62758,
+     46.3321
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -40,
+    "osm_type": "node",
+    "ref_id": "127",
+    "tags.circumference": "4.02",
+    "tags.denotation": "natural_monument",
+    "tags.height": "33",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "003/C790/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Abete rosso",
+    "tags.survey:date": "2015-08-24",
+    "tags.taxon": "Picea abies (L.) H. Karst."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.55567,
+     46.2482
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -41,
+    "osm_type": "node",
+    "ref_id": "128",
+    "tags.circumference": "4.52",
+    "tags.denotation": "natural_monument",
+    "tags.height": "23",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/C790/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Abete rosso",
+    "tags.survey:date": "2015-08-14",
+    "tags.taxon": "Picea abies (L.) H. Karst."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.55495,
+     46.2484
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -42,
+    "osm_type": "node",
+    "ref_id": "129",
+    "tags.circumference": "3.86",
+    "tags.denotation": "natural_monument",
+    "tags.height": "22",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/C790/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Abete rosso",
+    "tags.survey:date": "2015-08-14",
+    "tags.taxon": "Picea abies (L.) H. Karst."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.52675,
+     46.1305
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -43,
+    "osm_type": "node",
+    "ref_id": "13",
+    "tags.circumference": "4.7",
+    "tags.denotation": "landmark",
+    "tags.height": "18",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "001/A516/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Faggio",
+    "tags.survey:date": "2015-06-17",
+    "tags.taxon": "Fagus sylvatica L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.70643,
+     46.1691
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -44,
+    "osm_type": "node",
+    "ref_id": "130",
+    "tags.circumference": "4.35",
+    "tags.denotation": "natural_monument",
+    "tags.height": "22",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/E889/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Tuia gigante",
+    "tags.survey:date": "2015-07-16",
+    "tags.taxon": "Thuja plicata Donn ex D.Don"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.70099,
+     46.1729
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -45,
+    "osm_type": "node",
+    "ref_id": "131",
+    "tags.circumference": "4.45",
+    "tags.denotation": "natural_monument",
+    "tags.height": "35",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/E889/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Faggio",
+    "tags.survey:date": "2015-07-16",
+    "tags.taxon": "Fagus sylvatica L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.62964,
+     45.7714
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -46,
+    "osm_type": "node",
+    "ref_id": "132",
+    "tags.circumference": "3.2",
+    "tags.denotation": "natural_monument",
+    "tags.height": "28",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/D383/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cipresso di Monterey",
+    "tags.survey:date": "2015-07-29",
+    "tags.taxon": "Cupressus macrocarpa Hartw."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.62441,
+     45.7709
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -47,
+    "osm_type": "node",
+    "ref_id": "133",
+    "tags.circumference": "0.92",
+    "tags.denotation": "natural_monument",
+    "tags.height": "7",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/D383/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Terebinto",
+    "tags.taxon": "Pistacia terebinthus L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.82689,
+     46.4484
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -48,
+    "osm_type": "node",
+    "ref_id": "134",
+    "tags.circumference": "2.54",
+    "tags.denotation": "natural_monument",
+    "tags.height": "15",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/H200/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Pero selvatico",
+    "tags.survey:date": "2015-07-23",
+    "tags.taxon": "Pyrus pyraster (L.) Burgsd."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.8321,
+     46.4391
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -49,
+    "osm_type": "node",
+    "ref_id": "135",
+    "tags.circumference": "3.45",
+    "tags.denotation": "natural_monument",
+    "tags.height": "17",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/D408/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Faggio",
+    "tags.survey:date": "2015-07-23",
+    "tags.taxon": "Fagus sylvatica L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.78673,
+     45.6872
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -50,
+    "osm_type": "node",
+    "ref_id": "136",
+    "tags.denotation": "natural_monument",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "015/L424/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Sofora del Giappone",
+    "tags.survey:date": "2016-12-11",
+    "tags.taxon": "Styphnolobium japonicum (L.) Schott"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.22504,
+     46.2145
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -51,
+    "osm_type": "node",
+    "ref_id": "137",
+    "tags.circumference": "4.5",
+    "tags.denotation": "natural_monument",
+    "tags.height": "24",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/L050/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Pioppo nero",
+    "tags.survey:date": "2016-12-10",
+    "tags.taxon": "Populus nigra L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.15925,
+     46.1228
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -52,
+    "osm_type": "node",
+    "ref_id": "138",
+    "tags.circumference": "3.7",
+    "tags.denotation": "natural_monument",
+    "tags.height": "26",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "003/F760/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Ippocastano",
+    "tags.survey:date": "2016-10-14",
+    "tags.taxon": "Aesculus hippocastanum L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.15979,
+     46.1234
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -53,
+    "osm_type": "node",
+    "ref_id": "139",
+    "tags.denotation": "natural_monument",
+    "tags.height": "25",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/F760/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Noce nero",
+    "tags.survey:date": "2016-10-14",
+    "tags.taxon": "Juglans nigra L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.58168,
+     45.8869
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -54,
+    "osm_type": "node",
+    "ref_id": "14",
+    "tags.circumference": "1.2",
+    "tags.denotation": "landmark",
+    "tags.height": "14",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "002/I479/GO/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Glicine",
+    "tags.survey:date": "2015-07-21",
+    "tags.taxon": "Wisteria sinensis (Sims) Sweet"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.15977,
+     46.1232
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -55,
+    "osm_type": "node",
+    "ref_id": "140",
+    "tags.circumference": "4.1",
+    "tags.denotation": "natural_monument",
+    "tags.height": "27",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/F760/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Ginco",
+    "tags.survey:date": "2016-10-14",
+    "tags.taxon": "Ginkgo biloba L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.23946,
+     46.0628
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -56,
+    "osm_type": "node",
+    "ref_id": "142",
+    "tags.circumference": "4.3",
+    "tags.denotation": "natural_monument",
+    "tags.height": "28",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "007/L483/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Farnia",
+    "tags.survey:date": "2016-09-27",
+    "tags.taxon": "Quercus robur L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.23976,
+     46.0627
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -57,
+    "osm_type": "node",
+    "ref_id": "143",
+    "tags.circumference": "4.73",
+    "tags.denotation": "landmark",
+    "tags.height": "24",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "008/L483/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cedro dell'Atlante",
+    "tags.survey:date": "2016-09-27",
+    "tags.taxon": "Cedrus atlantica  (Endl.) Manetti ex Carri  re"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.23954,
+     46.063
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -58,
+    "osm_type": "node",
+    "ref_id": "144",
+    "tags.circumference": "4.27",
+    "tags.denotation": "landmark",
+    "tags.height": "22",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "006/L483/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cedro dell'Himalaya",
+    "tags.survey:date": "2016-09-27",
+    "tags.taxon": "Cedrus deodara  (D.Don) G.Don"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.12853,
+     45.6859
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -59,
+    "osm_type": "node",
+    "ref_id": "145",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Comune Lignano Sabbiadoro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.12897,
+     45.686
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -60,
+    "osm_type": "node",
+    "ref_id": "146",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Comune Lignano Sabbiadoro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.10564,
+     45.6775
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -61,
+    "osm_type": "node",
+    "ref_id": "147",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Comune Lignano Sabbiadoro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.11981,
+     45.6852
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -62,
+    "osm_type": "node",
+    "ref_id": "149",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Comune Lignano Sabbiadoro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.53106,
+     46.1937
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -63,
+    "osm_type": "node",
+    "ref_id": "15",
+    "tags.circumference": "4.2",
+    "tags.denotation": "landmark",
+    "tags.height": "29",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "001/I478/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Faggio",
+    "tags.survey:date": "2015-07-21",
+    "tags.taxon": "Fagus sylvatica L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.12928,
+     45.6861
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -64,
+    "osm_type": "node",
+    "ref_id": "150",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Comune Lignano Sabbiadoro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.12944,
+     45.683
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -65,
+    "osm_type": "node",
+    "ref_id": "151",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Comune Lignano Sabbiadoro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.13684,
+     45.6893
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -66,
+    "osm_type": "node",
+    "ref_id": "153",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Comune Lignano Sabbiadoro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.12397,
+     45.6844
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -67,
+    "osm_type": "node",
+    "ref_id": "154",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Comune Lignano Sabbiadoro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.12404,
+     45.6842
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -68,
+    "osm_type": "node",
+    "ref_id": "155",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Comune Lignano Sabbiadoro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.11897,
+     45.6817
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -69,
+    "osm_type": "node",
+    "ref_id": "157",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Comune Lignano Sabbiadoro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.18554,
+     46.0878
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -70,
+    "osm_type": "node",
+    "ref_id": "159",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Cedro del libano"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.49935,
+     45.8888
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -71,
+    "osm_type": "node",
+    "ref_id": "16",
+    "tags.circumference": "3.25",
+    "tags.denotation": "landmark",
+    "tags.height": "19",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "002/E124/GO/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Pino d'Aleppo",
+    "tags.survey:date": "2015-07-15",
+    "tags.taxon": "Pinus  halepensis Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2117,
+     45.9833
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -72,
+    "osm_type": "node",
+    "ref_id": "160",
+    "tags.denotation": "natural_monument",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Platano"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.18035,
+     46.1577
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -73,
+    "osm_type": "node",
+    "ref_id": "161",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Pino domestico"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.23906,
+     46.0976
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -74,
+    "osm_type": "node",
+    "ref_id": "162",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Bagolaro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.20567,
+     46.4649
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -75,
+    "osm_type": "node",
+    "ref_id": "163",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Faggio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.49334,
+     46.0479
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -76,
+    "osm_type": "node",
+    "ref_id": "164",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Gelso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.4903,
+     46.0326
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -77,
+    "osm_type": "node",
+    "ref_id": "165",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Quercia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.12832,
+     46.2014
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -78,
+    "osm_type": "node",
+    "ref_id": "167",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.78312,
+     46.5807
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -79,
+    "osm_type": "node",
+    "ref_id": "169",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Abete bianco"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.49394,
+     45.885
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -80,
+    "osm_type": "node",
+    "ref_id": "17",
+    "tags.circumference": "3.65",
+    "tags.denotation": "landmark",
+    "tags.height": "16",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "001/E124/GO/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Magnolia",
+    "tags.survey:date": "2015-07-15",
+    "tags.taxon": "Magnolia grandiflora L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.11856,
+     46.2044
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -81,
+    "osm_type": "node",
+    "ref_id": "170",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Cachi"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.12763,
+     46.2077
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -82,
+    "osm_type": "node",
+    "ref_id": "171",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Gelso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.60423,
+     46.4143
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -83,
+    "osm_type": "node",
+    "ref_id": "172",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Larice"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.18657,
+     46.0889
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -84,
+    "osm_type": "node",
+    "ref_id": "173",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Sequoia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.16136,
+     46.0644
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -85,
+    "osm_type": "node",
+    "ref_id": "174",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Quercia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.81406,
+     46.5569
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -86,
+    "osm_type": "node",
+    "ref_id": "175",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Faggio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.60055,
+     46.1454
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -87,
+    "osm_type": "node",
+    "ref_id": "176",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Castagno"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.27392,
+     46.1268
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -88,
+    "osm_type": "node",
+    "ref_id": "177",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Quercia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.30552,
+     46.1897
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -89,
+    "osm_type": "node",
+    "ref_id": "178",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Ginko biloba"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.32912,
+     46.0789
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -90,
+    "osm_type": "node",
+    "ref_id": "179",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Gelso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.50018,
+     45.8052
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -91,
+    "osm_type": "node",
+    "ref_id": "18",
+    "tags.circumference": "4.36",
+    "tags.denotation": "landmark",
+    "tags.height": "16",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "001/I939/GO/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Bagolaro",
+    "tags.survey:date": "2015-07-29",
+    "tags.taxon": "Celtis australis L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.65518,
+     45.9599
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -92,
+    "osm_type": "node",
+    "ref_id": "180",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "provincia_pn",
+    "tags.species:it": "Farnia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.56155,
+     46.0516
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -93,
+    "osm_type": "node",
+    "ref_id": "181",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "provincia_pn",
+    "tags.species:it": "Rovere"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.69607,
+     46.1655
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -94,
+    "osm_type": "node",
+    "ref_id": "182",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "provincia_pn",
+    "tags.species:it": "Pino silvestre"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.85953,
+     45.9156
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -95,
+    "osm_type": "node",
+    "ref_id": "183",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "provincia_pn",
+    "tags.species:it": "Pècan"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.81595,
+     45.9244
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -96,
+    "osm_type": "node",
+    "ref_id": "184",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "provincia_pn",
+    "tags.species:it": "Gelso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.94415,
+     46.182
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -97,
+    "osm_type": "node",
+    "ref_id": "185",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Gelso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.44938,
+     46.0084
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -98,
+    "osm_type": "node",
+    "ref_id": "186",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Quercia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.77192,
+     45.8738
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -99,
+    "osm_type": "node",
+    "ref_id": "187",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "provincia_pn",
+    "tags.species:it": "Sòfora"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.60154,
+     45.9009
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -100,
+    "osm_type": "node",
+    "ref_id": "188",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "provincia_pn",
+    "tags.species:it": "Ippocastano"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.12974,
+     46.2715
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -101,
+    "osm_type": "node",
+    "ref_id": "189",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.54205,
+     45.9409
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -102,
+    "osm_type": "node",
+    "ref_id": "19",
+    "tags.circumference": "5",
+    "tags.denotation": "landmark",
+    "tags.height": "16",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "001/F767/GO/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Farnia",
+    "tags.survey:date": "2015-07-15",
+    "tags.taxon": "Quercus robur L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5265,
+     46.511
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -103,
+    "osm_type": "node",
+    "ref_id": "190",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Quercia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.57928,
+     45.9207
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -104,
+    "osm_type": "node",
+    "ref_id": "191",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "provincia_pn",
+    "tags.species:it": "Olmo campestre"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.61721,
+     45.9579
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -105,
+    "osm_type": "node",
+    "ref_id": "192",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Bagolaro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.16816,
+     46.0632
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -106,
+    "osm_type": "node",
+    "ref_id": "193",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Quercia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.20042,
+     45.98
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -107,
+    "osm_type": "node",
+    "ref_id": "194",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Bagolaro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.13648,
+     46.108
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -108,
+    "osm_type": "node",
+    "ref_id": "195",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Quercia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.78956,
+     46.3099
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -109,
+    "osm_type": "node",
+    "ref_id": "196",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Ippocastano"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.61597,
+     46.0081
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -110,
+    "osm_type": "node",
+    "ref_id": "197",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Bagolaro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.85694,
+     46.4851
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -111,
+    "osm_type": "node",
+    "ref_id": "198",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Pero"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.89506,
+     46.1923
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -112,
+    "osm_type": "node",
+    "ref_id": "199",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Castagno"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.71316,
+     45.7049
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -113,
+    "osm_type": "node",
+    "ref_id": "2",
+    "tags.circumference": "2.04",
+    "tags.denotation": "natural_monument",
+    "tags.height": "10",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/L424/TS/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Corbezzolo",
+    "tags.survey:date": "2015-07-27",
+    "tags.taxon": "Arbutus unedo L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.49897,
+     45.9809
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -114,
+    "osm_type": "node",
+    "ref_id": "20",
+    "tags.circumference": "4.33",
+    "tags.denotation": "landmark",
+    "tags.height": "18",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "001/D014/GO/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Roverella",
+    "tags.survey:date": "2015-08-08",
+    "tags.taxon": "Quercus pubescens Willd."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.89311,
+     46.1947
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -115,
+    "osm_type": "node",
+    "ref_id": "200",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Ciliegio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.01968,
+     46.4076
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -116,
+    "osm_type": "node",
+    "ref_id": "201",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Sequoia",
+    "tags.taxon": "Sequoia sempervirens"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.99393,
+     46.437
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -117,
+    "osm_type": "node",
+    "ref_id": "202",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "Partecipazione",
+    "tags.species:it": "Ippocastano",
+    "tags.taxon": "Aesculus hippocastanum"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.62634,
+     45.9503
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -118,
+    "osm_type": "node",
+    "ref_id": "21",
+    "tags.circumference": "3.7",
+    "tags.denotation": "landmark",
+    "tags.height": "8",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "007/E098/GO/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Gelso bianco",
+    "tags.survey:date": "2015-08-08",
+    "tags.taxon": "Morus alba L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.62058,
+     45.9453
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -119,
+    "osm_type": "node",
+    "ref_id": "23",
+    "tags.circumference": "2.72",
+    "tags.denotation": "natural_monument",
+    "tags.height": "18",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "005/E098/GO/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Magnolia",
+    "tags.survey:date": "2015-08-08",
+    "tags.taxon": "Magnolia grandiflora L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.62662,
+     45.938
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -120,
+    "osm_type": "node",
+    "ref_id": "24",
+    "tags.circumference": "2.8",
+    "tags.denotation": "natural_monument",
+    "tags.height": "8",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "004/E098/GO/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Gelso bianco",
+    "tags.survey:date": "2015-08-08",
+    "tags.taxon": "Morus alba L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.62808,
+     45.9445
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -121,
+    "osm_type": "node",
+    "ref_id": "25",
+    "tags.circumference": "4.55",
+    "tags.denotation": "natural_monument",
+    "tags.height": "30",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "003/E098/GO/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Platano comune",
+    "tags.survey:date": "2015-08-08",
+    "tags.taxon": "Platanus acerifolia (Aiton) Willd."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6232,
+     45.9409
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -122,
+    "osm_type": "node",
+    "ref_id": "27",
+    "tags.circumference": "4.5",
+    "tags.denotation": "natural_monument",
+    "tags.height": "30",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/E098/GO/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Platano comune",
+    "tags.survey:date": "2015-10-08",
+    "tags.taxon": "Platanus acerifolia (Aiton) Willd."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.61571,
+     45.9574
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -123,
+    "osm_type": "node",
+    "ref_id": "28",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "provincia_pn",
+    "tags.species:it": "Olmo campestre"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.46432,
+     46.1681
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -124,
+    "osm_type": "node",
+    "ref_id": "29",
+    "tags.circumference": "5.2",
+    "tags.denotation": "natural_monument",
+    "tags.height": "24",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/H089/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Castagno",
+    "tags.taxon": "Castanea sativa Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.6163,
+     45.9583
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -125,
+    "osm_type": "node",
+    "ref_id": "3",
+    "tags.circumference": "2.45",
+    "tags.denotation": "landmark",
+    "tags.height": "15",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "003/G886/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Magnolia",
+    "tags.survey:date": "2016-10-15",
+    "tags.taxon": "Magnolia grandiflora L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.79103,
+     45.9558
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -126,
+    "osm_type": "node",
+    "ref_id": "30",
+    "tags.denotation": "landmark",
+    "tags.natural": "tree",
+    "tags.source": "provincia_pn",
+    "tags.species:it": "Pioppo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.53222,
+     46.1472
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -127,
+    "osm_type": "node",
+    "ref_id": "31",
+    "tags.circumference": "5.6",
+    "tags.denotation": "natural_monument",
+    "tags.height": "24",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/H951/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Castagno",
+    "tags.survey:date": "2015-07-11",
+    "tags.taxon": "Castanea sativa Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.14092,
+     45.691
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -128,
+    "osm_type": "node",
+    "ref_id": "32",
+    "tags.circumference": "2.5",
+    "tags.denotation": "natural_monument",
+    "tags.height": "10",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/E584/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Roverella",
+    "tags.survey:date": "2016-11-15",
+    "tags.taxon": "Quercus pubescens Willd."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.13388,
+     45.6821
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -129,
+    "osm_type": "node",
+    "ref_id": "33",
+    "tags.circumference": "4.5",
+    "tags.denotation": "natural_monument",
+    "tags.height": "25",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/E584/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Pino d'Aleppo",
+    "tags.survey:date": "2015-12-11",
+    "tags.taxon": "Pinus  halepensis Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.98862,
+     45.8885
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -130,
+    "osm_type": "node",
+    "ref_id": "34",
+    "tags.circumference": "5.8",
+    "tags.denotation": "natural_monument",
+    "tags.height": "29",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/L686/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Farnia",
+    "tags.survey:date": "2015-08-05",
+    "tags.taxon": "Quercus robur L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.00902,
+     45.9528
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -131,
+    "osm_type": "node",
+    "ref_id": "37",
+    "tags.circumference": "4.95",
+    "tags.denotation": "natural_monument",
+    "tags.height": "21",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "011/C817/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cedro dell'Himalaya",
+    "tags.survey:date": "2016-10-05",
+    "tags.taxon": "Cedrus deodara  (D.Don) G.Don"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.00942,
+     45.9488
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -132,
+    "osm_type": "node",
+    "ref_id": "38",
+    "tags.circumference": "4.09",
+    "tags.denotation": "natural_monument",
+    "tags.height": "22",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "010/C817/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Ippocastano",
+    "tags.survey:date": "2016-10-05",
+    "tags.taxon": "Aesculus hippocastanum L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.009,
+     45.949
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -133,
+    "osm_type": "node",
+    "ref_id": "39",
+    "tags.circumference": "4.3",
+    "tags.denotation": "natural_monument",
+    "tags.height": "30",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "009/C817/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Platano comune",
+    "tags.survey:date": "2016-10-05",
+    "tags.taxon": "Platanus acerifolia (Aiton) Willd."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.61789,
+     45.957
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -134,
+    "osm_type": "node",
+    "ref_id": "4",
+    "tags.circumference": "4.5",
+    "tags.denotation": "landmark",
+    "tags.height": "25",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "002/G886/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Bagolaro",
+    "tags.survey:date": "2016-10-15",
+    "tags.taxon": "Celtis australis L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.01323,
+     45.9497
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -135,
+    "osm_type": "node",
+    "ref_id": "40",
+    "tags.circumference": "2.9",
+    "tags.denotation": "natural_monument",
+    "tags.height": "20",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "007/C817/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Spino di Giuda",
+    "tags.survey:date": "2015-07-04",
+    "tags.taxon": "Gleditzia triacanthos L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.54892,
+     46.1017
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -136,
+    "osm_type": "node",
+    "ref_id": "41",
+    "tags.circumference": "2.35",
+    "tags.denotation": "natural_monument",
+    "tags.height": "23",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/H951/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Betulla verrucosa",
+    "tags.survey:date": "2015-07-20",
+    "tags.taxon": "Betula pendula Roth"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.3025,
+     46.5062
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -137,
+    "osm_type": "node",
+    "ref_id": "42",
+    "tags.circumference": "2.92",
+    "tags.denotation": "natural_monument",
+    "tags.height": "18",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "003/G831/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Noce comune",
+    "tags.survey:date": "2016-06-17",
+    "tags.taxon": "Juglans regia L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.31393,
+     46.5103
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -138,
+    "osm_type": "node",
+    "ref_id": "43",
+    "tags.circumference": "2.48",
+    "tags.denotation": "natural_monument",
+    "tags.height": "16",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/G831/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Pero domestico",
+    "tags.survey:date": "2016-03-20",
+    "tags.taxon": "Pyrus communis L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.30599,
+     46.5113
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -139,
+    "osm_type": "node",
+    "ref_id": "44",
+    "tags.circumference": "3.9",
+    "tags.denotation": "natural_monument",
+    "tags.height": "25",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/G831/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Tiglio selvatico",
+    "tags.survey:date": "2014-10-03",
+    "tags.taxon": "Tilia cordata Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.11075,
+     46.5705
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -140,
+    "osm_type": "node",
+    "ref_id": "45",
+    "tags.circumference": "3.65",
+    "tags.denotation": "natural_monument",
+    "tags.height": "42",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/G381/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Abete rosso",
+    "tags.survey:date": "2016-07-15",
+    "tags.taxon": "Picea abies (L.) H. Karst."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.42946,
+     46.0243
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -141,
+    "osm_type": "node",
+    "ref_id": "46",
+    "tags.circumference": "1.84",
+    "tags.denotation": "natural_monument",
+    "tags.height": "15",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "004/H029/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Tuia gigante",
+    "tags.survey:date": "2015-07-21",
+    "tags.taxon": "Thuja plicata Donn ex D.Don"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.42949,
+     46.0238
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -142,
+    "osm_type": "node",
+    "ref_id": "47",
+    "tags.circumference": "1.8",
+    "tags.denotation": "natural_monument",
+    "tags.height": "4.5",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "003/H029/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Glicine",
+    "tags.survey:date": "2015-07-10",
+    "tags.taxon": "Wisteria sinensis (Sims) Sweet"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5683,
+     46.5066
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -143,
+    "osm_type": "node",
+    "ref_id": "49",
+    "tags.circumference": "4.45",
+    "tags.denotation": "natural_monument",
+    "tags.height": "24",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "009/L057/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Salice bianco",
+    "tags.survey:date": "2014-06-11",
+    "tags.taxon": "Salix alba L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.61703,
+     45.959
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -144,
+    "osm_type": "node",
+    "ref_id": "5",
+    "tags.circumference": "4.55",
+    "tags.denotation": "landmark",
+    "tags.height": "34",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "001/G886/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Albero dei tulipani",
+    "tags.survey:date": "2016-10-15",
+    "tags.taxon": "Liriodendron tulipifera L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.62435,
+     46.512
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -145,
+    "osm_type": "node",
+    "ref_id": "50",
+    "tags.circumference": "4.05",
+    "tags.denotation": "natural_monument",
+    "tags.height": "19",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "007/L057/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Noce comune",
+    "tags.survey:date": "2014-06-11",
+    "tags.taxon": "Juglans regia L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.53516,
+     46.4748
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -146,
+    "osm_type": "node",
+    "ref_id": "52",
+    "tags.circumference": "5.31",
+    "tags.denotation": "natural_monument",
+    "tags.height": "27",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/L057/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Larice",
+    "tags.survey:date": "2016-12-11",
+    "tags.taxon": "Larix decidua Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.52638,
+     46.5106
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -147,
+    "osm_type": "node",
+    "ref_id": "53",
+    "tags.circumference": "5.25",
+    "tags.denotation": "natural_monument",
+    "tags.height": "32",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "013/L057/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Faggio",
+    "tags.survey:date": "2015-08-13",
+    "tags.taxon": "Fagus sylvatica L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.68677,
+     46.4924
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -148,
+    "osm_type": "node",
+    "ref_id": "54",
+    "tags.circumference": "4.125",
+    "tags.denotation": "natural_monument",
+    "tags.height": "29.5",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "006/L057/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Acero di monte",
+    "tags.survey:date": "2016-03-15",
+    "tags.taxon": "Acer pseudoplatanus L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.53648,
+     46.5407
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -149,
+    "osm_type": "node",
+    "ref_id": "55",
+    "tags.circumference": "4.5",
+    "tags.denotation": "natural_monument",
+    "tags.height": "11",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "005/L057/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Acero di monte",
+    "tags.survey:date": "2015-09-21",
+    "tags.taxon": "Acer pseudoplatanus L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.53607,
+     46.4756
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -150,
+    "osm_type": "node",
+    "ref_id": "56",
+    "tags.circumference": "5.53",
+    "tags.denotation": "natural_monument",
+    "tags.height": "32.2",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "004/L057/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Abete rosso",
+    "tags.survey:date": "2016-12-11",
+    "tags.taxon": "Picea abies (L.) H. Karst."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.53568,
+     46.4755
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -151,
+    "osm_type": "node",
+    "ref_id": "57",
+    "tags.circumference": "4.45",
+    "tags.denotation": "natural_monument",
+    "tags.height": "31",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "003/L057/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Abete rosso",
+    "tags.survey:date": "2016-12-11",
+    "tags.taxon": "Picea abies (L.) H. Karst."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.21947,
+     46.1733
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -152,
+    "osm_type": "node",
+    "ref_id": "58",
+    "tags.circumference": "3.35",
+    "tags.denotation": "natural_monument",
+    "tags.height": "20",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "006/L421/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cipresso di Monterey",
+    "tags.survey:date": "2016-09-21",
+    "tags.taxon": "Cupressus macrocarpa Hartw."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.6847,
+     45.9233
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -153,
+    "osm_type": "node",
+    "ref_id": "6",
+    "tags.circumference": "5.45",
+    "tags.denotation": "landmark",
+    "tags.height": "25",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "001/D621/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Farnia",
+    "tags.survey:date": "2016-10-14",
+    "tags.taxon": "Quercus robur L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.21881,
+     46.1736
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -154,
+    "osm_type": "node",
+    "ref_id": "61",
+    "tags.circumference": "3.7",
+    "tags.denotation": "natural_monument",
+    "tags.height": "28",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "003/L421/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Pioppo canescente",
+    "tags.survey:date": "2016-09-21",
+    "tags.taxon": "Populus  canescens (Aiton) Sm."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.21185,
+     46.1617
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -155,
+    "osm_type": "node",
+    "ref_id": "62",
+    "tags.circumference": "1.6",
+    "tags.denotation": "natural_monument",
+    "tags.height": "2.5",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/L421/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Glicine",
+    "tags.survey:date": "2016-08-10",
+    "tags.taxon": "Wisteria sinensis (Sims) Sweet"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.21525,
+     46.1591
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -156,
+    "osm_type": "node",
+    "ref_id": "63",
+    "tags.circumference": "4.5",
+    "tags.denotation": "natural_monument",
+    "tags.height": "31",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/L421/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cedro dell'Himalaya",
+    "tags.survey:date": "2016-10-11",
+    "tags.taxon": "Cedrus deodara  (D.Don) G.Don"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.44248,
+     46.1025
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -157,
+    "osm_type": "node",
+    "ref_id": "64",
+    "tags.circumference": "0.68",
+    "tags.denotation": "natural_monument",
+    "tags.height": "2.5",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "006/C758/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Vite",
+    "tags.survey:date": "2015-07-22",
+    "tags.taxon": "Vitis vinifera L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.45136,
+     46.0897
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -158,
+    "osm_type": "node",
+    "ref_id": "65",
+    "tags.circumference": "2.4",
+    "tags.denotation": "natural_monument",
+    "tags.height": "5.5",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "005/C758/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Gelso nero",
+    "tags.survey:date": "2015-07-21",
+    "tags.taxon": "Morus nigra L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.4235,
+     46.0556
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -159,
+    "osm_type": "node",
+    "ref_id": "66",
+    "tags.circumference": "4.3",
+    "tags.denotation": "natural_monument",
+    "tags.height": "25",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "004/C758/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Pioppo nero",
+    "tags.survey:date": "2015-07-21",
+    "tags.taxon": "Populus nigra L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.41542,
+     46.1095
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -160,
+    "osm_type": "node",
+    "ref_id": "67",
+    "tags.circumference": "3.55",
+    "tags.denotation": "natural_monument",
+    "tags.height": "21",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "003/C758/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Olmo campestre",
+    "tags.survey:date": "2015-07-20",
+    "tags.taxon": "Ulmus minor Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.42889,
+     46.0949
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -161,
+    "osm_type": "node",
+    "ref_id": "68",
+    "tags.circumference": "3.5",
+    "tags.denotation": "natural_monument",
+    "tags.height": "25",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/C758/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Ginco",
+    "tags.survey:date": "2016-07-20",
+    "tags.taxon": "Ginkgo biloba L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.46385,
+     46.182
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -162,
+    "osm_type": "node",
+    "ref_id": "7",
+    "tags.circumference": "4.24",
+    "tags.denotation": "landmark",
+    "tags.height": "15",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "001/A640/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Tasso",
+    "tags.survey:date": "2014-10-12",
+    "tags.taxon": "Taxus baccata L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.08148,
+     45.9956
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -163,
+    "osm_type": "node",
+    "ref_id": "71",
+    "tags.circumference": "3.38",
+    "tags.denotation": "natural_monument",
+    "tags.height": "8",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "003/A700/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Gelso nero",
+    "tags.survey:date": "2015-10-06",
+    "tags.taxon": "Morus nigra L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.06844,
+     46.0122
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -164,
+    "osm_type": "node",
+    "ref_id": "72",
+    "tags.circumference": "3.78",
+    "tags.denotation": "natural_monument",
+    "tags.height": "18",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/A700/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Sofora del Giappone",
+    "tags.survey:date": "2015-09-29",
+    "tags.taxon": "Styphnolobium japonicum (L.) Schott"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.07671,
+     45.9953
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -165,
+    "osm_type": "node",
+    "ref_id": "73",
+    "tags.circumference": "4",
+    "tags.denotation": "natural_monument",
+    "tags.height": "18",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/A700/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Bagolaro",
+    "tags.survey:date": "2015-09-22",
+    "tags.taxon": "Celtis australis L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.3041,
+     46.1914
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -166,
+    "osm_type": "node",
+    "ref_id": "74",
+    "tags.circumference": "6.6",
+    "tags.denotation": "natural_monument",
+    "tags.height": "31",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "004/A491/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Farnia",
+    "tags.survey:date": "2015-07-05",
+    "tags.taxon": "Quercus robur L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.30547,
+     46.1885
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -167,
+    "osm_type": "node",
+    "ref_id": "75",
+    "tags.circumference": "4.7",
+    "tags.denotation": "natural_monument",
+    "tags.height": "21",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "003/A491/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Platano comune",
+    "tags.survey:date": "2015-07-05",
+    "tags.taxon": "Platanus acerifolia (Aiton) Willd."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.31174,
+     46.1867
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -168,
+    "osm_type": "node",
+    "ref_id": "77",
+    "tags.circumference": "5.7",
+    "tags.denotation": "natural_monument",
+    "tags.height": "35",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/A491/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Tuia gigante",
+    "tags.survey:date": "2015-07-05",
+    "tags.taxon": "Thuja plicata Donn ex D.Don"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.50042,
+     45.8252
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -169,
+    "osm_type": "node",
+    "ref_id": "8",
+    "tags.circumference": "4.1",
+    "tags.denotation": "landmark",
+    "tags.height": "22",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "001/H531/GO/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Pioppo nero",
+    "tags.survey:date": "2016-11-11",
+    "tags.taxon": "Populus nigra L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.18638,
+     46.0826
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -170,
+    "osm_type": "node",
+    "ref_id": "80",
+    "tags.circumference": "4.1",
+    "tags.denotation": "natural_monument",
+    "tags.height": "24",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "026/L483/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Pioppo nero",
+    "tags.survey:date": "2016-08-10",
+    "tags.taxon": "Populus nigra L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.45943,
+     45.7501
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -171,
+    "osm_type": "node",
+    "ref_id": "81",
+    "tags.circumference": "5.14",
+    "tags.denotation": "natural_monument",
+    "tags.height": "20",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/E125/GO/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Farnia",
+    "tags.survey:date": "2016-11-01",
+    "tags.taxon": "Quercus robur L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.86936,
+     46.1636
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -172,
+    "osm_type": "node",
+    "ref_id": "82",
+    "tags.circumference": "3.61",
+    "tags.denotation": "natural_monument",
+    "tags.height": "21",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/I621/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Farnia",
+    "tags.survey:date": "2016-11-05",
+    "tags.taxon": "Quercus robur L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.00857,
+     45.9494
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -173,
+    "osm_type": "node",
+    "ref_id": "85",
+    "tags.circumference": "4.2",
+    "tags.denotation": "natural_monument",
+    "tags.height": "19",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "004/C817/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Paulonia",
+    "tags.survey:date": "2016-10-18",
+    "tags.taxon": "Paulownia tomentosa (Thunb.) Steud."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.01248,
+     45.9501
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -174,
+    "osm_type": "node",
+    "ref_id": "86",
+    "tags.circumference": "1.9",
+    "tags.denotation": "natural_monument",
+    "tags.height": "15",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "003/C817/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Magnolia",
+    "tags.survey:date": "2016-10-18",
+    "tags.taxon": "Magnolia grandiflora L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.00824,
+     45.9504
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -175,
+    "osm_type": "node",
+    "ref_id": "87",
+    "tags.circumference": "4.28",
+    "tags.denotation": "natural_monument",
+    "tags.height": "22",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/C817/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Bagolaro",
+    "tags.survey:date": "2016-10-17",
+    "tags.taxon": "Celtis australis L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.00938,
+     45.9497
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -176,
+    "osm_type": "node",
+    "ref_id": "88",
+    "tags.circumference": "4.75",
+    "tags.denotation": "natural_monument",
+    "tags.height": "26.6",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "002/C817/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cedro dell'Himalaya",
+    "tags.survey:date": "2016-10-17",
+    "tags.taxon": "Cedrus deodara  (D.Don) G.Don"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.01188,
+     45.9494
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -177,
+    "osm_type": "node",
+    "ref_id": "89",
+    "tags.circumference": "4.1",
+    "tags.denotation": "natural_monument",
+    "tags.height": "16",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "008/C817/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Tasso",
+    "tags.survey:date": "2017-02-15",
+    "tags.taxon": "Taxus baccata L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.43096,
+     46.0015
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -178,
+    "osm_type": "node",
+    "ref_id": "9",
+    "tags.circumference": "4.3",
+    "tags.denotation": "natural_monument",
+    "tags.height": "12",
+    "tags.natural": "tree",
+    "tags.ref:mipaaft": "003/B598/PN/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Castagno",
+    "tags.survey:date": "2015-07-29",
+    "tags.taxon": "Castanea sativa Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.13886,
+     45.9217
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -179,
+    "osm_type": "node",
+    "ref_id": "90",
+    "tags.circumference": "5.74",
+    "tags.denotation": "natural_monument",
+    "tags.height": "27.3",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/L039/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cedro dell'Himalaya",
+    "tags.survey:date": "2016-06-05",
+    "tags.taxon": "Cedrus deodara  (D.Don) G.Don"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.22285,
+     46.2156
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -180,
+    "osm_type": "node",
+    "ref_id": "91",
+    "tags.circumference": "5.25",
+    "tags.denotation": "natural_monument",
+    "tags.height": "30",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/L050/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Platano occidentale",
+    "tags.survey:date": "2016-09-18",
+    "tags.taxon": "Platanus occidentalis L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.77683,
+     46.4743
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -181,
+    "osm_type": "node",
+    "ref_id": "92",
+    "tags.circumference": "4.94",
+    "tags.denotation": "natural_monument",
+    "tags.height": "25",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/A267/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Larice",
+    "tags.survey:date": "2016-03-13",
+    "tags.taxon": "Larix decidua Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.11674,
+     46.5648
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -182,
+    "osm_type": "node",
+    "ref_id": "93",
+    "tags.circumference": "3.8",
+    "tags.denotation": "natural_monument",
+    "tags.height": "35",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/G381/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Abete bianco",
+    "tags.survey:date": "2016-06-12",
+    "tags.taxon": "Abies alba Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.42897,
+     46.0239
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -183,
+    "osm_type": "node",
+    "ref_id": "94",
+    "tags.circumference": "5.36",
+    "tags.denotation": "natural_monument",
+    "tags.height": "21",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/H029/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Cipresso comune",
+    "tags.survey:date": "2016-09-20",
+    "tags.taxon": "Cupressus sempervirens L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.0503,
+     45.9052
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -184,
+    "osm_type": "node",
+    "ref_id": "95",
+    "tags.circumference": "7.8",
+    "tags.denotation": "natural_monument",
+    "tags.height": "21",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "001/A810/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Farnia",
+    "tags.survey:date": "2016-10-10",
+    "tags.taxon": "Quercus robur L."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.59569,
+     46.4983
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -185,
+    "osm_type": "node",
+    "ref_id": "96",
+    "tags.circumference": "2.7",
+    "tags.denotation": "natural_monument",
+    "tags.height": "24",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "008/L057/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Tiglio selvatico",
+    "tags.survey:date": "2016-10-09",
+    "tags.taxon": "Tilia cordata Mill."
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.54782,
+     46.4381
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -186,
+    "osm_type": "node",
+    "ref_id": "97",
+    "tags.circumference": "4.9",
+    "tags.denotation": "natural_monument",
+    "tags.height": "36",
+    "tags.height:source": "estimated",
+    "tags.natural": "tree",
+    "tags.protected": "yes",
+    "tags.ref:mipaaft": "011/L057/UD/06",
+    "tags.source": "Regione FVG",
+    "tags.species:it": "Abete rosso",
+    "tags.survey:date": "2016-10-09",
+    "tags.taxon": "Picea abies (L.) H. Karst."
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

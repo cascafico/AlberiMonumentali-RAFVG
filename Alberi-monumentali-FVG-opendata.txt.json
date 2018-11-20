@@ -1,0 +1,3089 @@
+[
+     {
+      "id"  : 92,
+      "lat" : 46.4743,
+      "lon" : 12.77683,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/A267/UD/06",
+               "species:it" : "Larice",
+               "taxon" : "Larix decidua Mill.",
+               "height" : 25,
+               "height:source" : "estimated",
+               "circumference" : 4.94,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-03-13",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 77,
+      "lat" : 46.1867,
+      "lon" : 13.31174,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/A491/UD/06",
+               "species:it" : "Tuia gigante",
+               "taxon" : "Thuja plicata Donn ex D.Don",
+               "height" : 35,
+               "height:source" : "estimated",
+               "circumference" : 5.7,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-05",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 13,
+      "lat" : 46.1305,
+      "lon" : 12.52675,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "001/A516/PN/06",
+               "species:it" : "Faggio",
+               "taxon" : "Fagus sylvatica L.",
+               "height" : 18,
+               "height:source" : "estimated",
+               "circumference" : 4.7,
+               "source" : "Regione FVG",
+               "survey:date" : "2015-06-17",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 7,
+      "lat" : 46.182,
+      "lon" : 12.46385,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "001/A640/PN/06",
+               "species:it" : "Tasso",
+               "taxon" : "Taxus baccata L.",
+               "height" : 15,
+               "circumference" : 4.24,
+               "source" : "Regione FVG",
+               "survey:date" : "2014-10-12",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 73,
+      "lat" : 45.9953,
+      "lon" : 13.07671,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/A700/UD/06",
+               "species:it" : "Bagolaro",
+               "taxon" : "Celtis australis L.",
+               "height" : 18,
+               "height:source" : "estimated",
+               "circumference" : 4,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-09-22",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 95,
+      "lat" : 45.9052,
+      "lon" : 13.0503,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/A810/UD/06",
+               "species:it" : "Farnia",
+               "taxon" : "Quercus robur L.",
+               "height" : 21,
+               "height:source" : "estimated",
+               "circumference" : 7.8,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-10",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 11,
+      "lat" : 45.9673,
+      "lon" : 12.43094,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/B598/PN/06",
+               "species:it" : "Bagolaro",
+               "taxon" : "Celtis australis L.",
+               "height" : 28,
+               "circumference" : 4.5,
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-29",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 69,
+      "lat" : 46.0943,
+      "lon" : 13.42723,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/C758/UD/06",
+               "species:it" : "Pino laricio",
+               "taxon" : "Pinus nigra subsp. laricio Maire",
+               "height" : 25.5,
+               "circumference" : 3.95,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-20",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 129,
+      "lat" : 46.2484,
+      "lon" : 12.55495,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/C790/PN/06",
+               "species:it" : "Abete rosso",
+               "taxon" : "Picea abies (L.) H. Karst.",
+               "height" : 22,
+               "circumference" : 3.86,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-08-14",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 87,
+      "lat" : 45.9504,
+      "lon" : 13.00824,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/C817/UD/06",
+               "species:it" : "Bagolaro",
+               "taxon" : "Celtis australis L.",
+               "height" : 22,
+               "circumference" : 4.28,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-17",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 20,
+      "lat" : 45.9809,
+      "lon" : 13.49897,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "001/D014/GO/06",
+               "species:it" : "Roverella",
+               "taxon" : "Quercus pubescens Willd.",
+               "height" : 18,
+               "circumference" : 4.33,
+               "source" : "Regione FVG",
+               "survey:date" : "2015-08-08",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 133,
+      "lat" : 45.7709,
+      "lon" : 13.62441,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/D383/TS/06",
+               "species:it" : "Terebinto",
+               "taxon" : "Pistacia terebinthus L.",
+               "height" : 7,
+               "height:source" : "estimated",
+               "circumference" : 0.92,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 135,
+      "lat" : 46.4391,
+      "lon" : 12.8321,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/D408/UD/06",
+               "species:it" : "Faggio",
+               "taxon" : "Fagus sylvatica L.",
+               "height" : 17,
+               "height:source" : "estimated",
+               "circumference" : 3.45,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-23",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 6,
+      "lat" : 45.9233,
+      "lon" : 12.6847,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "001/D621/PN/06",
+               "species:it" : "Farnia",
+               "taxon" : "Quercus robur L.",
+               "height" : 25,
+               "circumference" : 5.45,
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-14",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 27,
+      "lat" : 45.9409,
+      "lon" : 13.6232,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/E098/GO/06",
+               "species:it" : "Platano comune",
+               "taxon" : "Platanus acerifolia (Aiton) Willd.",
+               "height" : 30,
+               "height:source" : "estimated",
+               "circumference" : 4.5,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-10-08",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 17,
+      "lat" : 45.885,
+      "lon" : 13.49394,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "001/E124/GO/06",
+               "species:it" : "Magnolia",
+               "taxon" : "Magnolia grandiflora L.",
+               "height" : 16,
+               "height:source" : "estimated",
+               "circumference" : 3.65,
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-15",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 81,
+      "lat" : 45.7501,
+      "lon" : 13.45943,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/E125/GO/06",
+               "species:it" : "Farnia",
+               "taxon" : "Quercus robur L.",
+               "height" : 20,
+               "circumference" : 5.14,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-11-01",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 33,
+      "lat" : 45.6821,
+      "lon" : 13.13388,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/E584/UD/06",
+               "species:it" : "Pino d'Aleppo",
+               "taxon" : "Pinus  halepensis Mill.",
+               "height" : 25,
+               "circumference" : 4.5,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-12-11",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 35,
+      "lat" : 46.5066,
+      "lon" : 13.43877,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/E847/UD/06",
+               "species:it" : "Tiglio selvatico",
+               "taxon" : "Tilia cordata Mill.",
+               "height" : 22,
+               "circumference" : 6.33,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-15",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 131,
+      "lat" : 46.1729,
+      "lon" : 12.70099,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/E889/PN/06",
+               "species:it" : "Faggio",
+               "taxon" : "Fagus sylvatica L.",
+               "height" : 35,
+               "height:source" : "estimated",
+               "circumference" : 4.45,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-16",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 140,
+      "lat" : 46.1232,
+      "lon" : 13.15977,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/F760/UD/06",
+               "species:it" : "Ginco",
+               "taxon" : "Ginkgo biloba L.",
+               "height" : 27,
+               "height:source" : "estimated",
+               "circumference" : 4.1,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-14",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 19,
+      "lat" : 45.9409,
+      "lon" : 13.54205,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "001/F767/GO/06",
+               "species:it" : "Farnia",
+               "taxon" : "Quercus robur L.",
+               "height" : 16,
+               "height:source" : "estimated",
+               "circumference" : 5,
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-15",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 112,
+      "lat" : 45.5948,
+      "lon" : 13.76698,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/F795/TS/06",
+               "species:it" : "Salice bianco",
+               "taxon" : "Salix alba L.",
+               "height" : 17,
+               "height:source" : "estimated",
+               "circumference" : 4.1,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-06-22",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 93,
+      "lat" : 46.5648,
+      "lon" : 13.11674,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/G381/UD/06",
+               "species:it" : "Abete bianco",
+               "taxon" : "Abies alba Mill.",
+               "height" : 35,
+               "height:source" : "estimated",
+               "circumference" : 3.8,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-06-12",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 44,
+      "lat" : 46.5113,
+      "lon" : 13.30599,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/G831/UD/06",
+               "species:it" : "Tiglio selvatico",
+               "taxon" : "Tilia cordata Mill.",
+               "height" : 25,
+               "height:source" : "estimated",
+               "circumference" : 3.9,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2014-10-03",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 5,
+      "lat" : 45.959,
+      "lon" : 12.61703,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "001/G886/PN/06",
+               "species:it" : "Albero dei tulipani",
+               "taxon" : "Liriodendron tulipifera L.",
+               "height" : 34,
+               "circumference" : 4.55,
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-15",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 94,
+      "lat" : 46.0239,
+      "lon" : 13.42897,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/H029/UD/06",
+               "species:it" : "Cipresso comune",
+               "taxon" : "Cupressus sempervirens L.",
+               "height" : 21,
+               "circumference" : 5.36,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-20",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 110,
+      "lat" : 46.173,
+      "lon" : 13.45954,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/H089/UD/06",
+               "species:it" : "Castagno",
+               "taxon" : "Castanea sativa Mill.",
+               "height" : 25,
+               "circumference" : 7.83,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-01",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 134,
+      "lat" : 46.4484,
+      "lon" : 12.82689,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/H200/UD/06",
+               "species:it" : "Pero selvatico",
+               "taxon" : "Pyrus pyraster (L.) Burgsd.",
+               "height" : 15,
+               "height:source" : "estimated",
+               "circumference" : 2.54,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-23",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 8,
+      "lat" : 45.8252,
+      "lon" : 13.50042,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "001/H531/GO/06",
+               "species:it" : "Pioppo nero",
+               "taxon" : "Populus nigra L.",
+               "height" : 22,
+               "circumference" : 4.1,
+               "source" : "Regione FVG",
+               "survey:date" : "2016-11-11",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 41,
+      "lat" : 46.1017,
+      "lon" : 13.54892,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/H951/UD/06",
+               "species:it" : "Betulla verrucosa",
+               "taxon" : "Betula pendula Roth",
+               "height" : 23,
+               "circumference" : 2.35,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-20",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 15,
+      "lat" : 46.1937,
+      "lon" : 13.53106,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "001/I478/UD/06",
+               "species:it" : "Faggio",
+               "taxon" : "Fagus sylvatica L.",
+               "height" : 29,
+               "circumference" : 4.2,
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-21",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 82,
+      "lat" : 46.1636,
+      "lon" : 12.86936,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/I621/PN/06",
+               "species:it" : "Farnia",
+               "taxon" : "Quercus robur L.",
+               "height" : 21,
+               "circumference" : 3.61,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-11-05",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 18,
+      "lat" : 45.8052,
+      "lon" : 13.50018,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "001/I939/GO/06",
+               "species:it" : "Bagolaro",
+               "taxon" : "Celtis australis L.",
+               "height" : 16,
+               "height:source" : "estimated",
+               "circumference" : 4.36,
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-29",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 90,
+      "lat" : 45.9217,
+      "lon" : 13.13886,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/L039/UD/06",
+               "species:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara  (D.Don) G.Don",
+               "height" : 27.3,
+               "circumference" : 5.74,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-06-05",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 91,
+      "lat" : 46.2156,
+      "lon" : 13.22285,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/L050/UD/06",
+               "species:it" : "Platano occidentale",
+               "taxon" : "Platanus occidentalis L.",
+               "height" : 30,
+               "height:source" : "estimated",
+               "circumference" : 5.25,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-18",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 63,
+      "lat" : 46.1591,
+      "lon" : 13.21525,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/L421/UD/06",
+               "species:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara  (D.Don) G.Don",
+               "height" : 31,
+               "circumference" : 4.5,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-11",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 2,
+      "lat" : 45.7049,
+      "lon" : 13.71316,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/L424/TS/06",
+               "species:it" : "Corbezzolo",
+               "taxon" : "Arbutus unedo L.",
+               "height" : 10,
+               "circumference" : 2.04,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-27",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 107,
+      "lat" : 46.0642,
+      "lon" : 13.23651,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/L483/UD/06",
+               "species:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara  (D.Don) G.Don",
+               "height" : 31,
+               "circumference" : 5.22,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-19",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 34,
+      "lat" : 45.8885,
+      "lon" : 12.98862,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "001/L686/UD/06",
+               "species:it" : "Farnia",
+               "taxon" : "Quercus robur L.",
+               "height" : 29,
+               "circumference" : 5.8,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-08-05",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 76,
+      "lat" : 46.1867,
+      "lon" : 13.31173,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/A491/UD/06",
+               "species:it" : "Tuia gigante",
+               "taxon" : "Thuja plicata Donn ex D.Don",
+               "height" : 35,
+               "height:source" : "estimated",
+               "circumference" : 6,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-05",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 12,
+      "lat" : 46.0767,
+      "lon" : 12.56999,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "002/A516/PN/06",
+               "species:it" : "Acero campestre",
+               "taxon" : "Acer campestre L.",
+               "height" : 13,
+               "height:source" : "estimated",
+               "circumference" : 6.79,
+               "source" : "Regione FVG",
+               "survey:date" : "2015-06-17",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 72,
+      "lat" : 46.0122,
+      "lon" : 13.06844,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/A700/UD/06",
+               "species:it" : "Sofora del Giappone",
+               "taxon" : "Styphnolobium japonicum (L.) Schott",
+               "height" : 18,
+               "circumference" : 3.78,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-09-29",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 10,
+      "lat" : 45.9685,
+      "lon" : 12.44801,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/B598/PN/06",
+               "species:it" : "Tiglio selvatico",
+               "taxon" : "Tilia cordata Mill.",
+               "height" : 19,
+               "circumference" : 2.82,
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-29",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 68,
+      "lat" : 46.0949,
+      "lon" : 13.42889,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/C758/UD/06",
+               "species:it" : "Ginco",
+               "taxon" : "Ginkgo biloba L.",
+               "height" : 25,
+               "height:source" : "estimated",
+               "circumference" : 3.5,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-07-20",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 128,
+      "lat" : 46.2482,
+      "lon" : 12.55567,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/C790/PN/06",
+               "species:it" : "Abete rosso",
+               "taxon" : "Picea abies (L.) H. Karst.",
+               "height" : 23,
+               "circumference" : 4.52,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-08-14",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 88,
+      "lat" : 45.9497,
+      "lon" : 13.00938,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/C817/UD/06",
+               "species:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara  (D.Don) G.Don",
+               "height" : 26.6,
+               "circumference" : 4.75,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-17",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 132,
+      "lat" : 45.7714,
+      "lon" : 13.62964,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/D383/TS/06",
+               "species:it" : "Cipresso di Monterey",
+               "taxon" : "Cupressus macrocarpa Hartw.",
+               "height" : 28,
+               "height:source" : "estimated",
+               "circumference" : 3.2,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-29",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 16,
+      "lat" : 45.8888,
+      "lon" : 13.49935,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "002/E124/GO/06",
+               "species:it" : "Pino d'Aleppo",
+               "taxon" : "Pinus  halepensis Mill.",
+               "height" : 19,
+               "height:source" : "estimated",
+               "circumference" : 3.25,
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-15",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 32,
+      "lat" : 45.691,
+      "lon" : 13.14092,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/E584/UD/06",
+               "species:it" : "Roverella",
+               "taxon" : "Quercus pubescens Willd.",
+               "height" : 10,
+               "height:source" : "estimated",
+               "circumference" : 2.5,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-11-15",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 130,
+      "lat" : 46.1691,
+      "lon" : 12.70643,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/E889/PN/06",
+               "species:it" : "Tuia gigante",
+               "taxon" : "Thuja plicata Donn ex D.Don",
+               "height" : 22,
+               "height:source" : "estimated",
+               "circumference" : 4.35,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-16",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 139,
+      "lat" : 46.1234,
+      "lon" : 13.15979,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/F760/UD/06",
+               "species:it" : "Noce nero",
+               "taxon" : "Juglans nigra L.",
+               "height" : 25,
+               "height:source" : "estimated",
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-14",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 45,
+      "lat" : 46.5705,
+      "lon" : 13.11075,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/G381/UD/06",
+               "species:it" : "Abete rosso",
+               "taxon" : "Picea abies (L.) H. Karst.",
+               "height" : 42,
+               "circumference" : 3.65,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-07-15",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 43,
+      "lat" : 46.5103,
+      "lon" : 13.31393,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/G831/UD/06",
+               "species:it" : "Pero domestico",
+               "taxon" : "Pyrus communis L.",
+               "height" : 16,
+               "circumference" : 2.48,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-03-20",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 4,
+      "lat" : 45.957,
+      "lon" : 12.61789,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "002/G886/PN/06",
+               "species:it" : "Bagolaro",
+               "taxon" : "Celtis australis L.",
+               "height" : 25,
+               "circumference" : 4.5,
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-15",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 48,
+      "lat" : 46.024,
+      "lon" : 13.42936,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/H029/UD/06",
+               "species:it" : "Cipresso comune",
+               "taxon" : "Cupressus sempervirens L.",
+               "height" : 21,
+               "circumference" : 5,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-09",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 29,
+      "lat" : 46.1681,
+      "lon" : 13.46432,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/H089/UD/06",
+               "species:it" : "Castagno",
+               "taxon" : "Castanea sativa Mill.",
+               "height" : 24,
+               "circumference" : 5.2,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 31,
+      "lat" : 46.1472,
+      "lon" : 13.53222,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/H951/UD/06",
+               "species:it" : "Castagno",
+               "taxon" : "Castanea sativa Mill.",
+               "height" : 24,
+               "circumference" : 5.6,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-11",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 14,
+      "lat" : 45.8869,
+      "lon" : 13.58168,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "002/I479/GO/06",
+               "species:it" : "Glicine",
+               "taxon" : "Wisteria sinensis (Sims) Sweet",
+               "height" : 14,
+               "height:source" : "estimated",
+               "circumference" : 1.2,
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-21",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 137,
+      "lat" : 46.2145,
+      "lon" : 13.22504,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/L050/UD/06",
+               "species:it" : "Pioppo nero",
+               "taxon" : "Populus nigra L.",
+               "height" : 24,
+               "circumference" : 4.5,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-12-10",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 52,
+      "lat" : 46.4748,
+      "lon" : 13.53516,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/L057/UD/06",
+               "species:it" : "Larice",
+               "taxon" : "Larix decidua Mill.",
+               "height" : 27,
+               "circumference" : 5.31,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-12-11",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 62,
+      "lat" : 46.1617,
+      "lon" : 13.21185,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/L421/UD/06",
+               "species:it" : "Glicine",
+               "taxon" : "Wisteria sinensis (Sims) Sweet",
+               "height" : 2.5,
+               "circumference" : 1.6,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-08-10",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 124,
+      "lat" : 45.7037,
+      "lon" : 13.7129,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/L424/TS/06",
+               "species:it" : "Leccio",
+               "taxon" : "Quercus ilex L.",
+               "height" : 28,
+               "circumference" : 2.49,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-27",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 106,
+      "lat" : 46.064,
+      "lon" : 13.23593,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "002/L483/UD/06",
+               "species:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara  (D.Don) G.Don",
+               "height" : 27,
+               "circumference" : 4.48,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-19",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 75,
+      "lat" : 46.1885,
+      "lon" : 13.30547,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "003/A491/UD/06",
+               "species:it" : "Platano comune",
+               "taxon" : "Platanus acerifolia (Aiton) Willd.",
+               "height" : 21,
+               "height:source" : "estimated",
+               "circumference" : 4.7,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-05",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 71,
+      "lat" : 45.9956,
+      "lon" : 13.08148,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "003/A700/UD/06",
+               "species:it" : "Gelso nero",
+               "taxon" : "Morus nigra L.",
+               "height" : 8,
+               "circumference" : 3.38,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-10-06",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 9,
+      "lat" : 46.0015,
+      "lon" : 12.43096,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "003/B598/PN/06",
+               "species:it" : "Castagno",
+               "taxon" : "Castanea sativa Mill.",
+               "height" : 12,
+               "circumference" : 4.3,
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-29",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 67,
+      "lat" : 46.1095,
+      "lon" : 13.41542,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "003/C758/UD/06",
+               "species:it" : "Olmo campestre",
+               "taxon" : "Ulmus minor Mill.",
+               "height" : 21,
+               "circumference" : 3.55,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-20",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 127,
+      "lat" : 46.3321,
+      "lon" : 12.62758,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "003/C790/PN/06",
+               "species:it" : "Abete rosso",
+               "taxon" : "Picea abies (L.) H. Karst.",
+               "height" : 33,
+               "circumference" : 4.02,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-08-24",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 86,
+      "lat" : 45.9501,
+      "lon" : 13.01248,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "003/C817/UD/06",
+               "species:it" : "Magnolia",
+               "taxon" : "Magnolia grandiflora L.",
+               "height" : 15,
+               "height:source" : "estimated",
+               "circumference" : 1.9,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-18",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 25,
+      "lat" : 45.9445,
+      "lon" : 13.62808,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "003/E098/GO/06",
+               "species:it" : "Platano comune",
+               "taxon" : "Platanus acerifolia (Aiton) Willd.",
+               "height" : 30,
+               "height:source" : "estimated",
+               "circumference" : 4.55,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-08-08",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 138,
+      "lat" : 46.1228,
+      "lon" : 13.15925,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "003/F760/UD/06",
+               "species:it" : "Ippocastano",
+               "taxon" : "Aesculus hippocastanum L.",
+               "height" : 26,
+               "circumference" : 3.7,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-14",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 42,
+      "lat" : 46.5062,
+      "lon" : 13.3025,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "003/G831/UD/06",
+               "species:it" : "Noce comune",
+               "taxon" : "Juglans regia L.",
+               "height" : 18,
+               "circumference" : 2.92,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-06-17",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 3,
+      "lat" : 45.9583,
+      "lon" : 12.6163,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "003/G886/PN/06",
+               "species:it" : "Magnolia",
+               "taxon" : "Magnolia grandiflora L.",
+               "height" : 15,
+               "circumference" : 2.45,
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-15",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 47,
+      "lat" : 46.0238,
+      "lon" : 13.42949,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "003/H029/UD/06",
+               "species:it" : "Glicine",
+               "taxon" : "Wisteria sinensis (Sims) Sweet",
+               "height" : 4.5,
+               "circumference" : 1.8,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-10",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 57,
+      "lat" : 46.4755,
+      "lon" : 13.53568,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "003/L057/UD/06",
+               "species:it" : "Abete rosso",
+               "taxon" : "Picea abies (L.) H. Karst.",
+               "height" : 31,
+               "circumference" : 4.45,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-12-11",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 61,
+      "lat" : 46.1736,
+      "lon" : 13.21881,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "003/L421/UD/06",
+               "species:it" : "Pioppo canescente",
+               "taxon" : "Populus  canescens (Aiton) Sm.",
+               "height" : 28,
+               "circumference" : 3.7,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-21",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 123,
+      "lat" : 45.705,
+      "lon" : 13.71528,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "003/L424/TS/06",
+               "species:it" : "Cipresso comune",
+               "taxon" : "Cupressus sempervirens L.",
+               "height" : 18,
+               "height:source" : "estimated",
+               "circumference" : 4.1,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-27",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 105,
+      "lat" : 46.0644,
+      "lon" : 13.23676,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "003/L483/UD/06",
+               "species:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara  (D.Don) G.Don",
+               "height" : 27,
+               "circumference" : 4.01,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-19",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 74,
+      "lat" : 46.1914,
+      "lon" : 13.3041,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "004/A491/UD/06",
+               "species:it" : "Farnia",
+               "taxon" : "Quercus robur L.",
+               "height" : 31,
+               "circumference" : 6.6,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-05",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 66,
+      "lat" : 46.0556,
+      "lon" : 13.4235,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "004/C758/UD/06",
+               "species:it" : "Pioppo nero",
+               "taxon" : "Populus nigra L.",
+               "height" : 25,
+               "circumference" : 4.3,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-21",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 111,
+      "lat" : 46.3322,
+      "lon" : 12.62792,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "004/C790/PN/06",
+               "species:it" : "Abete rosso",
+               "taxon" : "Picea abies (L.) H. Karst.",
+               "height" : 27,
+               "circumference" : 4.42,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-08-14",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 85,
+      "lat" : 45.9494,
+      "lon" : 13.00857,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "004/C817/UD/06",
+               "species:it" : "Paulonia",
+               "taxon" : "Paulownia tomentosa (Thunb.) Steud.",
+               "height" : 19,
+               "circumference" : 4.2,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-18",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 24,
+      "lat" : 45.938,
+      "lon" : 13.62662,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "004/E098/GO/06",
+               "species:it" : "Gelso bianco",
+               "taxon" : "Morus alba L.",
+               "height" : 8,
+               "height:source" : "estimated",
+               "circumference" : 2.8,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-08-08",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 46,
+      "lat" : 46.0243,
+      "lon" : 13.42946,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "004/H029/UD/06",
+               "species:it" : "Tuia gigante",
+               "taxon" : "Thuja plicata Donn ex D.Don",
+               "height" : 15,
+               "circumference" : 1.84,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-21",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 56,
+      "lat" : 46.4756,
+      "lon" : 13.53607,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "004/L057/UD/06",
+               "species:it" : "Abete rosso",
+               "taxon" : "Picea abies (L.) H. Karst.",
+               "height" : 32.2,
+               "circumference" : 5.53,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-12-11",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 122,
+      "lat" : 45.7057,
+      "lon" : 13.80355,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "004/L424/TS/06",
+               "species:it" : "Cerro",
+               "taxon" : "Quercus cerris L.",
+               "height" : 35,
+               "height:source" : "estimated",
+               "circumference" : 3.1,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-28",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 104,
+      "lat" : 46.0606,
+      "lon" : 13.22902,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "004/L483/UD/06",
+               "species:it" : "Ippocastano",
+               "taxon" : "Aesculus hippocastanum L.",
+               "height" : 24,
+               "circumference" : 4.2,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-19",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 65,
+      "lat" : 46.0897,
+      "lon" : 13.45136,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "005/C758/UD/06",
+               "species:it" : "Gelso nero",
+               "taxon" : "Morus nigra L.",
+               "height" : 5.5,
+               "circumference" : 2.4,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-21",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 84,
+      "lat" : 45.9503,
+      "lon" : 13.00891,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "005/C817/UD/06",
+               "species:it" : "Abete del Caucaso",
+               "taxon" : "Abies nordmanniana (Steven) Spach",
+               "height" : 32,
+               "circumference" : 3.95,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-02-08",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 23,
+      "lat" : 45.9453,
+      "lon" : 13.62058,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "005/E098/GO/06",
+               "species:it" : "Magnolia",
+               "taxon" : "Magnolia grandiflora L.",
+               "height" : 18,
+               "height:source" : "estimated",
+               "circumference" : 2.72,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-08-08",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 55,
+      "lat" : 46.5407,
+      "lon" : 13.53648,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "005/L057/UD/06",
+               "species:it" : "Acero di monte",
+               "taxon" : "Acer pseudoplatanus L.",
+               "height" : 11,
+               "circumference" : 4.5,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-09-21",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 121,
+      "lat" : 45.6441,
+      "lon" : 13.81526,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "005/L424/TS/06",
+               "species:it" : "Pino d'Aleppo",
+               "taxon" : "Pinus  halepensis Mill.",
+               "height" : 23,
+               "height:source" : "estimated",
+               "circumference" : 3.6,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-28",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 64,
+      "lat" : 46.1025,
+      "lon" : 13.44248,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "006/C758/UD/06",
+               "species:it" : "Vite",
+               "taxon" : "Vitis vinifera L.",
+               "height" : 2.5,
+               "circumference" : 0.68,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-22",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 83,
+      "lat" : 45.9506,
+      "lon" : 13.01178,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "006/C817/UD/06",
+               "species:it" : "Ginco",
+               "taxon" : "Ginkgo biloba L.",
+               "height" : 57,
+               "height:source" : "estimated",
+               "circumference" : 2.5,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-02-08",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 54,
+      "lat" : 46.4924,
+      "lon" : 13.68677,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "006/L057/UD/06",
+               "species:it" : "Acero di monte",
+               "taxon" : "Acer pseudoplatanus L.",
+               "height" : 29.5,
+               "circumference" : 4.125,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-03-15",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 58,
+      "lat" : 46.1733,
+      "lon" : 13.21947,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "006/L421/UD/06",
+               "species:it" : "Cipresso di Monterey",
+               "taxon" : "Cupressus macrocarpa Hartw.",
+               "height" : 20,
+               "circumference" : 3.35,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-21",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 120,
+      "lat" : 45.7035,
+      "lon" : 13.71641,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "006/L424/TS/06",
+               "species:it" : "Pino grigio",
+               "taxon" : "Pinus sabiniana Dougl.",
+               "height" : 20,
+               "height:source" : "estimated",
+               "circumference" : 2.5,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-27",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 144,
+      "lat" : 46.063,
+      "lon" : 13.23954,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "006/L483/UD/06",
+               "species:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara  (D.Don) G.Don",
+               "height" : 22,
+               "circumference" : 4.27,
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-27",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 40,
+      "lat" : 45.9497,
+      "lon" : 13.01323,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "007/C817/UD/06",
+               "species:it" : "Spino di Giuda",
+               "taxon" : "Gleditzia triacanthos L.",
+               "height" : 20,
+               "circumference" : 2.9,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-04",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 21,
+      "lat" : 45.9503,
+      "lon" : 13.62634,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "007/E098/GO/06",
+               "species:it" : "Gelso bianco",
+               "taxon" : "Morus alba L.",
+               "height" : 8,
+               "height:source" : "estimated",
+               "circumference" : 3.7,
+               "source" : "Regione FVG",
+               "survey:date" : "2015-08-08",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 50,
+      "lat" : 46.512,
+      "lon" : 13.62435,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "007/L057/UD/06",
+               "species:it" : "Noce comune",
+               "taxon" : "Juglans regia L.",
+               "height" : 19,
+               "circumference" : 4.05,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2014-06-11",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 119,
+      "lat" : 45.6539,
+      "lon" : 13.78409,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "007/L424/TS/06",
+               "species:it" : "Platano comune",
+               "taxon" : "Platanus acerifolia (Aiton) Willd.",
+               "height" : 28,
+               "height:source" : "estimated",
+               "circumference" : 5.2,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-27",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 142,
+      "lat" : 46.0628,
+      "lon" : 13.23946,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "007/L483/UD/06",
+               "species:it" : "Farnia",
+               "taxon" : "Quercus robur L.",
+               "height" : 28,
+               "height:source" : "estimated",
+               "circumference" : 4.3,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-27",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 89,
+      "lat" : 45.9494,
+      "lon" : 13.01188,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "008/C817/UD/06",
+               "species:it" : "Tasso",
+               "taxon" : "Taxus baccata L.",
+               "height" : 16,
+               "circumference" : 4.1,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2017-02-15",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 96,
+      "lat" : 46.4983,
+      "lon" : 13.59569,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "008/L057/UD/06",
+               "species:it" : "Tiglio selvatico",
+               "taxon" : "Tilia cordata Mill.",
+               "height" : 24,
+               "circumference" : 2.7,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-09",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 118,
+      "lat" : 45.654,
+      "lon" : 13.78437,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "008/L424/TS/06",
+               "species:it" : "Platano comune",
+               "taxon" : "Platanus acerifolia (Aiton) Willd.",
+               "height" : 31,
+               "circumference" : 5.25,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-27",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 143,
+      "lat" : 46.0627,
+      "lon" : 13.23976,
+      "tags" : {
+               "denotation" : "landmark",
+               "ref:mipaaft" : "008/L483/UD/06",
+               "species:it" : "Cedro dell'Atlante",
+               "taxon" : "Cedrus atlantica  (Endl.) Manetti ex Carri  re",
+               "height" : 24,
+               "circumference" : 4.73,
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-27",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 39,
+      "lat" : 45.949,
+      "lon" : 13.009,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "009/C817/UD/06",
+               "species:it" : "Platano comune",
+               "taxon" : "Platanus acerifolia (Aiton) Willd.",
+               "height" : 30,
+               "circumference" : 4.3,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-05",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 49,
+      "lat" : 46.5066,
+      "lon" : 13.5683,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "009/L057/UD/06",
+               "species:it" : "Salice bianco",
+               "taxon" : "Salix alba L.",
+               "height" : 24,
+               "circumference" : 4.45,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2014-06-11",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 117,
+      "lat" : 45.6608,
+      "lon" : 13.79651,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "009/L424/TS/06",
+               "species:it" : "Roverella",
+               "taxon" : "Quercus pubescens Willd.",
+               "height" : 15,
+               "height:source" : "estimated",
+               "circumference" : 2.44,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-23",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 38,
+      "lat" : 45.9488,
+      "lon" : 13.00942,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "010/C817/UD/06",
+               "species:it" : "Ippocastano",
+               "taxon" : "Aesculus hippocastanum L.",
+               "height" : 22,
+               "circumference" : 4.09,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-05",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 126,
+      "lat" : 46.4376,
+      "lon" : 13.5855,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "010/L057/UD/06",
+               "species:it" : "Abete bianco",
+               "taxon" : "Abies alba Mill.",
+               "height" : 32,
+               "height:source" : "estimated",
+               "circumference" : 4.95,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-09",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 116,
+      "lat" : 45.653,
+      "lon" : 13.80522,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "010/L424/TS/06",
+               "species:it" : "Roverella",
+               "taxon" : "Quercus pubescens Willd.",
+               "height" : 15,
+               "height:source" : "estimated",
+               "circumference" : 4.2,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-23",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 37,
+      "lat" : 45.9528,
+      "lon" : 13.00902,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "011/C817/UD/06",
+               "species:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara  (D.Don) G.Don",
+               "height" : 21,
+               "circumference" : 4.95,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-05",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 97,
+      "lat" : 46.4381,
+      "lon" : 13.54782,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "011/L057/UD/06",
+               "species:it" : "Abete rosso",
+               "taxon" : "Picea abies (L.) H. Karst.",
+               "height" : 36,
+               "height:source" : "estimated",
+               "circumference" : 4.9,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-10-09",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 115,
+      "lat" : 45.7041,
+      "lon" : 13.71361,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "011/L424/TS/06",
+               "species:it" : "Sequoia sempreverde",
+               "taxon" : "Sequoia sempervirens (D. Don) Endl",
+               "height" : 30,
+               "height:source" : "estimated",
+               "circumference" : 4.25,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-27",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 114,
+      "lat" : 45.637,
+      "lon" : 13.80185,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "012/L424/TS/06",
+               "species:it" : "Olmo del Caucaso",
+               "taxon" : "Zelkova carpinifolia (Pall.) K. Koch",
+               "height" : 20,
+               "height:source" : "estimated",
+               "circumference" : 3.43,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-07-29",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 109,
+      "lat" : 46.0637,
+      "lon" : 13.23891,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "012/L483/UD/06",
+               "species:it" : "Gelso bianco",
+               "taxon" : "Morus alba L.",
+               "height" : 15,
+               "circumference" : 3.155,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-26",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 53,
+      "lat" : 46.5106,
+      "lon" : 13.52638,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "013/L057/UD/06",
+               "species:it" : "Faggio",
+               "taxon" : "Fagus sylvatica L.",
+               "height" : 32,
+               "height:source" : "estimated",
+               "circumference" : 5.25,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2015-08-13",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 108,
+      "lat" : 46.0637,
+      "lon" : 13.23925,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "013/L483/UD/06",
+               "species:it" : "Libocedro",
+               "taxon" : "Calocedrus decurrens (Torr.) Florin",
+               "height" : 22,
+               "circumference" : 6.94,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-26",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 113,
+      "lat" : 45.6081,
+      "lon" : 13.85849,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "014/L424/TS/06",
+               "species:it" : "Tiglio selvatico",
+               "taxon" : "Tilia cordata Mill.",
+               "height" : 12,
+               "height:source" : "estimated",
+               "circumference" : 4.3,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-11-19",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 136,
+      "lat" : 45.6872,
+      "lon" : 13.78673,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "015/L424/TS/06",
+               "species:it" : "Sofora del Giappone",
+               "taxon" : "Styphnolobium japonicum (L.) Schott",
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-12-11",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 103,
+      "lat" : 46.0711,
+      "lon" : 13.22947,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "016/L483/UD/06",
+               "species:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara  (D.Don) G.Don",
+               "height" : 30,
+               "circumference" : 5.75,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-19",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 102,
+      "lat" : 46.0633,
+      "lon" : 13.22816,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "017/L483/UD/06",
+               "species:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara  (D.Don) G.Don",
+               "height" : 34,
+               "circumference" : 6.17,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-19",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 101,
+      "lat" : 46.0639,
+      "lon" : 13.22777,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "018/L483/UD/06",
+               "species:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara  (D.Don) G.Don",
+               "height" : 32,
+               "circumference" : 4.3,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-19",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 100,
+      "lat" : 46.0646,
+      "lon" : 13.23722,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "022/L483/UD/06",
+               "species:it" : "Bagolaro",
+               "taxon" : "Celtis australis L.",
+               "height" : 23,
+               "circumference" : 4.54,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-19",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 99,
+      "lat" : 46.0546,
+      "lon" : 13.24645,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "023/L483/UD/06",
+               "species:it" : "Platano comune",
+               "taxon" : "Platanus acerifolia (Aiton) Willd.",
+               "height" : 32,
+               "circumference" : 5.15,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-19",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 80,
+      "lat" : 46.0826,
+      "lon" : 13.18638,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "026/L483/UD/06",
+               "species:it" : "Pioppo nero",
+               "taxon" : "Populus nigra L.",
+               "height" : 24,
+               "height:source" : "estimated",
+               "circumference" : 4.1,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-08-10",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 79,
+      "lat" : 46.0626,
+      "lon" : 13.2368,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "027/L483/UD/06",
+               "taxon" : "Cedrus libani A.Richard",
+               "height" : 25,
+               "circumference" : 3,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-19",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 78,
+      "lat" : 46.058,
+      "lon" : 13.2461,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "ref:mipaaft" : "028/L483/UD/06",
+               "species:it" : "Cipresso del Cashmere",
+               "taxon" : "Cupressus cashmeriana Royle ex Carri  re",
+               "height" : 20,
+               "height:source" : "estimated",
+               "circumference" : 3,
+               "protected" : "yes",
+               "source" : "Regione FVG",
+               "survey:date" : "2016-09-16",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 30,
+      "lat" : 45.9558,
+      "lon" : 12.79103,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Pioppo",
+               "source" : "provincia_pn",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 145,
+      "lat" : 45.6859,
+      "lon" : 13.12853,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Comune Lignano Sabbiadoro",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 146,
+      "lat" : 45.686,
+      "lon" : 13.12897,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Comune Lignano Sabbiadoro",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 147,
+      "lat" : 45.6775,
+      "lon" : 13.10564,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Comune Lignano Sabbiadoro",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 148,
+      "lat" : 45.686,
+      "lon" : 13.12915,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Comune Lignano Sabbiadoro",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 149,
+      "lat" : 45.6852,
+      "lon" : 13.11981,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Comune Lignano Sabbiadoro",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 150,
+      "lat" : 45.6861,
+      "lon" : 13.12928,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Comune Lignano Sabbiadoro",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 151,
+      "lat" : 45.683,
+      "lon" : 13.12944,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Comune Lignano Sabbiadoro",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 152,
+      "lat" : 45.6831,
+      "lon" : 13.12957,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Comune Lignano Sabbiadoro",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 153,
+      "lat" : 45.6893,
+      "lon" : 13.13684,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Comune Lignano Sabbiadoro",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 154,
+      "lat" : 45.6844,
+      "lon" : 13.12397,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Comune Lignano Sabbiadoro",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 155,
+      "lat" : 45.6842,
+      "lon" : 13.12404,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Comune Lignano Sabbiadoro",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 156,
+      "lat" : 45.6841,
+      "lon" : 13.12421,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Comune Lignano Sabbiadoro",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 157,
+      "lat" : 45.6817,
+      "lon" : 13.11897,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Comune Lignano Sabbiadoro",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 158,
+      "lat" : 45.686,
+      "lon" : 13.12879,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Comune Lignano Sabbiadoro",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 159,
+      "lat" : 46.0878,
+      "lon" : 13.18554,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Cedro del libano",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 160,
+      "lat" : 45.9833,
+      "lon" : 13.2117,
+      "tags" : {
+               "denotation" : "natural_monument",
+               "species:it" : "Platano",
+               "protected" : "yes",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 161,
+      "lat" : 46.1577,
+      "lon" : 13.18035,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Pino domestico",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 162,
+      "lat" : 46.0976,
+      "lon" : 13.23906,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Bagolaro",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 163,
+      "lat" : 46.4649,
+      "lon" : 13.20567,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Faggio",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 164,
+      "lat" : 46.0479,
+      "lon" : 12.49334,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Gelso",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 165,
+      "lat" : 46.0326,
+      "lon" : 12.4903,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Quercia",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 166,
+      "lat" : 45.8181,
+      "lon" : 13.12912,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Pino marittimo",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 167,
+      "lat" : 46.2014,
+      "lon" : 13.12832,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 168,
+      "lat" : 46.0527,
+      "lon" : 12.49315,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Castagno",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 169,
+      "lat" : 46.5807,
+      "lon" : 12.78312,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Abete bianco",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 170,
+      "lat" : 46.2044,
+      "lon" : 13.11856,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Cachi",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 171,
+      "lat" : 46.2077,
+      "lon" : 13.12763,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Gelso",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 172,
+      "lat" : 46.4143,
+      "lon" : 12.60423,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Larice",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 173,
+      "lat" : 46.0889,
+      "lon" : 13.18657,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Sequoia",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 174,
+      "lat" : 46.0644,
+      "lon" : 13.16136,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Quercia",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 175,
+      "lat" : 46.5569,
+      "lon" : 12.81406,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Faggio",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 176,
+      "lat" : 46.1454,
+      "lon" : 13.60055,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Castagno",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 177,
+      "lat" : 46.1268,
+      "lon" : 13.27392,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Quercia",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 178,
+      "lat" : 46.1897,
+      "lon" : 13.30552,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Ginko biloba",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 179,
+      "lat" : 46.0789,
+      "lon" : 13.32912,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Gelso",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 180,
+      "lat" : 45.9599,
+      "lon" : 12.65518,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Farnia",
+               "source" : "provincia_pn",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 181,
+      "lat" : 46.0516,
+      "lon" : 12.56155,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Rovere",
+               "source" : "provincia_pn",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 182,
+      "lat" : 46.1655,
+      "lon" : 12.69607,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Pino silvestre",
+               "source" : "provincia_pn",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 183,
+      "lat" : 45.9156,
+      "lon" : 12.85953,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Pècan",
+               "source" : "provincia_pn",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 184,
+      "lat" : 45.9244,
+      "lon" : 12.81595,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Gelso",
+               "source" : "provincia_pn",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 185,
+      "lat" : 46.182,
+      "lon" : 12.94415,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Gelso",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 186,
+      "lat" : 46.0084,
+      "lon" : 13.44938,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Quercia",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 187,
+      "lat" : 45.8738,
+      "lon" : 12.77192,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Sòfora",
+               "source" : "provincia_pn",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 188,
+      "lat" : 45.9009,
+      "lon" : 12.60154,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Ippocastano",
+               "source" : "provincia_pn",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 189,
+      "lat" : 46.2715,
+      "lon" : 13.12974,
+      "tags" : {
+               "denotation" : "landmark",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 190,
+      "lat" : 46.511,
+      "lon" : 13.5265,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Quercia",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 191,
+      "lat" : 45.9207,
+      "lon" : 12.57928,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Olmo campestre",
+               "source" : "provincia_pn",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 192,
+      "lat" : 45.9579,
+      "lon" : 12.61721,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Bagolaro",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 193,
+      "lat" : 46.0632,
+      "lon" : 13.16816,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Quercia",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 194,
+      "lat" : 45.98,
+      "lon" : 13.20042,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Bagolaro",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 195,
+      "lat" : 46.108,
+      "lon" : 13.13648,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Quercia",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 196,
+      "lat" : 46.3099,
+      "lon" : 12.78956,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Ippocastano",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 197,
+      "lat" : 46.0081,
+      "lon" : 12.61597,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Bagolaro",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 198,
+      "lat" : 46.4851,
+      "lon" : 12.85694,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Pero",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 199,
+      "lat" : 46.1923,
+      "lon" : 12.89506,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Castagno",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 200,
+      "lat" : 46.1947,
+      "lon" : 12.89311,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Ciliegio",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 201,
+      "lat" : 46.4076,
+      "lon" : 13.01968,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Sequoia",
+               "taxon" : "Sequoia sempervirens",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 202,
+      "lat" : 46.437,
+      "lon" : 12.99393,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Ippocastano",
+               "taxon" : "Aesculus hippocastanum",
+               "source" : "Partecipazione",
+               "natural" : "tree"
+               }
+    }
+,
+     {
+      "id"  : 28,
+      "lat" : 45.9574,
+      "lon" : 12.61571,
+      "tags" : {
+               "denotation" : "landmark",
+               "species:it" : "Olmo campestre",
+               "source" : "provincia_pn",
+               "natural" : "tree"
+               }
+    }
+]

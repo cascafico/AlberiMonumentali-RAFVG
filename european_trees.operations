@@ -1,59 +1,487 @@
 [
   {
-    "op": "core/text-transform",
-    "description": "Text transform on cells in column Column 1 using expression grel:replace(value, \"\\\"\", \"\")",
+    "op": "core/column-rename",
+    "description": "Rename column ID SCHEDA to ref",
+    "oldColumnName": "ID SCHEDA",
+    "newColumnName": "ref"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column LATITUDINE               su GIS to lat",
+    "oldColumnName": "LATITUDINE               su GIS",
+    "newColumnName": "lat"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column LONGITUDINE             su GIS to lon",
+    "oldColumnName": "LONGITUDINE             su GIS",
+    "newColumnName": "lon"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column ALTITUDINE          (m s.l.m.) to ele",
+    "oldColumnName": "ALTITUDINE          (m s.l.m.)",
+    "newColumnName": "ele"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column SPECIE to nome_sci",
+    "oldColumnName": "SPECIE",
+    "newColumnName": "nome_sci"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Column2 to nome_vol",
+    "oldColumnName": "Column2",
+    "newColumnName": "nome_vol"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column CIRCONFERENZA FUSTO                                      (cm) to circumference",
+    "oldColumnName": "CIRCONFERENZA FUSTO                                      (cm)",
+    "newColumnName": "circumference"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column ALTEZZA                          (m) to height",
+    "oldColumnName": "ALTEZZA                          (m)",
+    "newColumnName": "height"
+  },
+  {
+    "op": "core/row-star",
+    "description": "Star rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": false,
+          "query": "valore storico",
+          "name": "CRITERI DI MONUMENTALITA'",
+          "type": "text",
+          "columnName": "CRITERI DI MONUMENTALITA'"
+        }
+      ]
+    },
+    "starred": true
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column historic at index 14 based on column CRITERI DI MONUMENTALITA' using expression grel:\"yes\"",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": false,
+          "query": "valore storico",
+          "name": "CRITERI DI MONUMENTALITA'",
+          "type": "text",
+          "columnName": "CRITERI DI MONUMENTALITA'"
+        }
+      ]
+    },
+    "newColumnName": "historic",
+    "columnInsertIndex": 14,
+    "baseColumnName": "CRITERI DI MONUMENTALITA'",
+    "expression": "grel:\"yes\"",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/row-star",
+    "description": "Unstar rows",
     "engineConfig": {
       "mode": "row-based",
       "facets": []
     },
-    "columnName": "Column 1",
-    "expression": "grel:replace(value, \"\\\"\", \"\")",
+    "starred": false
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column lat using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "lat",
+    "expression": "value.trim()",
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10
   },
   {
     "op": "core/text-transform",
-    "description": "Text transform on cells in column Column 1 using expression grel:smartSplit(value, \" \")[0]",
+    "description": "Text transform on cells in column lon using expression value.trim()",
     "engineConfig": {
       "mode": "row-based",
       "facets": []
     },
-    "columnName": "Column 1",
+    "columnName": "lon",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column lat using expression grel:replace(value, \"''\", \"\\\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "lat",
+    "expression": "grel:replace(value, \"''\", \"\\\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column lon using expression grel:replace(value, \"''\", \"\\\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "lon",
+    "expression": "grel:replace(value, \"''\", \"\\\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column lat using expression grel:replace(value, \" \", \"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "lat",
+    "expression": "grel:replace(value, \" \", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column lon using expression grel:replace(value, \" \", \"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "lon",
+    "expression": "grel:replace(value, \" \", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column lat using expression grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "lat",
+    "expression": "grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column lon using expression grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "lon",
+    "expression": "grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "isBlank(value)",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "ref",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "ref"
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column circumference using expression value.replace(/\\s+/,' ')",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "circumference",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column height using expression value.toString()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "height",
+    "expression": "value.toString()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column height using expression value.replace(/\\s+/,' ')",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "height",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column lat using expression grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "lat",
+    "expression": "grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column lon using expression grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "lon",
+    "expression": "grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column lon using expression grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "lon",
+    "expression": "grel:toNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[0])+\ntoNumber(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[1])/60.0+\ntoNumber(replace(value.match(/(\\d+)°(\\d+)'([\\d,]+)\\\"/)[2], \",\", \".\"))/3600.0",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column circumference using expression grel:toNumber(value.split(\" \")[0])/100.0",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "circumference",
+    "expression": "grel:toNumber(value.split(\" \")[0])/100.0",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column height using expression grel:replace(value, \",\", \".\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "height",
+    "expression": "grel:replace(value, \",\", \".\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column height using expression grel:toNumber(value.split(\" \")[0])",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "height",
+    "expression": "grel:toNumber(value.split(\" \")[0])",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column PROPOSTA DICHIARAZIONE NOTEVOLE INTERESSE PUBBLICO to denotation",
+    "oldColumnName": "PROPOSTA DICHIARAZIONE NOTEVOLE INTERESSE PUBBLICO",
+    "newColumnName": "denotation"
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column denotation",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "denotation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "no"
+        ],
+        "to": ""
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column denotation",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "denotation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "si"
+        ],
+        "to": "natural_monument"
+      }
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column denotation using expression grel:null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": true,
+          "selection": [],
+          "selectError": false,
+          "invert": false,
+          "name": "denotation",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "denotation"
+        }
+      ]
+    },
+    "columnName": "denotation",
+    "expression": "grel:null",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column nome_sci using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "nome_sci",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column nome_vol using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "nome_vol",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column genus at index 10 based on column nome_sci using expression grel:smartSplit(value, \" \")[0]",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "genus",
+    "columnInsertIndex": 10,
+    "baseColumnName": "nome_sci",
     "expression": "grel:smartSplit(value, \" \")[0]",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10
+    "onError": "set-to-blank"
   },
   {
-    "op": "core/column-rename",
-    "description": "Rename column Column 1 to genus",
-    "oldColumnName": "Column 1",
-    "newColumnName": "genus"
-  },
-  {
-    "op": "core/column-rename",
-    "description": "Rename column Column 2 to leaf_type",
-    "oldColumnName": "Column 2",
-    "newColumnName": "leaf_type"
-  },
-  {
-    "op": "core/column-rename",
-    "description": "Rename column Column 3 to leaf_cycle",
-    "oldColumnName": "Column 3",
-    "newColumnName": "leaf_cycle"
-  },
-  {
-    "op": "core/text-transform",
-    "description": "Text transform on cells in column genus using expression value.toTitlecase()",
+    "op": "core/column-addition",
+    "description": "Create column leaf_type at index 11 based on column genus using expression grel:cell.cross(\"tree leaf wiki\", \"genus\").cells[\"leaf_type\"].value[0]",
     "engineConfig": {
       "mode": "row-based",
       "facets": []
     },
-    "columnName": "genus",
-    "expression": "value.toTitlecase()",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10
+    "newColumnName": "leaf_type",
+    "columnInsertIndex": 11,
+    "baseColumnName": "genus",
+    "expression": "grel:cell.cross(\"tree leaf wiki\", \"genus\").cells[\"leaf_type\"].value[0]",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column leaf_cycle at index 11 based on column genus using expression grel:cell.cross(\"tree leaf wiki\", \"genus\").cells[\"leaf_cycle\"].value[0]",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "leaf_cycle",
+    "columnInsertIndex": 11,
+    "baseColumnName": "genus",
+    "expression": "grel:cell.cross(\"tree leaf wiki\", \"genus\").cells[\"leaf_cycle\"].value[0]",
+    "onError": "set-to-blank"
   }
 ]

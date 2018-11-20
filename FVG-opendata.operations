@@ -91,9 +91,9 @@
   },
   {
     "op": "core/column-rename",
-    "description": "Rename column nome_volga to name",
+    "description": "Rename column nome_volga to species:it",
     "oldColumnName": "nome_volga",
-    "newColumnName": "name"
+    "newColumnName": "species:it"
   },
   {
     "op": "core/column-rename",
@@ -223,5 +223,127 @@
         "to": "yes"
       }
     ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column survey:date using expression grel:value.toDate('yyyy-MM-d').toString('yyyy-MM-dd')",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "survey:date",
+    "expression": "grel:value.toDate('yyyy-MM-d').toString('yyyy-MM-dd')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "filare doppio",
+                "l": "filare doppio"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "tipo_ident",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "tipo_ident"
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "gruppo",
+                "l": "gruppo"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "tipo_ident",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "tipo_ident"
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column h_misurata",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "h_misurata",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "0"
+        ],
+        "to": ""
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column h_stimata",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "columnName": "h_stimata",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "0"
+        ],
+        "to": ""
+      }
+    ]
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column height:source at index 8 based on column h_stimata using expression grel:if ( isNonBlank(cells[\"h_stimata\"].value), \"estimated\", \"\" )",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": []
+    },
+    "newColumnName": "height:source",
+    "columnInsertIndex": 8,
+    "baseColumnName": "h_stimata",
+    "expression": "grel:if ( isNonBlank(cells[\"h_stimata\"].value), \"estimated\", \"\" )",
+    "onError": "set-to-blank"
   }
 ]

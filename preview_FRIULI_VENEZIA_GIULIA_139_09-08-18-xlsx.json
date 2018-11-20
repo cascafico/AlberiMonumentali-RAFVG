@@ -1,0 +1,3703 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     13.051747,
+     45.905031
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5678426771,
+    "osm_type": "node",
+    "ref_coords": [
+     13.051747222222223,
+     45.905030555555555
+    ],
+    "ref_distance": 0.1,
+    "ref_id": "60",
+    "tags.denotation": "natural_monument",
+    "tags.ele": "18",
+    "tags.height": "21",
+    "tags.natural": "tree",
+    "tags.ref:mipaaf": "01/A810/UD/06",
+    "tags.species": "Quercus robur L.",
+    "tags.species:it": "Farnia",
+    "tags.start_date": "1558",
+    "tags_changed.circumference": "780 -> 7.8",
+    "tags_new.leaf_cycle": "deciduous",
+    "tags_new.leaf_type": "broadleaved",
+    "tags_new.ref": "01/A810/UD/06",
+    "tags_new.taxon": "Quercus robur",
+    "tags_new.taxon:it": "Farnia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.858512,
+     45.6081093
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2124618451,
+    "osm_type": "node",
+    "ref_coords": [
+     13.858513888888888,
+     45.608105555555554
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "49",
+    "tags.genus": "Tilia",
+    "tags.genus:de": "Linde",
+    "tags.genus:it": "tiglio",
+    "tags.genus:sl": "lipa",
+    "tags.name:botanical": "Tilia",
+    "tags.natural": "tree",
+    "tags.start_date": "1667",
+    "tags.type": "broad_leaved",
+    "tags_changed.circumference": "4 -> 4.03",
+    "tags_new.ele": "430",
+    "tags_new.height": "12",
+    "tags_new.leaf_cycle": "deciduous",
+    "tags_new.leaf_type": "broadleaved",
+    "tags_new.ref": "14/L424/TS/06",
+    "tags_new.taxon": "Tilia cordata",
+    "tags_new.taxon:it": "Tiglio selvatico"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2464452,
+     46.0546246
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4438216955,
+    "osm_type": "node",
+    "ref_coords": [
+     13.246452777777776,
+     46.05461388888889
+    ],
+    "ref_distance": 1.3,
+    "ref_id": "134",
+    "tags.natural": "tree",
+    "tags_new.circumference": "5.08",
+    "tags_new.denotation": "natural_monument",
+    "tags_new.ele": "172",
+    "tags_new.height": "32",
+    "tags_new.leaf_cycle": "deciduous",
+    "tags_new.leaf_type": "broadleaved",
+    "tags_new.ref": "23/l483/UD/06",
+    "tags_new.taxon": "Platanus acerifolia",
+    "tags_new.taxon:it": "Platano comune"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2294979,
+     46.0711207
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5774068562,
+    "osm_type": "node",
+    "ref_coords": [
+     13.229472222222222,
+     46.071136111111116
+    ],
+    "ref_distance": 2.6,
+    "ref_id": "130",
+    "tags.natural": "tree",
+    "tags_new.circumference": "5.7",
+    "tags_new.ele": "172",
+    "tags_new.height": "31",
+    "tags_new.leaf_cycle": "evergreen",
+    "tags_new.leaf_type": "needleleaved",
+    "tags_new.ref": "16/l483/UD/06",
+    "tags_new.taxon": "Cedrus deodara",
+    "tags_new.taxon:it": "Cedro dell'Himalaya"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2290423,
+     46.0606704
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4387472103,
+    "osm_type": "node",
+    "ref_coords": [
+     13.229019444444445,
+     46.060652777777776
+    ],
+    "ref_distance": 2.6,
+    "ref_id": "123",
+    "tags.natural": "tree",
+    "tags_new.circumference": "4.14",
+    "tags_new.ele": "220",
+    "tags_new.height": "22",
+    "tags_new.leaf_cycle": "deciduous",
+    "tags_new.leaf_type": "broadleaved",
+    "tags_new.ref": "04/l483/UD/06",
+    "tags_new.taxon": "Aesculus hippocastanum",
+    "tags_new.taxon:it": "Ippocastano"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2368979,
+     46.0626777
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5543849266,
+    "osm_type": "node",
+    "ref_coords": [
+     13.236847222222222,
+     46.06266111111111
+    ],
+    "ref_distance": 4.3,
+    "ref_id": "137",
+    "tags.natural": "tree",
+    "tags_new.circumference": "3",
+    "tags_new.ele": "108",
+    "tags_new.height": "25",
+    "tags_new.leaf_cycle": "evergreen",
+    "tags_new.leaf_type": "needleleaved",
+    "tags_new.ref": "27/l483/UD/06",
+    "tags_new.taxon": "Cedrus brevifolia",
+    "tags_new.taxon:it": "Cedro di Cipro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.438822,
+     46.506708
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5697339360,
+    "osm_type": "node",
+    "ref_coords": [
+     13.438766666666666,
+     46.50668888888889
+    ],
+    "ref_distance": 4.7,
+    "ref_id": "79",
+    "tags.denotation": "natural_monument",
+    "tags.ele": "720",
+    "tags.natural": "tree",
+    "tags.ref:mipaaf": "01/E847/UD/06",
+    "tags.species": "Tilia cordata Mill.",
+    "tags.species:it": "Tiglio selvatico",
+    "tags.start_date": "1620",
+    "tags_changed.circumference": "580 -> 6.63",
+    "tags_changed.height": "25 -> 22",
+    "tags_new.leaf_cycle": "deciduous",
+    "tags_new.leaf_type": "broadleaved",
+    "tags_new.ref": "01/E847/UD/06",
+    "tags_new.taxon": "Tilia cordata",
+    "tags_new.taxon:it": "Tiglio selvatico"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.4293653,
+     46.024126
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4216081495,
+    "osm_type": "node",
+    "ref_coords": [
+     13.429363888888888,
+     46.02407777777778
+    ],
+    "ref_distance": 5.4,
+    "ref_id": "90",
+    "ref_unused_tags.leaf_cycle": "deciduous",
+    "ref_unused_tags.leaf_type": "broadleaved",
+    "tags.access": "yes",
+    "tags.denotation": "natural_monument",
+    "tags.genus": "Cupressus L.",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.name": "Cipresso mediterraneo",
+    "tags.name:botanical": "Cupressus sempervirens L.",
+    "tags.natural": "tree",
+    "tags.start_date": "1580",
+    "tags_changed.circumference": "5.1 -> 5",
+    "tags_changed.height": "22 -> 21",
+    "tags_new.ele": "150",
+    "tags_new.ref": "02/H029/UD/06",
+    "tags_new.taxon": "Cupressus sempervirens",
+    "tags_new.taxon:it": "Cipresso comune"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.4273356,
+     46.0942322
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2874024034,
+    "osm_type": "node",
+    "ref_coords": [
+     13.427225,
+     46.09431666666667
+    ],
+    "ref_distance": 12.7,
+    "ref_id": "61",
+    "tags.loc_name": "Arnoldo",
+    "tags.name": "Pino Nero Laricio",
+    "tags.name:botanical": "Pinus Nigra",
+    "tags.natural": "tree",
+    "tags.species": "Calabrica",
+    "tags.start_date": "1890",
+    "tags.type": "broad_leaved",
+    "tags_changed.circumference": "3.65 m -> 3.95",
+    "tags_changed.height": "23 -> 25",
+    "tags_new.ele": "130",
+    "tags_new.leaf_cycle": "evergreen",
+    "tags_new.leaf_type": "broadleaved",
+    "tags_new.ref": "01/C758/UD/06",
+    "tags_new.taxon": "Pinus nigra",
+    "tags_new.taxon:it": "Pino nero"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.0116112,
+     45.9507014
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2940135286,
+    "osm_type": "node",
+    "ref_coords": [
+     13.011780555555555,
+     45.950677777777784
+    ],
+    "ref_distance": 13.4,
+    "ref_id": "70",
+    "tags.name": "Cedro Bianco della California",
+    "tags.natural": "tree",
+    "tags.type": "conifer",
+    "tags_new.circumference": "2.5",
+    "tags_new.ele": "35",
+    "tags_new.height": "25",
+    "tags_new.leaf_cycle": "deciduous",
+    "tags_new.leaf_type": "broadleaved",
+    "tags_new.ref": "06/C817/UD/06",
+    "tags_new.taxon": "Ginkgo biloba",
+    "tags_new.taxon:it": "Ginco"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2461192,
+     46.0579996
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5594894907,
+    "osm_type": "node",
+    "ref_coords": [
+     13.245849999999999,
+     46.05803611111111
+    ],
+    "ref_distance": 21.2,
+    "ref_id": "138",
+    "tags.natural": "tree",
+    "tags_new.circumference": "3",
+    "tags_new.ele": "170",
+    "tags_new.height": "20",
+    "tags_new.leaf_cycle": "evergreen",
+    "tags_new.leaf_type": "needleleaved",
+    "tags_new.ref": "28/l483/UD/06",
+    "tags_new.taxon": "Cupressus cashmeriana",
+    "tags_new.taxon:it": "Cipresso del Cashmere"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.0087733,
+     45.9501489
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2940135287,
+    "osm_type": "node",
+    "ref_coords": [
+     13.00891111111111,
+     45.95033888888889
+    ],
+    "ref_distance": 23.7,
+    "ref_id": "69",
+    "tags.name": "Cipresso Piramidale",
+    "tags.natural": "tree",
+    "tags.type": "conifer",
+    "tags_new.circumference": "3.95",
+    "tags_new.ele": "35",
+    "tags_new.height": "32",
+    "tags_new.leaf_cycle": "evergreen",
+    "tags_new.leaf_type": "needleleaved",
+    "tags_new.ref": "05/C817/UD/06",
+    "tags_new.taxon": "Abies nordmanniana",
+    "tags_new.taxon:it": "Abete del Caucaso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.009209,
+     45.9492938
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2940135289,
+    "osm_type": "node",
+    "ref_coords": [
+     13.008994444444445,
+     45.94907499999999
+    ],
+    "ref_distance": 29.5,
+    "ref_id": "73",
+    "tags.name": "Paulonia",
+    "tags.natural": "tree",
+    "tags_new.circumference": "4.3",
+    "tags_new.ele": "35",
+    "tags_new.height": "30",
+    "tags_new.leaf_cycle": "deciduous",
+    "tags_new.leaf_type": "broadleaved",
+    "tags_new.ref": "09/C817/UD/06",
+    "tags_new.taxon": "Platanus acerifolia",
+    "tags_new.taxon:it": "Platano comune"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6210041,
+     45.9454345
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5295657166,
+    "osm_type": "node",
+    "ref_coords": [
+     13.620575,
+     45.94535555555555
+    ],
+    "ref_distance": 34.4,
+    "ref_id": "6",
+    "ref_unused_tags.leaf_type": "broadleaved",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags_new.circumference": "2.72",
+    "tags_new.denotation": "natural_monument",
+    "tags_new.ele": "85",
+    "tags_new.height": "18",
+    "tags_new.historic": "yes",
+    "tags_new.leaf_cycle": "deciduous",
+    "tags_new.ref": "05/E098/GO/06",
+    "tags_new.taxon": "Magnolia grandiflora",
+    "tags_new.taxon:it": "Magnolia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.498972222222221,
+     45.980925
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -15,
+    "osm_type": "node",
+    "ref_id": "1",
+    "tags.circumference": "4.33",
+    "tags.ele": "109",
+    "tags.height": "15",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/D014/GO/06",
+    "tags.taxon": "Quercus pubescens",
+    "tags.taxon:it": "Roverella"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.499430555555556,
+     45.888888888888886
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -16,
+    "osm_type": "node",
+    "ref_id": "10",
+    "tags.circumference": "3.25",
+    "tags.ele": "30",
+    "tags.height": "19",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/E124/GO/06",
+    "tags.taxon": "Pinus halepensis",
+    "tags.taxon:it": "Pino d'Aleppo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.22285,
+     46.215605555555555
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -17,
+    "osm_type": "node",
+    "ref_id": "100",
+    "tags.circumference": "5.5",
+    "tags.ele": "230",
+    "tags.height": "30",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/L050/UD/06",
+    "tags.taxon": "Platanus orientalis",
+    "tags.taxon:it": "Platano orientale"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.225041666666666,
+     46.21457222222222
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -18,
+    "osm_type": "node",
+    "ref_id": "101",
+    "tags.circumference": "4.5",
+    "tags.ele": "230",
+    "tags.height": "24",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/L050/UD/06",
+    "tags.taxon": "Populus nigra",
+    "tags.taxon:it": "Pioppo nero"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.53436111111111,
+     46.50903611111111
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -19,
+    "osm_type": "node",
+    "ref_id": "102",
+    "tags.areal": "yes",
+    "tags.circumference": "3",
+    "tags.denotation": "natural_monument",
+    "tags.ele": "802",
+    "tags.height": "18",
+    "tags.historic": "yes",
+    "tags.natural": "tree",
+    "tags.ref": "01/L057/UD/06",
+    "tags.taxon": "",
+    "tags.taxon:it": "Pero selvatico"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.535155555555555,
+     46.474808333333335
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -20,
+    "osm_type": "node",
+    "ref_id": "103",
+    "tags.circumference": "5.31",
+    "tags.ele": "1570",
+    "tags.height": "27",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/L057/UD/06",
+    "tags.taxon": "Larix decidua",
+    "tags.taxon:it": "Larice"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.536072222222222,
+     46.475611111111114
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -21,
+    "osm_type": "node",
+    "ref_id": "104",
+    "tags.circumference": "4.45",
+    "tags.ele": "1573",
+    "tags.height": "31",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "03/L057/UD/06",
+    "tags.taxon": "Picea abies",
+    "tags.taxon:it": "Abete rosso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.535683333333333,
+     46.47551388888889
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -22,
+    "osm_type": "node",
+    "ref_id": "105",
+    "tags.circumference": "5.45",
+    "tags.ele": "1573",
+    "tags.height": "32",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "04/L057/UD/06",
+    "tags.taxon": "Picea abies",
+    "tags.taxon:it": "Abete rosso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.536486111111111,
+     46.54076111111111
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -23,
+    "osm_type": "node",
+    "ref_id": "106",
+    "tags.circumference": "4.5",
+    "tags.ele": "1310",
+    "tags.height": "11",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "05/L057/UD/06",
+    "tags.taxon": "Acer pseudoplatanus",
+    "tags.taxon:it": "Acero di monte"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.686766666666667,
+     46.49248611111111
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -24,
+    "osm_type": "node",
+    "ref_id": "107",
+    "tags.circumference": "4.45",
+    "tags.ele": "868",
+    "tags.height": "29.5",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "06/L057/UD/06",
+    "tags.taxon": "Acer pseudoplatanus",
+    "tags.taxon:it": "Acero di monte"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.624347222222223,
+     46.51205
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -25,
+    "osm_type": "node",
+    "ref_id": "108",
+    "tags.circumference": "4.05",
+    "tags.ele": "770",
+    "tags.height": "19",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "07/L057/UD/06",
+    "tags.taxon": "Juglans regia",
+    "tags.taxon:it": "Noce comune"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.595688888888889,
+     46.498244444444445
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -26,
+    "osm_type": "node",
+    "ref_id": "109",
+    "tags.circumference": "3.3",
+    "tags.ele": "800",
+    "tags.height": "25",
+    "tags.historic": "yes",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "08/L057/UD/06",
+    "tags.taxon": "Tilia cordata",
+    "tags.taxon:it": "Tiglio selvatico"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.54205,
+     45.94093333333333
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -27,
+    "osm_type": "node",
+    "ref_id": "11",
+    "tags.circumference": "5",
+    "tags.ele": "95",
+    "tags.height": "16",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/F767/GO/06",
+    "tags.taxon": "Quercus robur",
+    "tags.taxon:it": "Farnia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.568297222222222,
+     46.50660555555555
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -28,
+    "osm_type": "node",
+    "ref_id": "110",
+    "tags.circumference": "4.45",
+    "tags.ele": "752",
+    "tags.height": "23",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "09/L057/UD/06",
+    "tags.taxon": "Salix alba",
+    "tags.taxon:it": "Salice bianco"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.585497222222223,
+     46.43763611111111
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -29,
+    "osm_type": "node",
+    "ref_id": "111",
+    "tags.circumference": "4.95",
+    "tags.ele": "1270",
+    "tags.height": "35",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "10/L057/UD/06",
+    "tags.taxon": "Abies alba",
+    "tags.taxon:it": "Abete bianco"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.547816666666666,
+     46.438180555555554
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -30,
+    "osm_type": "node",
+    "ref_id": "112",
+    "tags.circumference": "4.9",
+    "tags.ele": "1450",
+    "tags.height": "36",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "11/L057/UD/06",
+    "tags.taxon": "Picea abies",
+    "tags.taxon:it": "Abete rosso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.598694444444446,
+     46.497841666666666
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -31,
+    "osm_type": "node",
+    "ref_id": "113",
+    "tags.circumference": "4.6",
+    "tags.ele": "800",
+    "tags.height": "30",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "12/L057/UD/06",
+    "tags.taxon": "Ulmus glabra",
+    "tags.taxon:it": "Olmo montano"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.526375000000002,
+     46.51068055555555
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -32,
+    "osm_type": "node",
+    "ref_id": "114",
+    "tags.circumference": "5.25",
+    "tags.ele": "841",
+    "tags.height": "32",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "13/L057/UD/06",
+    "tags.taxon": "Fagus sylvatica",
+    "tags.taxon:it": "Faggio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.21525,
+     46.15911944444444
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -33,
+    "osm_type": "node",
+    "ref_id": "115",
+    "tags.circumference": "4.5",
+    "tags.ele": "210",
+    "tags.height": "31",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/L421/UD/06",
+    "tags.taxon": "Cedrus deodara",
+    "tags.taxon:it": "Cedro dell'Himalaya"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.211855555555555,
+     46.161775
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -34,
+    "osm_type": "node",
+    "ref_id": "116",
+    "tags.circumference": "1.6",
+    "tags.ele": "210",
+    "tags.height": "2.5",
+    "tags.natural": "tree",
+    "tags.ref": "02/L421/UD/06",
+    "tags.taxon": "Wisteria sinensis",
+    "tags.taxon:it": "Glicine"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.218811111111112,
+     46.1736
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -35,
+    "osm_type": "node",
+    "ref_id": "117",
+    "tags.circumference": "3.7",
+    "tags.ele": "210",
+    "tags.height": "28",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "03/L421/UD/06",
+    "tags.taxon": "Populus canescens",
+    "tags.taxon:it": "Pioppo canescente"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.218705555555555,
+     46.17349166666666
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -36,
+    "osm_type": "node",
+    "ref_id": "118",
+    "tags.areal": "yes",
+    "tags.circumference": "3.5",
+    "tags.ele": "210",
+    "tags.height": "25",
+    "tags.natural": "tree",
+    "tags.ref": "04/L421/UD/06",
+    "tags.taxon": "Cedrus deodara",
+    "tags.taxon:it": "Cedro dell'Himalaya"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.219469444444444,
+     46.173383333333334
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -37,
+    "osm_type": "node",
+    "ref_id": "119",
+    "tags.circumference": "3.35",
+    "tags.ele": "210",
+    "tags.height": "20",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "06/L421/UD/06",
+    "tags.taxon": "Cupressus macrocarpa",
+    "tags.taxon:it": "Cipresso di Monterey"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.500419444444445,
+     45.825252777777784
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -38,
+    "osm_type": "node",
+    "ref_id": "12",
+    "tags.circumference": "4.1",
+    "tags.ele": "11",
+    "tags.height": "25",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/H531/GO/06",
+    "tags.taxon": "Populus nigra",
+    "tags.taxon:it": "Pioppo nero"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.23651111111111,
+     46.06429166666666
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -39,
+    "osm_type": "node",
+    "ref_id": "120",
+    "tags.circumference": "5.22",
+    "tags.denotation": "natural_monument",
+    "tags.ele": "222",
+    "tags.height": "30",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/l483/UD/06",
+    "tags.taxon": "Cedrus deodara",
+    "tags.taxon:it": "Cedro dell'Himalaya"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.235888888888889,
+     46.06409444444444
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -40,
+    "osm_type": "node",
+    "ref_id": "121",
+    "tags.circumference": "4.48",
+    "tags.ele": "223",
+    "tags.height": "28",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/l483/UD/06",
+    "tags.taxon": "Cedrus deodara",
+    "tags.taxon:it": "Cedro dell'Himalaya"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.236749999999999,
+     46.06448611111111
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -41,
+    "osm_type": "node",
+    "ref_id": "122",
+    "tags.circumference": "3.95",
+    "tags.ele": "225",
+    "tags.height": "27",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "03/l483/UD/06",
+    "tags.taxon": "Cedrus deodara",
+    "tags.taxon:it": "Cedro dell'Himalaya"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.239552777777776,
+     46.063088888888885
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -42,
+    "osm_type": "node",
+    "ref_id": "124",
+    "tags.circumference": "4.27",
+    "tags.ele": "173",
+    "tags.height": "25",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "06/l483/UD/06",
+    "tags.taxon": "Cedrus deodara",
+    "tags.taxon:it": "Cedro dell'Himalaya"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.23946111111111,
+     46.06285277777778
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -43,
+    "osm_type": "node",
+    "ref_id": "125",
+    "tags.circumference": "4.3",
+    "tags.denotation": "natural_monument",
+    "tags.ele": "173",
+    "tags.height": "28",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "07/l483/UD/06",
+    "tags.taxon": "Quercus robur",
+    "tags.taxon:it": "Farnia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.239763888888888,
+     46.062777777777775
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -44,
+    "osm_type": "node",
+    "ref_id": "126",
+    "tags.circumference": "4.73",
+    "tags.ele": "173",
+    "tags.height": "25",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "08/l483/UD/06",
+    "tags.taxon": "Cedrus atlantica",
+    "tags.taxon:it": "Cedro dell'Atlante"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.238902777777778,
+     46.063741666666665
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -45,
+    "osm_type": "node",
+    "ref_id": "127",
+    "tags.circumference": "3.93",
+    "tags.denotation": "natural_monument",
+    "tags.ele": "171",
+    "tags.height": "13",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "12/l483/UD/06",
+    "tags.taxon": "Morus alba",
+    "tags.taxon:it": "Gelso bianco"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.239252777777777,
+     46.06381666666666
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -46,
+    "osm_type": "node",
+    "ref_id": "128",
+    "tags.circumference": "6.94",
+    "tags.denotation": "natural_monument",
+    "tags.ele": "171",
+    "tags.height": "20",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "13/l483/UD/06",
+    "tags.taxon": "Calocedrus decurrens",
+    "tags.taxon:it": "Libocedro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.239777777777777,
+     46.06344722222222
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -47,
+    "osm_type": "node",
+    "ref_id": "129",
+    "tags.areal": "yes",
+    "tags.circumference": "3.2",
+    "tags.denotation": "natural_monument",
+    "tags.ele": "171",
+    "tags.height": "20",
+    "tags.natural": "tree",
+    "tags.ref": "14/l483/UD/06",
+    "tags.taxon": "Torreya nucifera",
+    "tags.taxon:it": "Tasso del Giappone"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.581819444444443,
+     45.88692777777778
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -48,
+    "osm_type": "node",
+    "ref_id": "13",
+    "tags.circumference": "1.2",
+    "tags.ele": "30",
+    "tags.height": "14",
+    "tags.natural": "tree",
+    "tags.ref": "02/I479/GO706",
+    "tags.taxon": "Wisteria sinensis",
+    "tags.taxon:it": "Glicine"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.228163888888888,
+     46.06333333333333
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -49,
+    "osm_type": "node",
+    "ref_id": "131",
+    "tags.circumference": "6.1",
+    "tags.denotation": "natural_monument",
+    "tags.ele": "172",
+    "tags.height": "35",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "17/l483/UD/06",
+    "tags.taxon": "Cedrus deodara",
+    "tags.taxon:it": "Cedro dell'Himalaya"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.227766666666668,
+     46.06391111111111
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -50,
+    "osm_type": "node",
+    "ref_id": "132",
+    "tags.circumference": "4.3",
+    "tags.ele": "172",
+    "tags.height": "32",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "18/l483/UD/06",
+    "tags.taxon": "Cedrus deodara",
+    "tags.taxon:it": "Cedro dell'Himalaya"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.237222222222222,
+     46.06464444444444
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -51,
+    "osm_type": "node",
+    "ref_id": "133",
+    "tags.circumference": "4.48",
+    "tags.ele": "224",
+    "tags.height": "22",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "22/l483/UD/06",
+    "tags.taxon": "Celtis australis",
+    "tags.taxon:it": "Bagolaro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.236019444444443,
+     46.069383333333334
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -52,
+    "osm_type": "node",
+    "ref_id": "135",
+    "tags.areal": "yes",
+    "tags.circumference": "n. 40 esemplari con piccole circonferenze dei fusti",
+    "tags.denotation": "natural_monument",
+    "tags.ele": "175",
+    "tags.height": "8",
+    "tags.leaf_cycle": "evergreen",
+    "tags.natural": "tree",
+    "tags.ref": "25/l483/UD/06",
+    "tags.taxon": "Elaeagnus x",
+    "tags.taxon:it": "Eleagno ibrido"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.186380555555555,
+     46.08264166666667
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -53,
+    "osm_type": "node",
+    "ref_id": "136",
+    "tags.circumference": "4",
+    "tags.ele": "160",
+    "tags.height": "24",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "26/l483/UD/06",
+    "tags.taxon": "Populus nigra",
+    "tags.taxon:it": "Pioppo nero"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.98862222222222,
+     45.88856944444444
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -54,
+    "osm_type": "node",
+    "ref_id": "139",
+    "tags.circumference": "5.8",
+    "tags.ele": "18",
+    "tags.height": "29",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/L686/UD(06",
+    "tags.taxon": "Quercus robur",
+    "tags.taxon:it": "Farnia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.500197222222223,
+     45.80524722222222
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -55,
+    "osm_type": "node",
+    "ref_id": "14",
+    "tags.circumference": "4.36",
+    "tags.ele": "6",
+    "tags.height": "16",
+    "tags.historic": "yes",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/I939/GO/06",
+    "tags.taxon": "Celtis australis",
+    "tags.taxon:it": "Bagolaro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.528180555555556,
+     46.12952777777778
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -56,
+    "osm_type": "node",
+    "ref_id": "15",
+    "tags.circumference": "4.7",
+    "tags.ele": "1193",
+    "tags.height": "18",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/A516/PN/06",
+    "tags.taxon": "Fagus sylvatica",
+    "tags.taxon:it": "Faggio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.569986111111112,
+     46.07671944444445
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -57,
+    "osm_type": "node",
+    "ref_id": "16",
+    "tags.circumference": "6.7",
+    "tags.ele": "300",
+    "tags.height": "12",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/A516/PN/06",
+    "tags.taxon": "Acer campestre",
+    "tags.taxon:it": "Acero campestre"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.472236111111112,
+     46.187263888888886
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -58,
+    "osm_type": "node",
+    "ref_id": "17",
+    "tags.circumference": "4.24",
+    "tags.ele": "1100",
+    "tags.height": "15",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/A640/PN/06",
+    "tags.taxon": "Taxus baccata",
+    "tags.taxon:it": "Tasso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.4309,
+     45.967216666666666
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -59,
+    "osm_type": "node",
+    "ref_id": "18",
+    "tags.circumference": "4.5",
+    "tags.ele": "66",
+    "tags.height": "28",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/B598/PN/06",
+    "tags.taxon": "Celtis australis",
+    "tags.taxon:it": "Bagolaro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.448008333333334,
+     45.96851388888889
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -60,
+    "osm_type": "node",
+    "ref_id": "19",
+    "tags.circumference": "2.82",
+    "tags.ele": "49",
+    "tags.height": "19",
+    "tags.historic": "yes",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/B598/PN/06",
+    "tags.taxon": "Tilia cordata",
+    "tags.taxon:it": "Tiglio selvatico"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.623202777777779,
+     45.94096111111111
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -61,
+    "osm_type": "node",
+    "ref_id": "2",
+    "tags.circumference": "4.5",
+    "tags.ele": "85",
+    "tags.height": "30",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/E098/GO/06",
+    "tags.taxon": "Platanus acerifolia",
+    "tags.taxon:it": "Platano comune"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.430958333333333,
+     46.001577777777776
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -62,
+    "osm_type": "node",
+    "ref_id": "20",
+    "tags.circumference": "4.3",
+    "tags.ele": "760",
+    "tags.height": "12",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "03/B598/PN/06",
+    "tags.taxon": "Castanea sativa",
+    "tags.taxon:it": "Castagno"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.554947222222223,
+     46.248441666666665
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -63,
+    "osm_type": "node",
+    "ref_id": "21",
+    "tags.circumference": "3.86",
+    "tags.ele": "1530",
+    "tags.height": "22",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/C790/PN/06",
+    "tags.taxon": "Picea abies",
+    "tags.taxon:it": "Abete rosso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.555672222222222,
+     46.24828333333333
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -64,
+    "osm_type": "node",
+    "ref_id": "22",
+    "tags.circumference": "4.52",
+    "tags.ele": "1540",
+    "tags.height": "22",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/C790/PN/06",
+    "tags.taxon": "Picea abies",
+    "tags.taxon:it": "Abete rosso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.627575,
+     46.33217500000001
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -65,
+    "osm_type": "node",
+    "ref_id": "23",
+    "tags.circumference": "4.02",
+    "tags.ele": "1300",
+    "tags.height": "33",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "03/C790/PN/06",
+    "tags.taxon": "Picea abies",
+    "tags.taxon:it": "Abete rosso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.627916666666668,
+     46.33226944444445
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -66,
+    "osm_type": "node",
+    "ref_id": "24",
+    "tags.circumference": "4.42",
+    "tags.ele": "1320",
+    "tags.height": "27",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "04/C790/PN/06",
+    "tags.taxon": "Picea abies",
+    "tags.taxon:it": "Abete rosso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.622616666666667,
+     46.33430833333333
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -67,
+    "osm_type": "node",
+    "ref_id": "25",
+    "tags.circumference": "4.05",
+    "tags.ele": "1290",
+    "tags.height": "29",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "05/C790/PN/06",
+    "tags.taxon": "Fagus sylvatica",
+    "tags.taxon:it": "Faggio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.674249999999999,
+     45.92112222222222
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -68,
+    "osm_type": "node",
+    "ref_id": "26",
+    "tags.circumference": "5.45",
+    "tags.ele": "20",
+    "tags.height": "25",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/D621/PN/06",
+    "tags.taxon": "Quercus robur",
+    "tags.taxon:it": "Farnia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.700991666666665,
+     46.172916666666666
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -69,
+    "osm_type": "node",
+    "ref_id": "27",
+    "tags.circumference": "4.45",
+    "tags.ele": "341",
+    "tags.height": "35",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/E889/PN/06",
+    "tags.taxon": "Fagus sylvatica",
+    "tags.taxon:it": "Faggio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.706430555555555,
+     46.1691
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -70,
+    "osm_type": "node",
+    "ref_id": "28",
+    "tags.circumference": "4.35",
+    "tags.ele": "287",
+    "tags.height": "22",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/E889/PN/06",
+    "tags.taxon": "Thuja plicata",
+    "tags.taxon:it": "Tuia gigante"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.615808333333334,
+     45.959250000000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -71,
+    "osm_type": "node",
+    "ref_id": "29",
+    "tags.circumference": "4.55",
+    "tags.ele": "30",
+    "tags.height": "32",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/G886/PN/06",
+    "tags.taxon": "Liriodendron tulipifera",
+    "tags.taxon:it": "Albero dei tulipani"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.630366666666667,
+     45.94689444444444
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -72,
+    "osm_type": "node",
+    "ref_id": "3",
+    "tags.areal": "yes",
+    "tags.circumference": "4.5",
+    "tags.denotation": "natural_monument",
+    "tags.ele": "100",
+    "tags.height": "22",
+    "tags.natural": "tree",
+    "tags.ref": "02/E098/GO/06",
+    "tags.taxon": "Castanea sativa",
+    "tags.taxon:it": "Castagno"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.617894444444445,
+     45.95708611111112
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -73,
+    "osm_type": "node",
+    "ref_id": "30",
+    "tags.circumference": "4.5",
+    "tags.ele": "25",
+    "tags.height": "22",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/G886/PN/06",
+    "tags.taxon": "Celtis australis",
+    "tags.taxon:it": "Bagolaro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.616297222222222,
+     45.958394444444444
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -74,
+    "osm_type": "node",
+    "ref_id": "31",
+    "tags.circumference": "2.45",
+    "tags.ele": "25",
+    "tags.height": "15",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "03/G886/PN/06",
+    "tags.taxon": "Magnolia grandiflora",
+    "tags.taxon:it": "Magnolia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.869358333333334,
+     46.16363611111111
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -75,
+    "osm_type": "node",
+    "ref_id": "32",
+    "tags.circumference": "3.61",
+    "tags.ele": "190",
+    "tags.height": "21",
+    "tags.historic": "yes",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/I621/PN/06",
+    "tags.taxon": "Quercus robur",
+    "tags.taxon:it": "Farnia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.624411111111112,
+     45.770938888888885
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -76,
+    "osm_type": "node",
+    "ref_id": "33",
+    "tags.circumference": "0.92",
+    "tags.ele": "60",
+    "tags.height": "7",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/D383/TS/06",
+    "tags.taxon": "Pistacia terebinthus",
+    "tags.taxon:it": "Terebinto"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.629644444444445,
+     45.77149166666666
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -77,
+    "osm_type": "node",
+    "ref_id": "34",
+    "tags.circumference": "3.2",
+    "tags.ele": "40",
+    "tags.height": "28",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/D383/TS/06",
+    "tags.taxon": "Cupressus macrocarpa",
+    "tags.taxon:it": "Cipresso di Monterey"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.766977777777779,
+     45.594794444444446
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -78,
+    "osm_type": "node",
+    "ref_id": "35",
+    "tags.circumference": "4.1",
+    "tags.ele": "50",
+    "tags.height": "17",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/F795/TS/06",
+    "tags.taxon": "Salix alba",
+    "tags.taxon:it": "Salice bianco"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.713161111111111,
+     45.704994444444445
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -79,
+    "osm_type": "node",
+    "ref_id": "36",
+    "tags.circumference": "2.04",
+    "tags.ele": "10",
+    "tags.height": "12",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/L424/TS/06",
+    "tags.taxon": "Arbutus unedo",
+    "tags.taxon:it": "Corbezzolo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.712880555555556,
+     45.70379444444445
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -80,
+    "osm_type": "node",
+    "ref_id": "37",
+    "tags.circumference": "267-250-230",
+    "tags.ele": "5",
+    "tags.height": "28",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/L424/TS/06",
+    "tags.taxon": "Quercus ilex",
+    "tags.taxon:it": "Leccio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.705047222222221,
+     45.71527777777778
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -81,
+    "osm_type": "node",
+    "ref_id": "38",
+    "tags.circumference": "4.1",
+    "tags.ele": "10",
+    "tags.height": "18",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "03/L424/TS/06",
+    "tags.taxon": "Cupressus sempervirens",
+    "tags.taxon:it": "Cipresso comune"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.803552777777778,
+     45.70576944444445
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -82,
+    "osm_type": "node",
+    "ref_id": "39",
+    "tags.circumference": "3.1",
+    "tags.ele": "300",
+    "tags.height": "35",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "04/L424/TS/06",
+    "tags.taxon": "Quercus cerris",
+    "tags.taxon:it": "Cerro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.628080555555556,
+     45.944513888888885
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -83,
+    "osm_type": "node",
+    "ref_id": "4",
+    "tags.circumference": "4.55",
+    "tags.ele": "120",
+    "tags.height": "30",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "03/E098/GO/06",
+    "tags.taxon": "Platanus acerifolia",
+    "tags.taxon:it": "Platano comune"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.815258333333334,
+     45.6441
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -84,
+    "osm_type": "node",
+    "ref_id": "40",
+    "tags.circumference": "3.6",
+    "tags.ele": "200",
+    "tags.height": "18",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "05/L424/TS/06",
+    "tags.taxon": "Pinus halepensis",
+    "tags.taxon:it": "Pino d'Aleppo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.71641111111111,
+     45.70353333333333
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -85,
+    "osm_type": "node",
+    "ref_id": "41",
+    "tags.circumference": "2.5",
+    "tags.ele": "10",
+    "tags.height": "20",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "06/L424/TS/06",
+    "tags.taxon": "Pinus sabiniana",
+    "tags.taxon:it": "Pino grigio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.784094444444444,
+     45.653925
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -86,
+    "osm_type": "node",
+    "ref_id": "42",
+    "tags.circumference": "5.2",
+    "tags.ele": "15",
+    "tags.height": "28",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "07/L424/TS/06",
+    "tags.taxon": "Platanus acerifolia",
+    "tags.taxon:it": "Platano comune"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.784372222222222,
+     45.65405
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -87,
+    "osm_type": "node",
+    "ref_id": "43",
+    "tags.circumference": "5.25",
+    "tags.ele": "15",
+    "tags.height": "31",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "08/L424/TS/06",
+    "tags.taxon": "Platanus acerifolia",
+    "tags.taxon:it": "Platano comune"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.796788888888889,
+     45.660894444444445
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -88,
+    "osm_type": "node",
+    "ref_id": "44",
+    "tags.circumference": "4.1",
+    "tags.ele": "120",
+    "tags.height": "28",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "09/L424/TS/06",
+    "tags.taxon": "Quercus pubescens",
+    "tags.taxon:it": "Roverella"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.805216666666668,
+     45.65308888888889
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -89,
+    "osm_type": "node",
+    "ref_id": "45",
+    "tags.circumference": "4.2",
+    "tags.ele": "90",
+    "tags.height": "15",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "10/L424/TS/06",
+    "tags.taxon": "Quercus pubescens",
+    "tags.taxon:it": "Roverella"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.713608333333333,
+     45.704097222222224
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -90,
+    "osm_type": "node",
+    "ref_id": "46",
+    "tags.circumference": "4.25",
+    "tags.ele": "10",
+    "tags.height": "30",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "11/L424/TS/06",
+    "tags.taxon": "Sequoia sempervirens",
+    "tags.taxon:it": "Sequoia sempreverde"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.80185,
+     45.63704722222222
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -91,
+    "osm_type": "node",
+    "ref_id": "47",
+    "tags.circumference": "3.43",
+    "tags.ele": "105",
+    "tags.height": "20",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "12/L424/TS/06",
+    "tags.taxon": "Zelkova carpinifolia",
+    "tags.taxon:it": "Olmo del Caucaso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.872322222222223,
+     45.61075
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -92,
+    "osm_type": "node",
+    "ref_id": "48",
+    "tags.areal": "yes",
+    "tags.circumference": "3.6",
+    "tags.ele": "440",
+    "tags.height": "20",
+    "tags.natural": "tree",
+    "tags.ref": "13/L424/TS/06",
+    "tags.taxon": "Quercus cerris",
+    "tags.taxon:it": "Cerro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.626622222222222,
+     45.93805277777778
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -93,
+    "osm_type": "node",
+    "ref_id": "5",
+    "tags.circumference": "2.8",
+    "tags.ele": "80",
+    "tags.height": "8",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "04/E098/GO/06",
+    "tags.taxon": "Morus alba",
+    "tags.taxon:it": "Gelso bianco"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.786727777777777,
+     45.687266666666666
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -94,
+    "osm_type": "node",
+    "ref_id": "50",
+    "tags.circumference": "3.03",
+    "tags.ele": "325",
+    "tags.height": "15",
+    "tags.natural": "tree",
+    "tags.ref": "15/L424/TS/06",
+    "tags.taxon": "Sthyphnolobium japonicum",
+    "tags.taxon:it": "Sofora del Giappone"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.776833333333334,
+     46.47431944444445
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -95,
+    "osm_type": "node",
+    "ref_id": "51",
+    "tags.circumference": "4.94",
+    "tags.ele": "1623",
+    "tags.height": "27",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/A267/UD/06",
+    "tags.taxon": "Larix decidua",
+    "tags.taxon:it": "Larice"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.306236111111112,
+     46.19074722222222
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -96,
+    "osm_type": "node",
+    "ref_id": "52",
+    "tags.circumference": "5.4",
+    "tags.ele": "193",
+    "tags.height": "35",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/A491/UD/06",
+    "tags.taxon": "Thuja plicata",
+    "tags.taxon:it": "Tuia gigante"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.305475000000001,
+     46.188541666666666
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -97,
+    "osm_type": "node",
+    "ref_id": "54",
+    "tags.circumference": "4.7",
+    "tags.ele": "190",
+    "tags.height": "21.5",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "03/A491/UD/06",
+    "tags.taxon": "Platanus acerifolia",
+    "tags.taxon:it": "Platano comune"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.304102777777778,
+     46.19144444444444
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -98,
+    "osm_type": "node",
+    "ref_id": "55",
+    "tags.circumference": "6.6",
+    "tags.denotation": "natural_monument",
+    "tags.ele": "225",
+    "tags.height": "31",
+    "tags.historic": "yes",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "04/A491/UD/06",
+    "tags.taxon": "Quercus robur",
+    "tags.taxon:it": "Farnia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.076711111111111,
+     45.99531944444445
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -99,
+    "osm_type": "node",
+    "ref_id": "56",
+    "tags.circumference": "4",
+    "tags.ele": "60",
+    "tags.height": "18",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/A700/UD/06",
+    "tags.taxon": "Celtis australis",
+    "tags.taxon:it": "Bagolaro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.068444444444443,
+     46.01228888888889
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -100,
+    "osm_type": "node",
+    "ref_id": "57",
+    "tags.circumference": "3.78",
+    "tags.ele": "70",
+    "tags.height": "18",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/A700/UD/06",
+    "tags.taxon": "Styphnolobium japonicum",
+    "tags.taxon:it": "Sofora del Giappone"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.081480555555554,
+     45.99563611111111
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -101,
+    "osm_type": "node",
+    "ref_id": "58",
+    "tags.circumference": "3.38",
+    "tags.ele": "60",
+    "tags.height": "8",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "03/A700/UD/06",
+    "tags.taxon": "Morus nigra",
+    "tags.taxon:it": "Gelso nero"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.149058333333333,
+     46.007375
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -102,
+    "osm_type": "node",
+    "ref_id": "59",
+    "tags.areal": "yes",
+    "tags.circumference": "2.45",
+    "tags.ele": "81",
+    "tags.height": "24",
+    "tags.historic": "yes",
+    "tags.natural": "tree",
+    "tags.ref": "04/A700/UD/06",
+    "tags.taxon": "Tilia cordata",
+    "tags.taxon:it": "Tiglio selvatico"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.42888611111111,
+     46.09491944444445
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -103,
+    "osm_type": "node",
+    "ref_id": "62",
+    "tags.circumference": "3.5",
+    "tags.ele": "130",
+    "tags.height": "25",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/C758/UD/06",
+    "tags.taxon": "Ginkgo biloba",
+    "tags.taxon:it": "Ginco"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.451441666666666,
+     46.08975277777778
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -104,
+    "osm_type": "node",
+    "ref_id": "63",
+    "tags.circumference": "2.4",
+    "tags.ele": "140",
+    "tags.height": "5.5",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "05/C758/UD/06",
+    "tags.taxon": "Morus nigra",
+    "tags.taxon:it": "Gelso nero"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.442544444444446,
+     46.10261666666667
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -105,
+    "osm_type": "node",
+    "ref_id": "64",
+    "tags.circumference": "0.68",
+    "tags.ele": "140",
+    "tags.height": "2.5",
+    "tags.natural": "tree",
+    "tags.ref": "06/C758/UD/06",
+    "tags.taxon": "Vitis vinifera",
+    "tags.taxon:it": "Vite"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.008244444444445,
+     45.95044444444445
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -106,
+    "osm_type": "node",
+    "ref_id": "65",
+    "tags.circumference": "4.56",
+    "tags.ele": "35",
+    "tags.height": "21",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/C817/UD/06",
+    "tags.taxon": "Celtis australis",
+    "tags.taxon:it": "Bagolaro"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.009377777777777,
+     45.949755555555555
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -107,
+    "osm_type": "node",
+    "ref_id": "66",
+    "tags.circumference": "4.75",
+    "tags.ele": "35",
+    "tags.height": "21",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/C817/UD/06",
+    "tags.taxon": "Cedrus deodara",
+    "tags.taxon:it": "Cedro dell'Himalaya"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.012477777777777,
+     45.95011111111111
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -108,
+    "osm_type": "node",
+    "ref_id": "67",
+    "tags.circumference": "1.9",
+    "tags.ele": "35",
+    "tags.height": "15",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "03/C817/UD/06",
+    "tags.taxon": "Magnolia grandiflora",
+    "tags.taxon:it": "Magnolia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.008569444444445,
+     45.94939722222222
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -109,
+    "osm_type": "node",
+    "ref_id": "68",
+    "tags.circumference": "4.2",
+    "tags.ele": "35",
+    "tags.height": "19",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "04/C817/UD/06",
+    "tags.taxon": "Paulownia tomentosa",
+    "tags.taxon:it": "Paulonia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.593808333333333,
+     45.940302777777774
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -110,
+    "osm_type": "node",
+    "ref_id": "7",
+    "tags.areal": "yes",
+    "tags.circumference": "3.7",
+    "tags.ele": "60",
+    "tags.height": "5",
+    "tags.historic": "yes",
+    "tags.natural": "tree",
+    "tags.ref": "06/E098/GO/06",
+    "tags.taxon": "Paulownia tomentosa",
+    "tags.taxon:it": "Paulonia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.012688888888889,
+     45.949861111111105
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -111,
+    "osm_type": "node",
+    "ref_id": "71",
+    "tags.circumference": "2.9",
+    "tags.ele": "35",
+    "tags.height": "20",
+    "tags.natural": "tree",
+    "tags.ref": "07/C817/UD/06",
+    "tags.taxon": "Gleditzia triacanthos",
+    "tags.taxon:it": "Spino di Giuda"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.011877777777778,
+     45.94945277777777
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -112,
+    "osm_type": "node",
+    "ref_id": "72",
+    "tags.circumference": "4.1",
+    "tags.ele": "35",
+    "tags.height": "16",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "08/C817/UD/06",
+    "tags.taxon": "Taxus baccata",
+    "tags.taxon:it": "Tasso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.009602777777777,
+     45.94869722222222
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -113,
+    "osm_type": "node",
+    "ref_id": "74",
+    "tags.circumference": "4.09",
+    "tags.ele": "35",
+    "tags.height": "22",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "10/C817/UD/06",
+    "tags.taxon": "Aesculus hippocastanum",
+    "tags.taxon:it": "Ippocastano"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.009130555555556,
+     45.952847222222225
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -114,
+    "osm_type": "node",
+    "ref_id": "75",
+    "tags.circumference": "4.95",
+    "tags.ele": "35",
+    "tags.height": "21",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "11/C817/UD/06",
+    "tags.taxon": "Cedrus deodara",
+    "tags.taxon:it": "Cedro dell'Himalaya"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.832097222222222,
+     46.43916944444444
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -115,
+    "osm_type": "node",
+    "ref_id": "76",
+    "tags.circumference": "3.45",
+    "tags.ele": "953",
+    "tags.height": "17",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/D408/UD/06",
+    "tags.taxon": "Fagus sylvatica",
+    "tags.taxon:it": "Faggio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.133875,
+     45.682125
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -116,
+    "osm_type": "node",
+    "ref_id": "77",
+    "tags.circumference": "2.13",
+    "tags.ele": "1",
+    "tags.height": "15",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/E584/UD/06",
+    "tags.taxon": "Pinus halepensis",
+    "tags.taxon:it": "Pino d'Aleppo"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.13968888888889,
+     45.69185833333333
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -117,
+    "osm_type": "node",
+    "ref_id": "78",
+    "tags.circumference": "2.5",
+    "tags.ele": "1",
+    "tags.height": "10",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/E584/UD/06",
+    "tags.taxon": "Quercus pubescens",
+    "tags.taxon:it": "Roverella"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.62633888888889,
+     45.95030833333334
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -118,
+    "osm_type": "node",
+    "ref_id": "8",
+    "tags.circumference": "2.8",
+    "tags.ele": "83",
+    "tags.height": "8",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "07/E098/GO/06",
+    "tags.taxon": "Morus alba",
+    "tags.taxon:it": "Gelso bianco"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.159766666666666,
+     46.1232
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -119,
+    "osm_type": "node",
+    "ref_id": "80",
+    "tags.circumference": "4.1",
+    "tags.ele": "212",
+    "tags.height": "27",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/F760/UD/06",
+    "tags.taxon": "Ginkgo biloba",
+    "tags.taxon:it": "Ginco"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.159786111111112,
+     46.12339722222222
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -120,
+    "osm_type": "node",
+    "ref_id": "81",
+    "tags.circumference": "3.6",
+    "tags.ele": "213",
+    "tags.height": "25",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/F760/UD/06",
+    "tags.taxon": "Juglans nigra",
+    "tags.taxon:it": "Noce nero"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.159247222222223,
+     46.12286388888889
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -121,
+    "osm_type": "node",
+    "ref_id": "82",
+    "tags.circumference": "3.7",
+    "tags.ele": "213",
+    "tags.height": "26",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "03/F760/UD/06",
+    "tags.taxon": "Aesculus hippocastanum",
+    "tags.taxon:it": "Ippocastano"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.000625,
+     46.586600000000004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -122,
+    "osm_type": "node",
+    "ref_id": "83",
+    "tags.areal": "yes",
+    "tags.circumference": "4.5",
+    "tags.ele": "900",
+    "tags.height": "25",
+    "tags.historic": "yes",
+    "tags.natural": "tree",
+    "tags.ref": "01/G300/UD/06",
+    "tags.taxon": "Fagus sylvatica",
+    "tags.taxon:it": "Faggio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.116736111111111,
+     46.564836111111106
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -123,
+    "osm_type": "node",
+    "ref_id": "84",
+    "tags.circumference": "3.8",
+    "tags.ele": "1148",
+    "tags.height": "35",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/G381/UD/06",
+    "tags.taxon": "Abies alba",
+    "tags.taxon:it": "Abete bianco"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.11075,
+     46.570527777777784
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -124,
+    "osm_type": "node",
+    "ref_id": "85",
+    "tags.circumference": "3.65",
+    "tags.ele": "993",
+    "tags.height": "49",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/G381/UD/06",
+    "tags.taxon": "Picea abies",
+    "tags.taxon:it": "Abete rosso"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.305991666666667,
+     46.511355555555554
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -125,
+    "osm_type": "node",
+    "ref_id": "86",
+    "tags.circumference": "3.9",
+    "tags.ele": "650",
+    "tags.height": "25",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/G831/UD/06",
+    "tags.taxon": "Tilia cordata",
+    "tags.taxon:it": "Tiglio selvatico"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.313933333333335,
+     46.510325
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -126,
+    "osm_type": "node",
+    "ref_id": "87",
+    "tags.circumference": "2.48",
+    "tags.ele": "647",
+    "tags.height": "18",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/G831/UD/06",
+    "tags.taxon": "Pyrus communis",
+    "tags.taxon:it": "Pero domestico"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.302502777777779,
+     46.50619722222222
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -127,
+    "osm_type": "node",
+    "ref_id": "88",
+    "tags.circumference": "2.92",
+    "tags.ele": "630",
+    "tags.height": "18",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "03/G831/UD/06",
+    "tags.taxon": "Juglans regia",
+    "tags.taxon:it": "Noce comune"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.429008333333332,
+     46.02371111111111
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -128,
+    "osm_type": "node",
+    "ref_id": "89",
+    "tags.circumference": "5.3",
+    "tags.ele": "150",
+    "tags.height": "20.5",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/H029/UD/06",
+    "tags.taxon": "Cupressus sempervirens",
+    "tags.taxon:it": "Cipresso comune"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.493991666666666,
+     45.885105555555555
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -129,
+    "osm_type": "node",
+    "ref_id": "9",
+    "tags.circumference": "3.65",
+    "tags.ele": "30",
+    "tags.height": "16",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/E124/GO/06",
+    "tags.taxon": "Magnolia grandiflora",
+    "tags.taxon:it": "Magnolia"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.429488888888889,
+     46.0238
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -130,
+    "osm_type": "node",
+    "ref_id": "91",
+    "tags.circumference": "1.8",
+    "tags.ele": "150",
+    "tags.height": "4.5",
+    "tags.natural": "tree",
+    "tags.ref": "03/H029/UD/06",
+    "tags.taxon": "Wisteria sinensis",
+    "tags.taxon:it": "Glicine"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.42933611111111,
+     46.024475
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -131,
+    "osm_type": "node",
+    "ref_id": "92",
+    "tags.circumference": "3.3",
+    "tags.ele": "150",
+    "tags.height": "15",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "04/H029/UD/06",
+    "tags.taxon": "Thuja plicata",
+    "tags.taxon:it": "Tuia gigante"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.459538888888888,
+     46.17304444444444
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -132,
+    "osm_type": "node",
+    "ref_id": "93",
+    "tags.circumference": "7.83",
+    "tags.ele": "620",
+    "tags.height": "19",
+    "tags.historic": "yes",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/H089/UD/06",
+    "tags.taxon": "Castanea sativa",
+    "tags.taxon:it": "Castagno"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.464316666666665,
+     46.16818611111111
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -133,
+    "osm_type": "node",
+    "ref_id": "94",
+    "tags.circumference": "5.2",
+    "tags.ele": "540",
+    "tags.height": "24",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/H089/UD/06",
+    "tags.taxon": "Castanea sativa",
+    "tags.taxon:it": "Castagno"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.826841666666667,
+     46.44835833333333
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -134,
+    "osm_type": "node",
+    "ref_id": "95",
+    "tags.circumference": "2.54",
+    "tags.ele": "1004",
+    "tags.height": "15",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/H200/UD/06",
+    "tags.taxon": "Pyrus pyraster",
+    "tags.taxon:it": "Pero selvatico"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.548919444444444,
+     46.10178611111111
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -135,
+    "osm_type": "node",
+    "ref_id": "96",
+    "tags.circumference": "2.35",
+    "tags.ele": "580",
+    "tags.height": "23",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/H951/UD/06",
+    "tags.taxon": "Betula pendula",
+    "tags.taxon:it": "Betulla verrucosa"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.532219444444445,
+     46.1472
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -136,
+    "osm_type": "node",
+    "ref_id": "97",
+    "tags.circumference": "5.6",
+    "tags.ele": "530",
+    "tags.height": "24",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "02/H951/UD/06",
+    "tags.taxon": "Castanea sativa",
+    "tags.taxon:it": "Castagno"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.531055555555556,
+     46.19378888888888
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -137,
+    "osm_type": "node",
+    "ref_id": "98",
+    "tags.circumference": "4.2",
+    "tags.ele": "920",
+    "tags.height": "29",
+    "tags.leaf_cycle": "deciduous",
+    "tags.leaf_type": "broadleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/I479/UD/06",
+    "tags.taxon": "Fagus sylvatica",
+    "tags.taxon:it": "Faggio"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.13886111111111,
+     45.92173888888889
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -138,
+    "osm_type": "node",
+    "ref_id": "99",
+    "tags.circumference": "5.74",
+    "tags.ele": "30",
+    "tags.height": "28",
+    "tags.leaf_cycle": "evergreen",
+    "tags.leaf_type": "needleleaved",
+    "tags.natural": "tree",
+    "tags.ref": "01/L039/UD/06",
+    "tags.taxon": "Cedrus deodara",
+    "tags.taxon:it": "Cedro dell'Himalaya"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

@@ -5,13 +5,13 @@
       "lon" : 13.498972222222221,
       "tags" : {
                "ref" : "01/D014/GO/06",
-               "genus:it" : "Roverella",
-               "species" : "Quercus pubescens Willd.",
+               "taxon:it" : "Roverella",
+               "taxon" : "Quercus pubescens",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 15,
                "ele" : 109,
                "circumference" : 4.33,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous and evergreen",
                "natural" : "tree"
                }
     }
@@ -22,8 +22,10 @@
       "lon" : 13.623202777777779,
       "tags" : {
                "ref" : "01/E098/GO/06",
-               "genus:it" : "Platano comune",
-               "species" : "Platanus acerifolia (Aiton) Willd.",
+               "taxon:it" : "Platano comune",
+               "taxon" : "Platanus acerifolia",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 30,
                "ele" : 85,
                "circumference" : 4.5,
@@ -37,12 +39,13 @@
       "lon" : 13.630366666666667,
       "tags" : {
                "ref" : "02/E098/GO/06",
-               "genus:it" : "Castagno",
-               "species" : "Insieme omogeneo di Castanea sativa Mill.",
+               "taxon:it" : "Castagno",
+               "taxon" : "Castanea sativa",
                "height" : 22,
                "ele" : 100,
                "circumference" : 4.5,
                "denotation" : "natural_monument",
+               "areal" : "yes",
                "natural" : "tree"
                }
     }
@@ -53,8 +56,10 @@
       "lon" : 13.628080555555556,
       "tags" : {
                "ref" : "03/E098/GO/06",
-               "genus:it" : "Platano comune",
-               "species" : "Platanus acerifolia (Aiton) Willd.",
+               "taxon:it" : "Platano comune",
+               "taxon" : "Platanus acerifolia",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 30,
                "ele" : 120,
                "circumference" : 4.55,
@@ -68,8 +73,10 @@
       "lon" : 13.626622222222222,
       "tags" : {
                "ref" : "04/E098/GO/06",
-               "genus:it" : "Gelso bianco",
-               "species" : "Morus alba L.",
+               "taxon:it" : "Gelso bianco",
+               "taxon" : "Morus alba",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 8,
                "ele" : 80,
                "circumference" : 2.8,
@@ -84,8 +91,10 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "05/E098/GO/06",
-               "genus:it" : "Magnolia",
-               "species" : "Magnolia grandiflora L.",
+               "taxon:it" : "Magnolia",
+               "taxon" : "Magnolia grandiflora",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 18,
                "ele" : 85,
                "circumference" : 2.72,
@@ -101,11 +110,12 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "06/E098/GO/06",
-               "genus:it" : "Paulonia",
-               "species" : "Insieme omogeneo di Paulownia tomentosa (Thunb.) Steud.",
+               "taxon:it" : "Paulonia",
+               "taxon" : "Paulownia tomentosa",
                "height" : 5,
                "ele" : 60,
                "circumference" : 3.7,
+               "areal" : "yes",
                "natural" : "tree"
                }
     }
@@ -116,8 +126,10 @@
       "lon" : 13.62633888888889,
       "tags" : {
                "ref" : "07/E098/GO/06",
-               "genus:it" : "Gelso bianco",
-               "species" : "Morus alba L.",
+               "taxon:it" : "Gelso bianco",
+               "taxon" : "Morus alba",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 8,
                "ele" : 83,
                "circumference" : 2.8,
@@ -131,8 +143,10 @@
       "lon" : 13.493991666666666,
       "tags" : {
                "ref" : "01/E124/GO/06",
-               "genus:it" : "Magnolia",
-               "species" : "Magnolia grandiflora L.",
+               "taxon:it" : "Magnolia",
+               "taxon" : "Magnolia grandiflora",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 16,
                "ele" : 30,
                "circumference" : 3.65,
@@ -146,13 +160,13 @@
       "lon" : 13.499430555555556,
       "tags" : {
                "ref" : "02/E124/GO/06",
-               "genus:it" : "Pino d'Aleppo",
-               "species" : "Pinus halepensis Mill.",
+               "taxon:it" : "Pino d'Aleppo",
+               "taxon" : "Pinus halepensis",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "broadleaved",
                "height" : 19,
                "ele" : 30,
                "circumference" : 3.25,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -163,13 +177,13 @@
       "lon" : 13.54205,
       "tags" : {
                "ref" : "01/F767/GO/06",
-               "genus:it" : "Farnia",
-               "species" : "Quercus robur L.",
+               "taxon:it" : "Farnia",
+               "taxon" : "Quercus robur",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 16,
                "ele" : 95,
                "circumference" : 5,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous and evergreen",
                "natural" : "tree"
                }
     }
@@ -180,8 +194,10 @@
       "lon" : 13.500419444444445,
       "tags" : {
                "ref" : "01/H531/GO/06",
-               "genus:it" : "Pioppo nero",
-               "species" : "Populus nigra L.",
+               "taxon:it" : "Pioppo nero",
+               "taxon" : "Populus nigra",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 25,
                "ele" : 11,
                "circumference" : 4.1,
@@ -195,8 +211,8 @@
       "lon" : 13.581819444444443,
       "tags" : {
                "ref" : "02/I479/GO706",
-               "genus:it" : "Glicine",
-               "species" : "Wisteria sinensis (Sims) Sweet",
+               "taxon:it" : "Glicine",
+               "taxon" : "Wisteria sinensis",
                "height" : 14,
                "ele" : 30,
                "circumference" : 1.2,
@@ -211,8 +227,10 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "01/I939/GO/06",
-               "genus:it" : "Bagolaro",
-               "species" : "Celtis australis L.",
+               "taxon:it" : "Bagolaro",
+               "taxon" : "Celtis australis",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "broadleaved",
                "height" : 16,
                "ele" : 6,
                "circumference" : 4.36,
@@ -226,8 +244,10 @@
       "lon" : 12.528180555555556,
       "tags" : {
                "ref" : "01/A516/PN/06",
-               "genus:it" : "Faggio",
-               "species" : "Fagus sylvatica L.",
+               "taxon:it" : "Faggio",
+               "taxon" : "Fagus sylvatica",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 18,
                "ele" : 1193,
                "circumference" : 4.7,
@@ -241,8 +261,10 @@
       "lon" : 12.569986111111112,
       "tags" : {
                "ref" : "02/A516/PN/06",
-               "genus:it" : "Acero campestre",
-               "species" : "Acer campestre L.",
+               "taxon:it" : "Acero campestre",
+               "taxon" : "Acer campestre",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 12,
                "ele" : 300,
                "circumference" : 6.7,
@@ -256,13 +278,13 @@
       "lon" : 12.472236111111112,
       "tags" : {
                "ref" : "01/A640/PN/06",
-               "genus:it" : "Tasso",
-               "species" : "Taxus baccata L.",
+               "taxon:it" : "Tasso",
+               "taxon" : "Taxus baccata",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "broadleaved",
                "height" : 15,
                "ele" : 1100,
                "circumference" : 4.24,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -273,8 +295,10 @@
       "lon" : 12.4309,
       "tags" : {
                "ref" : "01/B598/PN/06",
-               "genus:it" : "Bagolaro",
-               "species" : "Celtis australis L.",
+               "taxon:it" : "Bagolaro",
+               "taxon" : "Celtis australis",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "broadleaved",
                "height" : 28,
                "ele" : 66,
                "circumference" : 4.5,
@@ -289,13 +313,13 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "02/B598/PN/06",
-               "genus:it" : "Tiglio selvatico",
-               "species" : "Tilia cordata Mill.",
+               "taxon:it" : "Tiglio selvatico",
+               "taxon" : "Tilia cordata",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 19,
                "ele" : 49,
                "circumference" : 2.82,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous",
                "natural" : "tree"
                }
     }
@@ -306,8 +330,10 @@
       "lon" : 12.430958333333333,
       "tags" : {
                "ref" : "03/B598/PN/06",
-               "genus:it" : "Castagno",
-               "species" : "Castanea sativa Mill.",
+               "taxon:it" : "Castagno",
+               "taxon" : "Castanea sativa",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 12,
                "ele" : 760,
                "circumference" : 4.3,
@@ -321,13 +347,13 @@
       "lon" : 12.554947222222223,
       "tags" : {
                "ref" : "01/C790/PN/06",
-               "genus:it" : "Abete rosso",
-               "species" : "Picea abies (L.) H. Karst.",
+               "taxon:it" : "Abete rosso",
+               "taxon" : "Picea abies",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 22,
                "ele" : 1530,
                "circumference" : 3.86,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -338,13 +364,13 @@
       "lon" : 12.555672222222222,
       "tags" : {
                "ref" : "02/C790/PN/06",
-               "genus:it" : "Abete rosso",
-               "species" : "Picea abies (L.) H. Karst.",
+               "taxon:it" : "Abete rosso",
+               "taxon" : "Picea abies",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 22,
                "ele" : 1540,
                "circumference" : 4.52,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -355,13 +381,13 @@
       "lon" : 12.627575,
       "tags" : {
                "ref" : "03/C790/PN/06",
-               "genus:it" : "Abete rosso",
-               "species" : "Picea abies (L.) H. Karst.",
+               "taxon:it" : "Abete rosso",
+               "taxon" : "Picea abies",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 33,
                "ele" : 1300,
                "circumference" : 4.02,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -372,13 +398,13 @@
       "lon" : 12.627916666666668,
       "tags" : {
                "ref" : "04/C790/PN/06",
-               "genus:it" : "Abete rosso",
-               "species" : "Picea abies (L.) H. Karst.",
+               "taxon:it" : "Abete rosso",
+               "taxon" : "Picea abies",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 27,
                "ele" : 1320,
                "circumference" : 4.42,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -389,8 +415,10 @@
       "lon" : 12.622616666666667,
       "tags" : {
                "ref" : "05/C790/PN/06",
-               "genus:it" : "Faggio",
-               "species" : "Fagus sylvatica L.",
+               "taxon:it" : "Faggio",
+               "taxon" : "Fagus sylvatica",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 29,
                "ele" : 1290,
                "circumference" : 4.05,
@@ -404,13 +432,13 @@
       "lon" : 12.674249999999999,
       "tags" : {
                "ref" : "01/D621/PN/06",
-               "genus:it" : "Farnia",
-               "species" : "Quercus robur L.",
+               "taxon:it" : "Farnia",
+               "taxon" : "Quercus robur",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 25,
                "ele" : 20,
                "circumference" : 5.45,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous and evergreen",
                "natural" : "tree"
                }
     }
@@ -421,8 +449,10 @@
       "lon" : 12.700991666666665,
       "tags" : {
                "ref" : "01/E889/PN/06",
-               "genus:it" : "Faggio",
-               "species" : "Fagus sylvatica L.",
+               "taxon:it" : "Faggio",
+               "taxon" : "Fagus sylvatica",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 35,
                "ele" : 341,
                "circumference" : 4.45,
@@ -436,13 +466,13 @@
       "lon" : 12.706430555555555,
       "tags" : {
                "ref" : "02/E889/PN/06",
-               "genus:it" : "Tuia gigante",
-               "species" : "Thuja plicata Donn ex D.Don",
+               "taxon:it" : "Tuia gigante",
+               "taxon" : "Thuja plicata",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 22,
                "ele" : 287,
                "circumference" : 4.35,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -453,8 +483,10 @@
       "lon" : 12.615808333333334,
       "tags" : {
                "ref" : "01/G886/PN/06",
-               "genus:it" : "Albero dei tulipani",
-               "species" : "Liriodendron tulipifera L.",
+               "taxon:it" : "Albero dei tulipani",
+               "taxon" : "Liriodendron tulipifera",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 32,
                "ele" : 30,
                "circumference" : 4.55,
@@ -468,8 +500,10 @@
       "lon" : 12.617894444444445,
       "tags" : {
                "ref" : "02/G886/PN/06",
-               "genus:it" : "Bagolaro",
-               "species" : "Celtis australis L.",
+               "taxon:it" : "Bagolaro",
+               "taxon" : "Celtis australis",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "broadleaved",
                "height" : 22,
                "ele" : 25,
                "circumference" : 4.5,
@@ -483,8 +517,10 @@
       "lon" : 12.616297222222222,
       "tags" : {
                "ref" : "03/G886/PN/06",
-               "genus:it" : "Magnolia",
-               "species" : "Magnolia grandiflora L.",
+               "taxon:it" : "Magnolia",
+               "taxon" : "Magnolia grandiflora",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 15,
                "ele" : 25,
                "circumference" : 2.45,
@@ -499,13 +535,13 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "01/I621/PN/06",
-               "genus:it" : "Farnia",
-               "species" : "Quercus robur L.",
+               "taxon:it" : "Farnia",
+               "taxon" : "Quercus robur",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 21,
                "ele" : 190,
                "circumference" : 3.61,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous and evergreen",
                "natural" : "tree"
                }
     }
@@ -516,8 +552,10 @@
       "lon" : 13.624411111111112,
       "tags" : {
                "ref" : "01/D383/TS/06",
-               "genus:it" : "Terebinto",
-               "species" : "Pistacia terebinthus L.",
+               "taxon:it" : "Terebinto",
+               "taxon" : "Pistacia terebinthus",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "broadleaved",
                "height" : 7,
                "ele" : 60,
                "circumference" : 0.92,
@@ -531,13 +569,13 @@
       "lon" : 13.629644444444445,
       "tags" : {
                "ref" : "02/D383/TS/06",
-               "genus:it" : "Cipresso di Monterey",
-               "species" : "Cupressus macrocarpa Hartw.",
+               "taxon:it" : "Cipresso di Monterey",
+               "taxon" : "Cupressus macrocarpa",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 28,
                "ele" : 40,
                "circumference" : 3.2,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -548,8 +586,10 @@
       "lon" : 13.766977777777779,
       "tags" : {
                "ref" : "01/F795/TS/06",
-               "genus:it" : "Salice bianco",
-               "species" : "Salix alba L.",
+               "taxon:it" : "Salice bianco",
+               "taxon" : "Salix alba",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 17,
                "ele" : 50,
                "circumference" : 4.1,
@@ -563,8 +603,10 @@
       "lon" : 13.713161111111111,
       "tags" : {
                "ref" : "01/L424/TS/06",
-               "genus:it" : "Corbezzolo",
-               "species" : "Arbutus unedo L.",
+               "taxon:it" : "Corbezzolo",
+               "taxon" : "Arbutus unedo",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "broadleaved",
                "height" : 12,
                "ele" : 10,
                "circumference" : 2.04,
@@ -578,13 +620,13 @@
       "lon" : 13.712880555555556,
       "tags" : {
                "ref" : "02/L424/TS/06",
-               "genus:it" : "Leccio",
-               "species" : "Quercus ilex L.",
+               "taxon:it" : "Leccio",
+               "taxon" : "Quercus ilex",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 28,
                "ele" : 5,
                "circumference" : "267-250-230",
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous and evergreen",
                "natural" : "tree"
                }
     }
@@ -595,13 +637,13 @@
       "lon" : 13.705047222222221,
       "tags" : {
                "ref" : "03/L424/TS/06",
-               "genus:it" : "Cipresso comune",
-               "species" : "Cupressus sempervirens L.",
+               "taxon:it" : "Cipresso comune",
+               "taxon" : "Cupressus sempervirens",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 18,
                "ele" : 10,
                "circumference" : 4.1,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -612,13 +654,13 @@
       "lon" : 13.803552777777778,
       "tags" : {
                "ref" : "04/L424/TS/06",
-               "genus:it" : "Cerro",
-               "species" : "Quercus cerris L.",
+               "taxon:it" : "Cerro",
+               "taxon" : "Quercus cerris",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 35,
                "ele" : 300,
                "circumference" : 3.1,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous and evergreen",
                "natural" : "tree"
                }
     }
@@ -629,13 +671,13 @@
       "lon" : 13.815258333333334,
       "tags" : {
                "ref" : "05/L424/TS/06",
-               "genus:it" : "Pino d'Aleppo",
-               "species" : "Pinus halepensis Mill.",
+               "taxon:it" : "Pino d'Aleppo",
+               "taxon" : "Pinus halepensis",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "broadleaved",
                "height" : 18,
                "ele" : 200,
                "circumference" : 3.6,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -646,13 +688,13 @@
       "lon" : 13.71641111111111,
       "tags" : {
                "ref" : "06/L424/TS/06",
-               "genus:it" : "Pino grigio",
-               "species" : "Pinus sabiniana Dougl.",
+               "taxon:it" : "Pino grigio",
+               "taxon" : "Pinus sabiniana",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "broadleaved",
                "height" : 20,
                "ele" : 10,
                "circumference" : 2.5,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -663,8 +705,10 @@
       "lon" : 13.784094444444444,
       "tags" : {
                "ref" : "07/L424/TS/06",
-               "genus:it" : "Platano comune",
-               "species" : "Platanus acerifolia (Aiton) Willd.",
+               "taxon:it" : "Platano comune",
+               "taxon" : "Platanus acerifolia",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 28,
                "ele" : 15,
                "circumference" : 5.2,
@@ -678,8 +722,10 @@
       "lon" : 13.784372222222222,
       "tags" : {
                "ref" : "08/L424/TS/06",
-               "genus:it" : "Platano comune",
-               "species" : "Platanus acerifolia (Aiton) Willd.",
+               "taxon:it" : "Platano comune",
+               "taxon" : "Platanus acerifolia",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 31,
                "ele" : 15,
                "circumference" : 5.25,
@@ -693,13 +739,13 @@
       "lon" : 13.796788888888889,
       "tags" : {
                "ref" : "09/L424/TS/06",
-               "genus:it" : "Roverella",
-               "species" : "Quercus pubescens Willd.",
+               "taxon:it" : "Roverella",
+               "taxon" : "Quercus pubescens",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 28,
                "ele" : 120,
                "circumference" : 4.1,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous and evergreen",
                "natural" : "tree"
                }
     }
@@ -710,13 +756,13 @@
       "lon" : 13.805216666666668,
       "tags" : {
                "ref" : "10/L424/TS/06",
-               "genus:it" : "Roverella",
-               "species" : "Quercus pubescens Willd.",
+               "taxon:it" : "Roverella",
+               "taxon" : "Quercus pubescens",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 15,
                "ele" : 90,
                "circumference" : 4.2,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous and evergreen",
                "natural" : "tree"
                }
     }
@@ -727,13 +773,13 @@
       "lon" : 13.713608333333333,
       "tags" : {
                "ref" : "11/L424/TS/06",
-               "genus:it" : "Sequoia sempreverde",
-               "species" : "Sequoia sempervirens (D. Don) Endl",
+               "taxon:it" : "Sequoia sempreverde",
+               "taxon" : "Sequoia sempervirens",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "needleleaved",
                "height" : 30,
                "ele" : 10,
                "circumference" : 4.25,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -744,8 +790,10 @@
       "lon" : 13.80185,
       "tags" : {
                "ref" : "12/L424/TS/06",
-               "genus:it" : "Olmo del Caucaso",
-               "species" : "Zelkova carpinifolia (Pall.) K. Koch",
+               "taxon:it" : "Olmo del Caucaso",
+               "taxon" : "Zelkova carpinifolia",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 20,
                "ele" : 105,
                "circumference" : 3.43,
@@ -759,11 +807,12 @@
       "lon" : 13.872322222222223,
       "tags" : {
                "ref" : "13/L424/TS/06",
-               "genus:it" : "Cerro",
-               "species" : "Insieme omogeneo di Quercus cerris L.",
+               "taxon:it" : "Cerro",
+               "taxon" : "Quercus cerris",
                "height" : 20,
                "ele" : 440,
                "circumference" : 3.6,
+               "areal" : "yes",
                "natural" : "tree"
                }
     }
@@ -774,13 +823,13 @@
       "lon" : 13.858513888888888,
       "tags" : {
                "ref" : "14/L424/TS/06",
-               "genus:it" : "Tiglio selvatico",
-               "species" : "Tilia cordata Mill.",
+               "taxon:it" : "Tiglio selvatico",
+               "taxon" : "Tilia cordata",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 12,
                "ele" : 430,
                "circumference" : 4.03,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous",
                "natural" : "tree"
                }
     }
@@ -791,8 +840,8 @@
       "lon" : 13.786727777777777,
       "tags" : {
                "ref" : "15/L424/TS/06",
-               "genus:it" : "Sofora del Giappone",
-               "species" : "Sthyphnolobium japonicum  L.",
+               "taxon:it" : "Sofora del Giappone",
+               "taxon" : "Sthyphnolobium japonicum",
                "height" : 15,
                "ele" : 325,
                "circumference" : 3.03,
@@ -806,13 +855,13 @@
       "lon" : 12.776833333333334,
       "tags" : {
                "ref" : "01/A267/UD/06",
-               "genus:it" : "Larice",
-               "species" : "Larix decidua Mill.",
+               "taxon:it" : "Larice",
+               "taxon" : "Larix decidua",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "needleleaved",
                "height" : 27,
                "ele" : 1623,
                "circumference" : 4.94,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen and deciduous",
                "natural" : "tree"
                }
     }
@@ -823,13 +872,13 @@
       "lon" : 13.306236111111112,
       "tags" : {
                "ref" : "01/A491/UD/06",
-               "genus:it" : "Tuia gigante",
-               "species" : "Thuja plicata Donn ex D.Don",
+               "taxon:it" : "Tuia gigante",
+               "taxon" : "Thuja plicata",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 35,
                "ele" : 193,
                "circumference" : 5.4,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -840,13 +889,13 @@
       "lon" : 13.306222222222223,
       "tags" : {
                "ref" : "02/A491/UD/06",
-               "genus:it" : "Tuia gigante",
-               "species" : "Thuja plicata Donn ex D.Don",
+               "taxon:it" : "Tuia gigante",
+               "taxon" : "Thuja plicata",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 35,
                "ele" : 193,
                "circumference" : 6,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -857,8 +906,10 @@
       "lon" : 13.305475000000001,
       "tags" : {
                "ref" : "03/A491/UD/06",
-               "genus:it" : "Platano comune",
-               "species" : "Platanus acerifolia (Aiton) Willd.",
+               "taxon:it" : "Platano comune",
+               "taxon" : "Platanus acerifolia",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 21.5,
                "ele" : 190,
                "circumference" : 4.7,
@@ -873,14 +924,14 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "04/A491/UD/06",
-               "genus:it" : "Farnia",
-               "species" : "Quercus robur L.",
+               "taxon:it" : "Farnia",
+               "taxon" : "Quercus robur",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 31,
                "ele" : 225,
                "circumference" : 6.6,
                "denotation" : "natural_monument",
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous and evergreen",
                "natural" : "tree"
                }
     }
@@ -891,8 +942,10 @@
       "lon" : 13.076711111111111,
       "tags" : {
                "ref" : "01/A700/UD/06",
-               "genus:it" : "Bagolaro",
-               "species" : "Celtis australis L.",
+               "taxon:it" : "Bagolaro",
+               "taxon" : "Celtis australis",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "broadleaved",
                "height" : 18,
                "ele" : 60,
                "circumference" : 4,
@@ -906,8 +959,10 @@
       "lon" : 13.068444444444443,
       "tags" : {
                "ref" : "02/A700/UD/06",
-               "genus:it" : "Sofora del Giappone",
-               "species" : "Styphnolobium japonicum (L.) Schott",
+               "taxon:it" : "Sofora del Giappone",
+               "taxon" : "Styphnolobium japonicum",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 18,
                "ele" : 70,
                "circumference" : 3.78,
@@ -921,8 +976,10 @@
       "lon" : 13.081480555555554,
       "tags" : {
                "ref" : "03/A700/UD/06",
-               "genus:it" : "Gelso nero",
-               "species" : "Morus nigra L.",
+               "taxon:it" : "Gelso nero",
+               "taxon" : "Morus nigra",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 8,
                "ele" : 60,
                "circumference" : 3.38,
@@ -937,11 +994,12 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "04/A700/UD/06",
-               "genus:it" : "Tiglio selvatico",
-               "species" : "Insieme omogeneo di Tilia cordata Mill.",
+               "taxon:it" : "Tiglio selvatico",
+               "taxon" : "Tilia cordata",
                "height" : 24,
                "ele" : 81,
                "circumference" : 2.45,
+               "areal" : "yes",
                "natural" : "tree"
                }
     }
@@ -952,14 +1010,14 @@
       "lon" : 13.051747222222223,
       "tags" : {
                "ref" : "01/A810/UD/06",
-               "genus:it" : "Farnia",
-               "species" : "Quercus robur L.",
+               "taxon:it" : "Farnia",
+               "taxon" : "Quercus robur",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 21,
                "ele" : 18,
                "circumference" : 7.8,
                "denotation" : "natural_monument",
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous and evergreen",
                "natural" : "tree"
                }
     }
@@ -970,13 +1028,13 @@
       "lon" : 13.427225,
       "tags" : {
                "ref" : "01/C758/UD/06",
-               "genus:it" : "Pino nero",
-               "species" : "Pinus nigra J.F. Arnold",
+               "taxon:it" : "Pino nero",
+               "taxon" : "Pinus nigra",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "broadleaved",
                "height" : 25,
                "ele" : 130,
                "circumference" : 3.95,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -987,13 +1045,13 @@
       "lon" : 13.42888611111111,
       "tags" : {
                "ref" : "02/C758/UD/06",
-               "genus:it" : "Ginco",
-               "species" : "Ginkgo biloba L.",
+               "taxon:it" : "Ginco",
+               "taxon" : "Ginkgo biloba",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 25,
                "ele" : 130,
                "circumference" : 3.5,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous",
                "natural" : "tree"
                }
     }
@@ -1004,8 +1062,10 @@
       "lon" : 13.451441666666666,
       "tags" : {
                "ref" : "05/C758/UD/06",
-               "genus:it" : "Gelso nero",
-               "species" : "Morus nigra L.",
+               "taxon:it" : "Gelso nero",
+               "taxon" : "Morus nigra",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 5.5,
                "ele" : 140,
                "circumference" : 2.4,
@@ -1019,8 +1079,8 @@
       "lon" : 13.442544444444446,
       "tags" : {
                "ref" : "06/C758/UD/06",
-               "genus:it" : "Vite",
-               "species" : "Vitis vinifera L.",
+               "taxon:it" : "Vite",
+               "taxon" : "Vitis vinifera",
                "height" : 2.5,
                "ele" : 140,
                "circumference" : 0.68,
@@ -1034,8 +1094,10 @@
       "lon" : 13.008244444444445,
       "tags" : {
                "ref" : "01/C817/UD/06",
-               "genus:it" : "Bagolaro",
-               "species" : "Celtis australis L.",
+               "taxon:it" : "Bagolaro",
+               "taxon" : "Celtis australis",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "broadleaved",
                "height" : 21,
                "ele" : 35,
                "circumference" : 4.56,
@@ -1049,13 +1111,13 @@
       "lon" : 13.009377777777777,
       "tags" : {
                "ref" : "02/C817/UD/06",
-               "genus:it" : "Cedro dell'Himalaya",
-               "species" : "Cedrus deodara (D.Don) G.Don",
+               "taxon:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara ",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 21,
                "ele" : 35,
                "circumference" : 4.75,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1066,8 +1128,10 @@
       "lon" : 13.012477777777777,
       "tags" : {
                "ref" : "03/C817/UD/06",
-               "genus:it" : "Magnolia",
-               "species" : "Magnolia grandiflora L.",
+               "taxon:it" : "Magnolia",
+               "taxon" : "Magnolia grandiflora",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 15,
                "ele" : 35,
                "circumference" : 1.9,
@@ -1081,8 +1145,10 @@
       "lon" : 13.008569444444445,
       "tags" : {
                "ref" : "04/C817/UD/06",
-               "genus:it" : "Paulonia",
-               "species" : "Paulownia tomentosa (Thunb.) Steud.",
+               "taxon:it" : "Paulonia",
+               "taxon" : "Paulownia tomentosa",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 19,
                "ele" : 35,
                "circumference" : 4.2,
@@ -1096,13 +1162,13 @@
       "lon" : 13.00891111111111,
       "tags" : {
                "ref" : "05/C817/UD/06",
-               "genus:it" : "Abete del Caucaso",
-               "species" : "Abies nordmanniana (Steven) Spach",
+               "taxon:it" : "Abete del Caucaso",
+               "taxon" : "Abies nordmanniana",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 32,
                "ele" : 35,
                "circumference" : 3.95,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1113,13 +1179,13 @@
       "lon" : 13.011780555555555,
       "tags" : {
                "ref" : "06/C817/UD/06",
-               "genus:it" : "Ginco",
-               "species" : "Ginkgo biloba L.",
+               "taxon:it" : "Ginco",
+               "taxon" : "Ginkgo biloba",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 25,
                "ele" : 35,
                "circumference" : 2.5,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous",
                "natural" : "tree"
                }
     }
@@ -1130,8 +1196,8 @@
       "lon" : 13.012688888888889,
       "tags" : {
                "ref" : "07/C817/UD/06",
-               "genus:it" : "Spino di Giuda",
-               "species" : "Gleditzia triacanthos L.",
+               "taxon:it" : "Spino di Giuda",
+               "taxon" : "Gleditzia triacanthos",
                "height" : 20,
                "ele" : 35,
                "circumference" : 2.9,
@@ -1145,13 +1211,13 @@
       "lon" : 13.011877777777778,
       "tags" : {
                "ref" : "08/C817/UD/06",
-               "genus:it" : "Tasso",
-               "species" : "Taxus baccata L.",
+               "taxon:it" : "Tasso",
+               "taxon" : "Taxus baccata",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "broadleaved",
                "height" : 16,
                "ele" : 35,
                "circumference" : 4.1,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1162,8 +1228,10 @@
       "lon" : 13.008994444444445,
       "tags" : {
                "ref" : "09/C817/UD/06",
-               "genus:it" : "Platano comune",
-               "species" : "Platanus acerifolia (Aiton) Willd.",
+               "taxon:it" : "Platano comune",
+               "taxon" : "Platanus acerifolia",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 30,
                "ele" : 35,
                "circumference" : 4.3,
@@ -1177,8 +1245,10 @@
       "lon" : 13.009602777777777,
       "tags" : {
                "ref" : "10/C817/UD/06",
-               "genus:it" : "Ippocastano",
-               "species" : "Aesculus hippocastanum L.",
+               "taxon:it" : "Ippocastano",
+               "taxon" : "Aesculus hippocastanum",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 22,
                "ele" : 35,
                "circumference" : 4.09,
@@ -1192,13 +1262,13 @@
       "lon" : 13.009130555555556,
       "tags" : {
                "ref" : "11/C817/UD/06",
-               "genus:it" : "Cedro dell'Himalaya",
-               "species" : "Cedrus deodara (D.Don) G.Don",
+               "taxon:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara ",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 21,
                "ele" : 35,
                "circumference" : 4.95,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1209,8 +1279,10 @@
       "lon" : 12.832097222222222,
       "tags" : {
                "ref" : "01/D408/UD/06",
-               "genus:it" : "Faggio",
-               "species" : "Fagus sylvatica L.",
+               "taxon:it" : "Faggio",
+               "taxon" : "Fagus sylvatica",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 17,
                "ele" : 953,
                "circumference" : 3.45,
@@ -1224,13 +1296,13 @@
       "lon" : 13.133875,
       "tags" : {
                "ref" : "01/E584/UD/06",
-               "genus:it" : "Pino d'Aleppo",
-               "species" : "Pinus halepensis Mill.",
+               "taxon:it" : "Pino d'Aleppo",
+               "taxon" : "Pinus halepensis",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "broadleaved",
                "height" : 15,
                "ele" : 1,
                "circumference" : 2.13,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1241,13 +1313,13 @@
       "lon" : 13.13968888888889,
       "tags" : {
                "ref" : "02/E584/UD/06",
-               "genus:it" : "Roverella",
-               "species" : "Quercus pubescens Willd.",
+               "taxon:it" : "Roverella",
+               "taxon" : "Quercus pubescens",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 10,
                "ele" : 1,
                "circumference" : 2.5,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous and evergreen",
                "natural" : "tree"
                }
     }
@@ -1258,14 +1330,14 @@
       "lon" : 13.438766666666666,
       "tags" : {
                "ref" : "01/E847/UD/06",
-               "genus:it" : "Tiglio selvatico",
-               "species" : "Tilia cordata Mill.",
+               "taxon:it" : "Tiglio selvatico",
+               "taxon" : "Tilia cordata",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 22,
                "ele" : 720,
                "circumference" : 6.63,
                "denotation" : "natural_monument",
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous",
                "natural" : "tree"
                }
     }
@@ -1276,13 +1348,13 @@
       "lon" : 13.159766666666666,
       "tags" : {
                "ref" : "01/F760/UD/06",
-               "genus:it" : "Ginco",
-               "species" : "Ginkgo biloba L.",
+               "taxon:it" : "Ginco",
+               "taxon" : "Ginkgo biloba",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 27,
                "ele" : 212,
                "circumference" : 4.1,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous",
                "natural" : "tree"
                }
     }
@@ -1293,8 +1365,10 @@
       "lon" : 13.159786111111112,
       "tags" : {
                "ref" : "02/F760/UD/06",
-               "genus:it" : "Noce nero",
-               "species" : "Juglans nigra L.",
+               "taxon:it" : "Noce nero",
+               "taxon" : "Juglans nigra",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 25,
                "ele" : 213,
                "circumference" : 3.6,
@@ -1308,8 +1382,10 @@
       "lon" : 13.159247222222223,
       "tags" : {
                "ref" : "03/F760/UD/06",
-               "genus:it" : "Ippocastano",
-               "species" : "Aesculus hippocastanum L.",
+               "taxon:it" : "Ippocastano",
+               "taxon" : "Aesculus hippocastanum",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 26,
                "ele" : 213,
                "circumference" : 3.7,
@@ -1324,11 +1400,12 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "01/G300/UD/06",
-               "genus:it" : "Faggio",
-               "species" : "Insieme omogeneo di Fagus sylvatica L.",
+               "taxon:it" : "Faggio",
+               "taxon" : "Fagus sylvatica",
                "height" : 25,
                "ele" : 900,
                "circumference" : 4.5,
+               "areal" : "yes",
                "natural" : "tree"
                }
     }
@@ -1339,13 +1416,13 @@
       "lon" : 13.116736111111111,
       "tags" : {
                "ref" : "01/G381/UD/06\n",
-               "genus:it" : "Abete bianco",
-               "species" : "Abies alba Mill.",
+               "taxon:it" : "Abete bianco",
+               "taxon" : "Abies alba",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 35,
                "ele" : 1148,
                "circumference" : 3.8,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1356,13 +1433,13 @@
       "lon" : 13.11075,
       "tags" : {
                "ref" : "02/G381/UD/06\n",
-               "genus:it" : "Abete rosso",
-               "species" : "Picea abies (L.) H. Karst.",
+               "taxon:it" : "Abete rosso",
+               "taxon" : "Picea abies",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 49,
                "ele" : 993,
                "circumference" : 3.65,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1373,13 +1450,13 @@
       "lon" : 13.305991666666667,
       "tags" : {
                "ref" : "01/G831/UD/06",
-               "genus:it" : "Tiglio selvatico",
-               "species" : "Tilia cordata Mill.",
+               "taxon:it" : "Tiglio selvatico",
+               "taxon" : "Tilia cordata",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 25,
                "ele" : 650,
                "circumference" : 3.9,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous",
                "natural" : "tree"
                }
     }
@@ -1390,8 +1467,10 @@
       "lon" : 13.313933333333335,
       "tags" : {
                "ref" : "02/G831/UD/06",
-               "genus:it" : "Pero domestico",
-               "species" : "Pyrus communis L.",
+               "taxon:it" : "Pero domestico",
+               "taxon" : "Pyrus communis",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 18,
                "ele" : 647,
                "circumference" : 2.48,
@@ -1405,8 +1484,10 @@
       "lon" : 13.302502777777779,
       "tags" : {
                "ref" : "03/G831/UD/06",
-               "genus:it" : "Noce comune",
-               "species" : "Juglans regia L.",
+               "taxon:it" : "Noce comune",
+               "taxon" : "Juglans regia",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 18,
                "ele" : 630,
                "circumference" : 2.92,
@@ -1420,13 +1501,13 @@
       "lon" : 13.429008333333332,
       "tags" : {
                "ref" : "01/H029/UD/06",
-               "genus:it" : "Cipresso comune",
-               "species" : "Cupressus sempervirens L.",
+               "taxon:it" : "Cipresso comune",
+               "taxon" : "Cupressus sempervirens",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 20.5,
                "ele" : 150,
                "circumference" : 5.3,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1437,13 +1518,13 @@
       "lon" : 13.429363888888888,
       "tags" : {
                "ref" : "02/H029/UD/06",
-               "genus:it" : "Cipresso comune",
-               "species" : "Cupressus sempervirens L.",
+               "taxon:it" : "Cipresso comune",
+               "taxon" : "Cupressus sempervirens",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 21,
                "ele" : 150,
                "circumference" : 5,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1454,8 +1535,8 @@
       "lon" : 13.429488888888889,
       "tags" : {
                "ref" : "03/H029/UD/06",
-               "genus:it" : "Glicine",
-               "species" : "Wisteria sinensis (Sims) Sweet",
+               "taxon:it" : "Glicine",
+               "taxon" : "Wisteria sinensis",
                "height" : 4.5,
                "ele" : 150,
                "circumference" : 1.8,
@@ -1469,13 +1550,13 @@
       "lon" : 13.42933611111111,
       "tags" : {
                "ref" : "04/H029/UD/06",
-               "genus:it" : "Tuia gigante",
-               "species" : "Thuja plicata Donn ex D.Don",
+               "taxon:it" : "Tuia gigante",
+               "taxon" : "Thuja plicata",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 15,
                "ele" : 150,
                "circumference" : 3.3,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1487,8 +1568,10 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "01/H089/UD/06",
-               "genus:it" : "Castagno",
-               "species" : "Castanea sativa Mill.",
+               "taxon:it" : "Castagno",
+               "taxon" : "Castanea sativa",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 19,
                "ele" : 620,
                "circumference" : 7.83,
@@ -1502,8 +1585,10 @@
       "lon" : 13.464316666666665,
       "tags" : {
                "ref" : "02/H089/UD/06",
-               "genus:it" : "Castagno",
-               "species" : "Castanea sativa Mill.",
+               "taxon:it" : "Castagno",
+               "taxon" : "Castanea sativa",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 24,
                "ele" : 540,
                "circumference" : 5.2,
@@ -1517,8 +1602,10 @@
       "lon" : 12.826841666666667,
       "tags" : {
                "ref" : "01/H200/UD/06",
-               "genus:it" : "Pero selvatico",
-               "species" : "Pyrus pyraster (L.) Burgsd",
+               "taxon:it" : "Pero selvatico",
+               "taxon" : "Pyrus pyraster",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 15,
                "ele" : 1004,
                "circumference" : 2.54,
@@ -1532,8 +1619,10 @@
       "lon" : 13.548919444444444,
       "tags" : {
                "ref" : "01/H951/UD/06",
-               "genus:it" : "Betulla verrucosa",
-               "species" : "Betula pendula Roth",
+               "taxon:it" : "Betulla verrucosa",
+               "taxon" : "Betula pendula",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 23,
                "ele" : 580,
                "circumference" : 2.35,
@@ -1547,8 +1636,10 @@
       "lon" : 13.532219444444445,
       "tags" : {
                "ref" : "02/H951/UD/06",
-               "genus:it" : "Castagno",
-               "species" : "Castanea sativa Mill.",
+               "taxon:it" : "Castagno",
+               "taxon" : "Castanea sativa",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 24,
                "ele" : 530,
                "circumference" : 5.6,
@@ -1562,8 +1653,10 @@
       "lon" : 13.531055555555556,
       "tags" : {
                "ref" : "01/I479/UD/06",
-               "genus:it" : "Faggio",
-               "species" : "Fagus sylvatica L.",
+               "taxon:it" : "Faggio",
+               "taxon" : "Fagus sylvatica",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 29,
                "ele" : 920,
                "circumference" : 4.2,
@@ -1577,13 +1670,13 @@
       "lon" : 13.13886111111111,
       "tags" : {
                "ref" : "01/L039/UD/06",
-               "genus:it" : "Cedro dell'Himalaya",
-               "species" : "Cedrus deodara (D.Don) G.Don",
+               "taxon:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara ",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 28,
                "ele" : 30,
                "circumference" : 5.74,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1594,8 +1687,10 @@
       "lon" : 13.22285,
       "tags" : {
                "ref" : "01/L050/UD/06",
-               "genus:it" : "Platano orientale",
-               "species" : "Platanus orientalis L.",
+               "taxon:it" : "Platano orientale",
+               "taxon" : "Platanus orientalis",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 30,
                "ele" : 230,
                "circumference" : 5.5,
@@ -1609,8 +1704,10 @@
       "lon" : 13.225041666666666,
       "tags" : {
                "ref" : "02/L050/UD/06",
-               "genus:it" : "Pioppo nero",
-               "species" : "Populus nigra L.",
+               "taxon:it" : "Pioppo nero",
+               "taxon" : "Populus nigra",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 24,
                "ele" : 230,
                "circumference" : 4.5,
@@ -1625,12 +1722,13 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "01/L057/UD/06",
-               "genus:it" : "Pero selvatico",
-               "species" : "Insieme omogeneo di                                        Pyrus pyraster (L.) Burgsd.",
+               "taxon:it" : "Pero selvatico",
+               "taxon" : " ",
                "height" : 18,
                "ele" : 802,
                "circumference" : 3,
                "denotation" : "natural_monument",
+               "areal" : "yes",
                "natural" : "tree"
                }
     }
@@ -1641,13 +1739,13 @@
       "lon" : 13.535155555555555,
       "tags" : {
                "ref" : "02/L057/UD/06",
-               "genus:it" : "Larice",
-               "species" : "Larix decidua Mill.",
+               "taxon:it" : "Larice",
+               "taxon" : "Larix decidua",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "needleleaved",
                "height" : 27,
                "ele" : 1570,
                "circumference" : 5.31,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen and deciduous",
                "natural" : "tree"
                }
     }
@@ -1658,13 +1756,13 @@
       "lon" : 13.536072222222222,
       "tags" : {
                "ref" : "03/L057/UD/06",
-               "genus:it" : "Abete rosso",
-               "species" : "Picea abies (L.) H. Karst.",
+               "taxon:it" : "Abete rosso",
+               "taxon" : "Picea abies",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 31,
                "ele" : 1573,
                "circumference" : 4.45,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1675,13 +1773,13 @@
       "lon" : 13.535683333333333,
       "tags" : {
                "ref" : "04/L057/UD/06",
-               "genus:it" : "Abete rosso",
-               "species" : "Picea abies (L.) H. Karst.",
+               "taxon:it" : "Abete rosso",
+               "taxon" : "Picea abies",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 32,
                "ele" : 1573,
                "circumference" : 5.45,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1692,8 +1790,10 @@
       "lon" : 13.536486111111111,
       "tags" : {
                "ref" : "05/L057/UD/06",
-               "genus:it" : "Acero di monte",
-               "species" : "Acer pseudoplatanus L.",
+               "taxon:it" : "Acero di monte",
+               "taxon" : "Acer pseudoplatanus",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 11,
                "ele" : 1310,
                "circumference" : 4.5,
@@ -1707,8 +1807,10 @@
       "lon" : 13.686766666666667,
       "tags" : {
                "ref" : "06/L057/UD/06",
-               "genus:it" : "Acero di monte",
-               "species" : "Acer pseudoplatanus L.",
+               "taxon:it" : "Acero di monte",
+               "taxon" : "Acer pseudoplatanus",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 29.5,
                "ele" : 868,
                "circumference" : 4.45,
@@ -1722,8 +1824,10 @@
       "lon" : 13.624347222222223,
       "tags" : {
                "ref" : "07/L057/UD/06",
-               "genus:it" : "Noce comune",
-               "species" : "Juglans regia L.",
+               "taxon:it" : "Noce comune",
+               "taxon" : "Juglans regia",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 19,
                "ele" : 770,
                "circumference" : 4.05,
@@ -1738,13 +1842,13 @@
       "tags" : {
                "historic" : "yes",
                "ref" : "08/L057/UD/06",
-               "genus:it" : "Tiglio selvatico",
-               "species" : "Tilia cordata Mill.",
+               "taxon:it" : "Tiglio selvatico",
+               "taxon" : "Tilia cordata",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 25,
                "ele" : 800,
                "circumference" : 3.3,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous",
                "natural" : "tree"
                }
     }
@@ -1755,8 +1859,10 @@
       "lon" : 13.568297222222222,
       "tags" : {
                "ref" : "09/L057/UD/06",
-               "genus:it" : "Salice bianco",
-               "species" : "Salix alba L.",
+               "taxon:it" : "Salice bianco",
+               "taxon" : "Salix alba",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 23,
                "ele" : 752,
                "circumference" : 4.45,
@@ -1770,13 +1876,13 @@
       "lon" : 13.585497222222223,
       "tags" : {
                "ref" : "10/L057/UD/06",
-               "genus:it" : "Abete bianco",
-               "species" : "Abies alba Mill.",
+               "taxon:it" : "Abete bianco",
+               "taxon" : "Abies alba",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 35,
                "ele" : 1270,
                "circumference" : 4.95,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1787,13 +1893,13 @@
       "lon" : 13.547816666666666,
       "tags" : {
                "ref" : "11/L057/UD/06",
-               "genus:it" : "Abete rosso",
-               "species" : "Picea abies (L.) H. Karst.",
+               "taxon:it" : "Abete rosso",
+               "taxon" : "Picea abies",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 36,
                "ele" : 1450,
                "circumference" : 4.9,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1804,8 +1910,10 @@
       "lon" : 13.598694444444446,
       "tags" : {
                "ref" : "12/L057/UD/06",
-               "genus:it" : "Olmo montano",
-               "species" : "Ulmus glabra Huds.",
+               "taxon:it" : "Olmo montano",
+               "taxon" : "Ulmus glabra",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 30,
                "ele" : 800,
                "circumference" : 4.6,
@@ -1819,8 +1927,10 @@
       "lon" : 13.526375000000002,
       "tags" : {
                "ref" : "13/L057/UD/06",
-               "genus:it" : "Faggio",
-               "species" : "Fagus sylvatica L.",
+               "taxon:it" : "Faggio",
+               "taxon" : "Fagus sylvatica",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 32,
                "ele" : 841,
                "circumference" : 5.25,
@@ -1834,13 +1944,13 @@
       "lon" : 13.21525,
       "tags" : {
                "ref" : "01/L421/UD/06",
-               "genus:it" : "Cedro dell'Himalaya",
-               "species" : "Cedrus deodara (D.Don) G.Don",
+               "taxon:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara ",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 31,
                "ele" : 210,
                "circumference" : 4.5,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1851,8 +1961,8 @@
       "lon" : 13.211855555555555,
       "tags" : {
                "ref" : "02/L421/UD/06",
-               "genus:it" : "Glicine",
-               "species" : "Wisteria sinensis (Sims) Sweet",
+               "taxon:it" : "Glicine",
+               "taxon" : "Wisteria sinensis",
                "height" : 2.5,
                "ele" : 210,
                "circumference" : 1.6,
@@ -1866,8 +1976,10 @@
       "lon" : 13.218811111111112,
       "tags" : {
                "ref" : "03/L421/UD/06",
-               "genus:it" : "Pioppo canescente",
-               "species" : "Populus canescens (Aiton) Sm.",
+               "taxon:it" : "Pioppo canescente",
+               "taxon" : "Populus canescens",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 28,
                "ele" : 210,
                "circumference" : 3.7,
@@ -1881,11 +1993,12 @@
       "lon" : 13.218705555555555,
       "tags" : {
                "ref" : "04/L421/UD/06",
-               "genus:it" : "Cedro dell'Himalaya",
-               "species" : "Insieme omogeneo di Cedrus deodara (D.Don) G.Don",
+               "taxon:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara ",
                "height" : 25,
                "ele" : 210,
                "circumference" : 3.5,
+               "areal" : "yes",
                "natural" : "tree"
                }
     }
@@ -1896,13 +2009,13 @@
       "lon" : 13.219469444444444,
       "tags" : {
                "ref" : "06/L421/UD/06",
-               "genus:it" : "Cipresso di Monterey",
-               "species" : "Cupressus macrocarpa Hartw.",
+               "taxon:it" : "Cipresso di Monterey",
+               "taxon" : "Cupressus macrocarpa",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 20,
                "ele" : 210,
                "circumference" : 3.35,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1913,14 +2026,14 @@
       "lon" : 13.23651111111111,
       "tags" : {
                "ref" : "01/l483/UD/06",
-               "genus:it" : "Cedro dell'Himalaya",
-               "species" : "Cedrus deodara (D.Don) G.Don",
+               "taxon:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara ",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 30,
                "ele" : 222,
                "circumference" : 5.22,
                "denotation" : "natural_monument",
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1931,13 +2044,13 @@
       "lon" : 13.235888888888889,
       "tags" : {
                "ref" : "02/l483/UD/06",
-               "genus:it" : "Cedro dell'Himalaya",
-               "species" : "Cedrus deodara (D.Don) G.Don",
+               "taxon:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara ",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 28,
                "ele" : 223,
                "circumference" : 4.48,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1948,13 +2061,13 @@
       "lon" : 13.236749999999999,
       "tags" : {
                "ref" : "03/l483/UD/06",
-               "genus:it" : "Cedro dell'Himalaya",
-               "species" : "Cedrus deodara (D.Don) G.Don",
+               "taxon:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara ",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 27,
                "ele" : 225,
                "circumference" : 3.95,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1965,8 +2078,10 @@
       "lon" : 13.229019444444445,
       "tags" : {
                "ref" : "04/l483/UD/06",
-               "genus:it" : "Ippocastano",
-               "species" : "Aesculus hippocastanum L.",
+               "taxon:it" : "Ippocastano",
+               "taxon" : "Aesculus hippocastanum",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 22,
                "ele" : 220,
                "circumference" : 4.14,
@@ -1980,13 +2095,13 @@
       "lon" : 13.239552777777776,
       "tags" : {
                "ref" : "06/l483/UD/06",
-               "genus:it" : "Cedro dell'Himalaya",
-               "species" : "Cedrus deodara (D.Don) G.Don",
+               "taxon:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara ",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 25,
                "ele" : 173,
                "circumference" : 4.27,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -1997,14 +2112,14 @@
       "lon" : 13.23946111111111,
       "tags" : {
                "ref" : "07/l483/UD/06",
-               "genus:it" : "Farnia",
-               "species" : "Quercus robur L.",
+               "taxon:it" : "Farnia",
+               "taxon" : "Quercus robur",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 28,
                "ele" : 173,
                "circumference" : 4.3,
                "denotation" : "natural_monument",
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous and evergreen",
                "natural" : "tree"
                }
     }
@@ -2015,13 +2130,13 @@
       "lon" : 13.239763888888888,
       "tags" : {
                "ref" : "08/l483/UD/06",
-               "genus:it" : "Cedro dell'Atlante",
-               "species" : "Cedrus atlantica (Endl.) Manetti ex Carrière",
+               "taxon:it" : "Cedro dell'Atlante",
+               "taxon" : "Cedrus atlantica ",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 25,
                "ele" : 173,
                "circumference" : 4.73,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -2032,8 +2147,10 @@
       "lon" : 13.238902777777778,
       "tags" : {
                "ref" : "12/l483/UD/06",
-               "genus:it" : "Gelso bianco",
-               "species" : "Morus alba L.",
+               "taxon:it" : "Gelso bianco",
+               "taxon" : "Morus alba",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 13,
                "ele" : 171,
                "circumference" : 3.93,
@@ -2048,14 +2165,14 @@
       "lon" : 13.239252777777777,
       "tags" : {
                "ref" : "13/l483/UD/06",
-               "genus:it" : "Libocedro",
-               "species" : "Calocedrus decurrens (Torr.) Florin",
+               "taxon:it" : "Libocedro",
+               "taxon" : "Calocedrus decurrens",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 20,
                "ele" : 171,
                "circumference" : 6.94,
                "denotation" : "natural_monument",
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -2066,12 +2183,13 @@
       "lon" : 13.239777777777777,
       "tags" : {
                "ref" : "14/l483/UD/06",
-               "genus:it" : "Tasso del Giappone",
-               "species" : "Insieme omogeneo di Torreya nucifera Siebold & Zucc.",
+               "taxon:it" : "Tasso del Giappone",
+               "taxon" : "Torreya nucifera",
                "height" : 20,
                "ele" : 171,
                "circumference" : 3.2,
                "denotation" : "natural_monument",
+               "areal" : "yes",
                "natural" : "tree"
                }
     }
@@ -2082,13 +2200,13 @@
       "lon" : 13.229472222222222,
       "tags" : {
                "ref" : "16/l483/UD/06",
-               "genus:it" : "Cedro dell'Himalaya",
-               "species" : "Cedrus deodara (D.Don) G.Don",
+               "taxon:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara ",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 31,
                "ele" : 172,
                "circumference" : 5.7,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -2099,14 +2217,14 @@
       "lon" : 13.228163888888888,
       "tags" : {
                "ref" : "17/l483/UD/06",
-               "genus:it" : "Cedro dell'Himalaya",
-               "species" : "Cedrus deodara (D.Don) G.Don",
+               "taxon:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara ",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 35,
                "ele" : 172,
                "circumference" : 6.1,
                "denotation" : "natural_monument",
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -2117,13 +2235,13 @@
       "lon" : 13.227766666666668,
       "tags" : {
                "ref" : "18/l483/UD/06",
-               "genus:it" : "Cedro dell'Himalaya",
-               "species" : "Cedrus deodara (D.Don) G.Don",
+               "taxon:it" : "Cedro dell'Himalaya",
+               "taxon" : "Cedrus deodara ",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 32,
                "ele" : 172,
                "circumference" : 4.3,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -2134,8 +2252,10 @@
       "lon" : 13.237222222222222,
       "tags" : {
                "ref" : "22/l483/UD/06",
-               "genus:it" : "Bagolaro",
-               "species" : "Celtis australis L.",
+               "taxon:it" : "Bagolaro",
+               "taxon" : "Celtis australis",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "broadleaved",
                "height" : 22,
                "ele" : 224,
                "circumference" : 4.48,
@@ -2149,8 +2269,10 @@
       "lon" : 13.246452777777776,
       "tags" : {
                "ref" : "23/l483/UD/06",
-               "genus:it" : "Platano comune",
-               "species" : "Platanus acerifolia (Aiton) Willd.",
+               "taxon:it" : "Platano comune",
+               "taxon" : "Platanus acerifolia",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 32,
                "ele" : 172,
                "circumference" : 5.08,
@@ -2165,12 +2287,14 @@
       "lon" : 13.236019444444443,
       "tags" : {
                "ref" : "25/l483/UD/06",
-               "genus:it" : "Eleagno ibrido",
-               "species" : "Insieme omogeneo di Elaeagnus x reflexa E. Morren. & Decne",
+               "taxon:it" : "Eleagno ibrido",
+               "taxon" : "Elaeagnus x",
+               "leaf_cycle" : "evergreen",
                "height" : 8,
                "ele" : 175,
                "circumference" : "n. 40 esemplari con piccole circonferenze dei fusti",
                "denotation" : "natural_monument",
+               "areal" : "yes",
                "natural" : "tree"
                }
     }
@@ -2181,8 +2305,10 @@
       "lon" : 13.186380555555555,
       "tags" : {
                "ref" : "26/l483/UD/06",
-               "genus:it" : "Pioppo nero",
-               "species" : "Populus nigra L.",
+               "taxon:it" : "Pioppo nero",
+               "taxon" : "Populus nigra",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 24,
                "ele" : 160,
                "circumference" : 4,
@@ -2196,13 +2322,13 @@
       "lon" : 13.236847222222222,
       "tags" : {
                "ref" : "27/l483/UD/06",
-               "genus:it" : "Cedro di Cipro",
-               "species" : "Cedrus brevifolia (Hook.f.) Elwes & A. Henry",
+               "taxon:it" : "Cedro di Cipro",
+               "taxon" : "Cedrus brevifolia",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 25,
                "ele" : 108,
                "circumference" : 3,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -2213,13 +2339,13 @@
       "lon" : 13.245849999999999,
       "tags" : {
                "ref" : "28/l483/UD/06",
-               "genus:it" : "Cipresso del Cashmere",
-               "species" : "Cupressus cashmeriana Royle ex Carrière",
+               "taxon:it" : "Cipresso del Cashmere",
+               "taxon" : "Cupressus cashmeriana",
+               "leaf_cycle" : "evergreen",
+               "leaf_type" : "needleleaved",
                "height" : 20,
                "ele" : 170,
                "circumference" : 3,
-               "leaf_type" : "needleleaved",
-               "leaf_cycle" : "evergreen",
                "natural" : "tree"
                }
     }
@@ -2230,13 +2356,13 @@
       "lon" : 12.98862222222222,
       "tags" : {
                "ref" : "01/L686/UD(06",
-               "genus:it" : "Farnia",
-               "species" : "Quercus robur L.",
+               "taxon:it" : "Farnia",
+               "taxon" : "Quercus robur",
+               "leaf_cycle" : "deciduous",
+               "leaf_type" : "broadleaved",
                "height" : 29,
                "ele" : 18,
                "circumference" : 5.8,
-               "leaf_type" : "broadleaved",
-               "leaf_cycle" : "deciduous and evergreen",
                "natural" : "tree"
                }
     }
